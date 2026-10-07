@@ -1,0 +1,2 @@
+#EEOC_Analytics
+I built a  DEI analytics pipeline that answers the question "How diverse are the Professional, Scientific, and Technical services workforces, and how much has that diversity changed over time?"
