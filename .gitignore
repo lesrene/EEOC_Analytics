@@ -1,3 +1,4 @@
 data/raw/
-data/*.db
+data/processed
 .DS_Store
+.vscode
