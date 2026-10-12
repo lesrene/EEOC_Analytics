@@ -3,6 +3,8 @@
 -- Purpose: Filter eeoc_data table so only rows with 
 --          NAICS Sector 54 (Professional,
 --          Scientific, and Technical Services) are included.
+--          Edit: Also filtered so that scoped_eeoc contains 
+--                only state-level rows.
 -- Input:   eeoc_data (combined yearly data)
 -- Output:  scoped_eeoc (eeoc_data but only NAICS Sector 54 rows)
 -- =========================================================
@@ -28,7 +30,10 @@ DROP TABLE IF EXISTS scoped_eeoc;
 CREATE TABLE scoped_eeoc AS
 SELECT *
 FROM eeoc_data
-WHERE NAICS2 = '54';
+WHERE NAICS2 = '54'
+  AND State IS NOT NULL
+  AND CBSA IS NULL
+  AND County IS NULL;
 
 
 -- confirms the filter did what was intended
