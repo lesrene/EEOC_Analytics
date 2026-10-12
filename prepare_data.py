@@ -79,7 +79,7 @@ def build_ref_table(demographic_cols):
 
             elif d['sex_first']:
                 demo_race = 'TOTAL'
-                demo_sex = 'Aggregate'
+                demo_sex = d['sex_first']
                 demo_job = d['job_sex']
 
             else:
