@@ -1,0 +1,205 @@
+"Year","Region","Division","State","non_white","total","non_white_ratio"
+2020,"Midwest","East North Central","Illinois",119212,378100,31.53
+2020,"Midwest","East North Central","Indiana",18792,88606,21.21
+2020,"Midwest","East North Central","Michigan",52012,202240,25.72
+2020,"Midwest","East North Central","Ohio",42590,221162,19.26
+2020,"Midwest","East North Central","Wisconsin",20062,116372,17.24
+2020,"Midwest","West North Central","Iowa",4014,27934,14.37
+2020,"Midwest","West North Central","Kansas",13940,58848,23.69
+2020,"Midwest","West North Central","Minnesota",26262,150922,17.4
+2020,"Midwest","West North Central","Missouri",37824,182536,20.72
+2020,"Midwest","West North Central","Nebraska",5168,30784,16.79
+2020,"Midwest","West North Central","North Dakota",644,7558,8.52
+2020,"Midwest","West North Central","South Dakota",352,5270,6.68
+2020,"Northeast","Middle Atlantic","New Jersey",119444,266810,44.77
+2020,"Northeast","Middle Atlantic","New York",245224,678636,36.13
+2020,"Northeast","Middle Atlantic","Pennsylvania",68856,300892,22.88
+2020,"Northeast","New England","Connecticut",23918,88510,27.02
+2020,"Northeast","New England","Maine",1870,18694,10
+2020,"Northeast","New England","Massachusetts",101848,372264,27.36
+2020,"Northeast","New England","New Hampshire",3950,28902,13.67
+2020,"Northeast","New England","Rhode Island",2822,13542,20.84
+2020,"Northeast","New England","Vermont",818,3804,21.5
+2020,"South","East South Central","Alabama",19452,96130,20.24
+2020,"South","East South Central","Kentucky",9140,45164,20.24
+2020,"South","East South Central","Mississippi",5938,12420,47.81
+2020,"South","East South Central","Tennessee",28770,126316,22.78
+2020,"South","South Atlantic","Delaware",5410,16058,33.69
+2020,"South","South Atlantic","District of Columbia",52038,130922,39.75
+2020,"South","South Atlantic","Florida",160236,379854,42.18
+2020,"South","South Atlantic","Georgia",118268,283208,41.76
+2020,"South","South Atlantic","Maryland",97036,264454,36.69
+2020,"South","South Atlantic","North Carolina",75340,236224,31.89
+2020,"South","South Atlantic","South Carolina",19000,62282,30.51
+2020,"South","South Atlantic","Virginia",246134,638522,38.55
+2020,"South","South Atlantic","West Virginia",1326,11250,11.79
+2020,"South","West South Central","Arkansas",5032,18314,27.48
+2020,"South","West South Central","Louisiana",13052,45336,28.79
+2020,"South","West South Central","Oklahoma",11092,38432,28.86
+2020,"South","West South Central","Texas",286216,622192,46
+2020,"West","Mountain","Arizona",52830,137248,38.49
+2020,"West","Mountain","Colorado",41336,186750,22.13
+2020,"West","Mountain","Idaho",3658,30790,11.88
+2020,"West","Mountain","Montana",578,6480,8.92
+2020,"West","Mountain","Nevada",20124,46600,43.18
+2020,"West","Mountain","New Mexico",29830,69348,43.01
+2020,"West","Mountain","Utah",22524,102172,22.05
+2020,"West","Mountain","Wyoming",108,1050,10.29
+2020,"West","Pacific","Alaska",1160,6270,18.5
+2020,"West","Pacific","California",635958,1246028,51.04
+2020,"West","Pacific","Hawaii",7954,12456,63.86
+2020,"West","Pacific","Oregon",12656,55346,22.87
+2020,"West","Pacific","Washington",63548,196750,32.3
+2021,"Midwest","East North Central","Illinois",143554,436112,32.92
+2021,"Midwest","East North Central","Indiana",22626,99618,22.71
+2021,"Midwest","East North Central","Michigan",61940,216036,28.67
+2021,"Midwest","East North Central","Ohio",62440,265932,23.48
+2021,"Midwest","East North Central","Wisconsin",23878,123334,19.36
+2021,"Midwest","West North Central","Iowa",5142,30142,17.06
+2021,"Midwest","West North Central","Kansas",14390,59910,24.02
+2021,"Midwest","West North Central","Minnesota",30698,158812,19.33
+2021,"Midwest","West North Central","Missouri",44686,196096,22.79
+2021,"Midwest","West North Central","Nebraska",5760,31498,18.29
+2021,"Midwest","West North Central","North Dakota",964,7816,12.33
+2021,"Midwest","West North Central","South Dakota",422,6232,6.77
+2021,"Northeast","Middle Atlantic","New Jersey",154778,319668,48.42
+2021,"Northeast","Middle Atlantic","New York",272536,743012,36.68
+2021,"Northeast","Middle Atlantic","Pennsylvania",86386,346376,24.94
+2021,"Northeast","New England","Connecticut",27558,100672,27.37
+2021,"Northeast","New England","Maine",1338,13598,9.84
+2021,"Northeast","New England","Massachusetts",112972,397512,28.42
+2021,"Northeast","New England","New Hampshire",4932,29794,16.55
+2021,"Northeast","New England","Rhode Island",4126,16258,25.38
+2021,"Northeast","New England","Vermont",966,5092,18.97
+2021,"South","East South Central","Alabama",20460,99600,20.54
+2021,"South","East South Central","Kentucky",12412,54240,22.88
+2021,"South","East South Central","Mississippi",7430,15458,48.07
+2021,"South","East South Central","Tennessee",32580,132504,24.59
+2021,"South","South Atlantic","Delaware",5986,17442,34.32
+2021,"South","South Atlantic","District of Columbia",53094,134560,39.46
+2021,"South","South Atlantic","Florida",184914,432780,42.73
+2021,"South","South Atlantic","Georgia",138026,314508,43.89
+2021,"South","South Atlantic","Maryland",111514,298820,37.32
+2021,"South","South Atlantic","North Carolina",94584,284898,33.2
+2021,"South","South Atlantic","South Carolina",21422,68132,31.44
+2021,"South","South Atlantic","Virginia",276118,691472,39.93
+2021,"South","South Atlantic","West Virginia",1276,10380,12.29
+2021,"South","West South Central","Arkansas",7332,24688,29.7
+2021,"South","West South Central","Louisiana",14926,51264,29.12
+2021,"South","West South Central","Oklahoma",12076,40518,29.8
+2021,"South","West South Central","Texas",345768,734922,47.05
+2021,"West","Mountain","Arizona",60918,156386,38.95
+2021,"West","Mountain","Colorado",47182,200022,23.59
+2021,"West","Mountain","Idaho",4334,30196,14.35
+2021,"West","Mountain","Montana",546,6332,8.62
+2021,"West","Mountain","Nevada",24342,53584,45.43
+2021,"West","Mountain","New Mexico",30652,70404,43.54
+2021,"West","Mountain","Utah",34128,131194,26.01
+2021,"West","Mountain","Wyoming",82,924,8.87
+2021,"West","Pacific","Alaska",1272,7362,17.28
+2021,"West","Pacific","California",724564,1444568,50.16
+2021,"West","Pacific","Hawaii",9954,15556,63.99
+2021,"West","Pacific","Oregon",14490,58256,24.87
+2021,"West","Pacific","Washington",74574,217438,34.3
+2022,"Midwest","East North Central","Illinois",170544,517558,32.95
+2022,"Midwest","East North Central","Indiana",27840,122274,22.77
+2022,"Midwest","East North Central","Michigan",67488,247484,27.27
+2022,"Midwest","East North Central","Ohio",76168,330012,23.08
+2022,"Midwest","East North Central","Wisconsin",31702,157812,20.09
+2022,"Midwest","West North Central","Iowa",6460,42982,15.03
+2022,"Midwest","West North Central","Kansas",16876,72706,23.21
+2022,"Midwest","West North Central","Minnesota",48726,233046,20.91
+2022,"Midwest","West North Central","Missouri",50870,224716,22.64
+2022,"Midwest","West North Central","Nebraska",8522,43318,19.67
+2022,"Midwest","West North Central","North Dakota",968,11414,8.48
+2022,"Midwest","West North Central","South Dakota",1416,11116,12.74
+2022,"Northeast","Middle Atlantic","New Jersey",177932,377520,47.13
+2022,"Northeast","Middle Atlantic","New York",341912,912892,37.45
+2022,"Northeast","Middle Atlantic","Pennsylvania",108744,422530,25.74
+2022,"Northeast","New England","Connecticut",35656,124808,28.57
+2022,"Northeast","New England","Maine",2398,24476,9.8
+2022,"Northeast","New England","Massachusetts",135060,465462,29.02
+2022,"Northeast","New England","New Hampshire",4810,34396,13.98
+2022,"Northeast","New England","Rhode Island",5072,21372,23.73
+2022,"Northeast","New England","Vermont",1708,8892,19.21
+2022,"South","East South Central","Alabama",25830,123408,20.93
+2022,"South","East South Central","Kentucky",14536,69242,20.99
+2022,"South","East South Central","Mississippi",7386,20052,36.83
+2022,"South","East South Central","Tennessee",47790,189154,25.27
+2022,"South","South Atlantic","Delaware",6442,20816,30.95
+2022,"South","South Atlantic","District of Columbia",73204,175284,41.76
+2022,"South","South Atlantic","Florida",245688,592094,41.49
+2022,"South","South Atlantic","Georgia",161068,369966,43.54
+2022,"South","South Atlantic","Maryland",129774,344120,37.71
+2022,"South","South Atlantic","North Carolina",117726,372534,31.6
+2022,"South","South Atlantic","South Carolina",23160,83920,27.6
+2022,"South","South Atlantic","Virginia",328300,812046,40.43
+2022,"South","South Atlantic","West Virginia",1806,17532,10.3
+2022,"South","West South Central","Arkansas",9776,35110,27.84
+2022,"South","West South Central","Louisiana",19672,70568,27.88
+2022,"South","West South Central","Oklahoma",18600,62552,29.74
+2022,"South","West South Central","Texas",440882,927682,47.53
+2022,"West","Mountain","Arizona",81586,202214,40.35
+2022,"West","Mountain","Colorado",63538,271278,23.42
+2022,"West","Mountain","Idaho",5256,36736,14.31
+2022,"West","Mountain","Montana",1580,13844,11.41
+2022,"West","Mountain","Nevada",36510,82742,44.13
+2022,"West","Mountain","New Mexico",39272,87242,45.02
+2022,"West","Mountain","Utah",34552,150026,23.03
+2022,"West","Mountain","Wyoming",934,4716,19.8
+2022,"West","Pacific","Alaska",3198,14096,22.69
+2022,"West","Pacific","California",890224,1740852,51.14
+2022,"West","Pacific","Hawaii",15688,23748,66.06
+2022,"West","Pacific","Oregon",19000,78046,24.34
+2022,"West","Pacific","Washington",94856,272076,34.86
+2023,"Midwest","East North Central","Illinois",176056,523064,33.66
+2023,"Midwest","East North Central","Indiana",32736,132424,24.72
+2023,"Midwest","East North Central","Michigan",73538,264488,27.8
+2023,"Midwest","East North Central","Ohio",81036,346804,23.37
+2023,"Midwest","East North Central","Wisconsin",28010,145788,19.21
+2023,"Midwest","West North Central","Iowa",5764,40842,14.11
+2023,"Midwest","West North Central","Kansas",18384,78344,23.47
+2023,"Midwest","West North Central","Minnesota",45126,216416,20.85
+2023,"Midwest","West North Central","Missouri",53626,234036,22.91
+2023,"Midwest","West North Central","Nebraska",9366,45770,20.46
+2023,"Midwest","West North Central","North Dakota",940,11516,8.16
+2023,"Midwest","West North Central","South Dakota",1730,11496,15.05
+2023,"Northeast","Middle Atlantic","New Jersey",178076,384246,46.34
+2023,"Northeast","Middle Atlantic","New York",355194,931182,38.14
+2023,"Northeast","Middle Atlantic","Pennsylvania",107558,422000,25.49
+2023,"Northeast","New England","Connecticut",34086,119568,28.51
+2023,"Northeast","New England","Maine",2108,23032,9.15
+2023,"Northeast","New England","Massachusetts",143874,478748,30.05
+2023,"Northeast","New England","New Hampshire",6064,41054,14.77
+2023,"Northeast","New England","Rhode Island",5736,23738,24.16
+2023,"Northeast","New England","Vermont",1296,8658,14.97
+2023,"South","East South Central","Alabama",29142,132104,22.06
+2023,"South","East South Central","Kentucky",13428,66764,20.11
+2023,"South","East South Central","Mississippi",6750,20636,32.71
+2023,"South","East South Central","Tennessee",65282,222246,29.37
+2023,"South","South Atlantic","Delaware",6952,21172,32.84
+2023,"South","South Atlantic","District of Columbia",75002,179886,41.69
+2023,"South","South Atlantic","Florida",252822,610752,41.4
+2023,"South","South Atlantic","Georgia",154238,354736,43.48
+2023,"South","South Atlantic","Maryland",136442,358884,38.02
+2023,"South","South Atlantic","North Carolina",116864,371594,31.45
+2023,"South","South Atlantic","South Carolina",26606,91252,29.16
+2023,"South","South Atlantic","Virginia",329572,815808,40.4
+2023,"South","South Atlantic","West Virginia",1734,17388,9.97
+2023,"South","West South Central","Arkansas",11110,41872,26.53
+2023,"South","West South Central","Louisiana",17956,68730,26.13
+2023,"South","West South Central","Oklahoma",18708,64166,29.16
+2023,"South","West South Central","Texas",465108,971530,47.87
+2023,"West","Mountain","Arizona",81982,199722,41.05
+2023,"West","Mountain","Colorado",67156,276280,24.31
+2023,"West","Mountain","Idaho",5536,38206,14.49
+2023,"West","Mountain","Montana",1494,14628,10.21
+2023,"West","Mountain","Nevada",40856,94242,43.35
+2023,"West","Mountain","New Mexico",43166,93436,46.2
+2023,"West","Mountain","Utah",32018,140038,22.86
+2023,"West","Mountain","Wyoming",822,5512,14.91
+2023,"West","Pacific","Alaska",3358,14754,22.76
+2023,"West","Pacific","California",839880,1621070,51.81
+2023,"West","Pacific","Hawaii",16728,25580,65.39
+2023,"West","Pacific","Oregon",20798,82130,25.32
+2023,"West","Pacific","Washington",92302,260440,35.44

@@ -40,6 +40,10 @@ WHERE NAICS2 = '54'
 
 SELECT
     (SELECT COUNT(*) FROM eeoc_data) AS raw_rows,
-    (SELECT COUNT(*) FROM eeoc_data WHERE NAICS2 = '54') AS expected_scoped,
+    (SELECT COUNT(*) FROM eeoc_data
+       WHERE NAICS2 = '54'
+         AND State IS NOT NULL
+         AND CBSA IS NULL
+         AND County IS NULL) AS expected_scoped,
     (SELECT COUNT(*) FROM scoped_eeoc) AS actual_scoped;
 

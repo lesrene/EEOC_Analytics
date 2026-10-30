@@ -1,0 +1,4285 @@
+"Year","State","job_level","race","Employees"
+2020,"Alabama","Executive","AmericanIndian",0
+2020,"Alabama","Executive","Asian",0
+2020,"Alabama","Executive","Black",82
+2020,"Alabama","Executive","Hispanic",0
+2020,"Alabama","Executive","Multiracial",0
+2020,"Alabama","Executive","PacificIslander",0
+2020,"Alabama","Executive","White",2590
+2020,"Alaska","Executive","AmericanIndian",10
+2020,"Alaska","Executive","Asian",0
+2020,"Alaska","Executive","Black",0
+2020,"Alaska","Executive","Hispanic",0
+2020,"Alaska","Executive","Multiracial",0
+2020,"Alaska","Executive","PacificIslander",0
+2020,"Alaska","Executive","White",152
+2020,"Arizona","Executive","AmericanIndian",0
+2020,"Arizona","Executive","Asian",0
+2020,"Arizona","Executive","Black",0
+2020,"Arizona","Executive","Hispanic",0
+2020,"Arizona","Executive","Multiracial",0
+2020,"Arizona","Executive","PacificIslander",0
+2020,"Arizona","Executive","White",2684
+2020,"Arkansas","Executive","AmericanIndian",0
+2020,"Arkansas","Executive","Asian",0
+2020,"Arkansas","Executive","Black",0
+2020,"Arkansas","Executive","Hispanic",0
+2020,"Arkansas","Executive","Multiracial",0
+2020,"Arkansas","Executive","PacificIslander",0
+2020,"Arkansas","Executive","White",478
+2020,"California","Executive","AmericanIndian",78
+2020,"California","Executive","Asian",9772
+2020,"California","Executive","Black",858
+2020,"California","Executive","Hispanic",2268
+2020,"California","Executive","Multiracial",976
+2020,"California","Executive","PacificIslander",170
+2020,"California","Executive","White",31166
+2020,"Colorado","Executive","AmericanIndian",0
+2020,"Colorado","Executive","Asian",238
+2020,"Colorado","Executive","Black",64
+2020,"Colorado","Executive","Hispanic",192
+2020,"Colorado","Executive","Multiracial",102
+2020,"Colorado","Executive","PacificIslander",0
+2020,"Colorado","Executive","White",5534
+2020,"Connecticut","Executive","AmericanIndian",6
+2020,"Connecticut","Executive","Asian",446
+2020,"Connecticut","Executive","Black",84
+2020,"Connecticut","Executive","Hispanic",122
+2020,"Connecticut","Executive","Multiracial",0
+2020,"Connecticut","Executive","PacificIslander",0
+2020,"Connecticut","Executive","White",3848
+2020,"Delaware","Executive","AmericanIndian",0
+2020,"Delaware","Executive","Asian",0
+2020,"Delaware","Executive","Black",0
+2020,"Delaware","Executive","Hispanic",0
+2020,"Delaware","Executive","Multiracial",0
+2020,"Delaware","Executive","PacificIslander",0
+2020,"Delaware","Executive","White",304
+2020,"District of Columbia","Executive","AmericanIndian",0
+2020,"District of Columbia","Executive","Asian",0
+2020,"District of Columbia","Executive","Black",0
+2020,"District of Columbia","Executive","Hispanic",274
+2020,"District of Columbia","Executive","Multiracial",0
+2020,"District of Columbia","Executive","PacificIslander",0
+2020,"District of Columbia","Executive","White",0
+2020,"Florida","Executive","AmericanIndian",0
+2020,"Florida","Executive","Asian",570
+2020,"Florida","Executive","Black",268
+2020,"Florida","Executive","Hispanic",1182
+2020,"Florida","Executive","Multiracial",152
+2020,"Florida","Executive","PacificIslander",0
+2020,"Florida","Executive","White",8264
+2020,"Georgia","Executive","AmericanIndian",0
+2020,"Georgia","Executive","Asian",1122
+2020,"Georgia","Executive","Black",560
+2020,"Georgia","Executive","Hispanic",258
+2020,"Georgia","Executive","Multiracial",124
+2020,"Georgia","Executive","PacificIslander",0
+2020,"Georgia","Executive","White",7930
+2020,"Hawaii","Executive","AmericanIndian",0
+2020,"Hawaii","Executive","Asian",222
+2020,"Hawaii","Executive","Black",0
+2020,"Hawaii","Executive","Hispanic",0
+2020,"Hawaii","Executive","Multiracial",0
+2020,"Hawaii","Executive","PacificIslander",8
+2020,"Hawaii","Executive","White",148
+2020,"Idaho","Executive","AmericanIndian",0
+2020,"Idaho","Executive","Asian",6
+2020,"Idaho","Executive","Black",0
+2020,"Idaho","Executive","Hispanic",10
+2020,"Idaho","Executive","Multiracial",0
+2020,"Idaho","Executive","PacificIslander",0
+2020,"Idaho","Executive","White",312
+2020,"Illinois","Executive","AmericanIndian",0
+2020,"Illinois","Executive","Asian",2014
+2020,"Illinois","Executive","Black",396
+2020,"Illinois","Executive","Hispanic",508
+2020,"Illinois","Executive","Multiracial",150
+2020,"Illinois","Executive","PacificIslander",0
+2020,"Illinois","Executive","White",16270
+2020,"Indiana","Executive","AmericanIndian",0
+2020,"Indiana","Executive","Asian",84
+2020,"Indiana","Executive","Black",62
+2020,"Indiana","Executive","Hispanic",54
+2020,"Indiana","Executive","Multiracial",0
+2020,"Indiana","Executive","PacificIslander",0
+2020,"Indiana","Executive","White",2530
+2020,"Iowa","Executive","AmericanIndian",0
+2020,"Iowa","Executive","Asian",32
+2020,"Iowa","Executive","Black",0
+2020,"Iowa","Executive","Hispanic",0
+2020,"Iowa","Executive","Multiracial",0
+2020,"Iowa","Executive","PacificIslander",0
+2020,"Iowa","Executive","White",896
+2020,"Kansas","Executive","AmericanIndian",0
+2020,"Kansas","Executive","Asian",44
+2020,"Kansas","Executive","Black",16
+2020,"Kansas","Executive","Hispanic",40
+2020,"Kansas","Executive","Multiracial",14
+2020,"Kansas","Executive","PacificIslander",0
+2020,"Kansas","Executive","White",1482
+2020,"Kentucky","Executive","AmericanIndian",0
+2020,"Kentucky","Executive","Asian",0
+2020,"Kentucky","Executive","Black",18
+2020,"Kentucky","Executive","Hispanic",0
+2020,"Kentucky","Executive","Multiracial",0
+2020,"Kentucky","Executive","PacificIslander",0
+2020,"Kentucky","Executive","White",1174
+2020,"Louisiana","Executive","AmericanIndian",0
+2020,"Louisiana","Executive","Asian",0
+2020,"Louisiana","Executive","Black",0
+2020,"Louisiana","Executive","Hispanic",12
+2020,"Louisiana","Executive","Multiracial",10
+2020,"Louisiana","Executive","PacificIslander",0
+2020,"Louisiana","Executive","White",1254
+2020,"Maine","Executive","AmericanIndian",0
+2020,"Maine","Executive","Asian",28
+2020,"Maine","Executive","Black",0
+2020,"Maine","Executive","Hispanic",20
+2020,"Maine","Executive","Multiracial",0
+2020,"Maine","Executive","PacificIslander",0
+2020,"Maine","Executive","White",844
+2020,"Maryland","Executive","AmericanIndian",0
+2020,"Maryland","Executive","Asian",796
+2020,"Maryland","Executive","Black",586
+2020,"Maryland","Executive","Hispanic",248
+2020,"Maryland","Executive","Multiracial",102
+2020,"Maryland","Executive","PacificIslander",0
+2020,"Maryland","Executive","White",6546
+2020,"Massachusetts","Executive","AmericanIndian",0
+2020,"Massachusetts","Executive","Asian",1684
+2020,"Massachusetts","Executive","Black",218
+2020,"Massachusetts","Executive","Hispanic",430
+2020,"Massachusetts","Executive","Multiracial",0
+2020,"Massachusetts","Executive","PacificIslander",0
+2020,"Massachusetts","Executive","White",14374
+2020,"Michigan","Executive","AmericanIndian",0
+2020,"Michigan","Executive","Asian",516
+2020,"Michigan","Executive","Black",350
+2020,"Michigan","Executive","Hispanic",146
+2020,"Michigan","Executive","Multiracial",36
+2020,"Michigan","Executive","PacificIslander",0
+2020,"Michigan","Executive","White",6630
+2020,"Minnesota","Executive","AmericanIndian",0
+2020,"Minnesota","Executive","Asian",256
+2020,"Minnesota","Executive","Black",72
+2020,"Minnesota","Executive","Hispanic",94
+2020,"Minnesota","Executive","Multiracial",60
+2020,"Minnesota","Executive","PacificIslander",0
+2020,"Minnesota","Executive","White",5024
+2020,"Mississippi","Executive","AmericanIndian",0
+2020,"Mississippi","Executive","Asian",6
+2020,"Mississippi","Executive","Black",18
+2020,"Mississippi","Executive","Hispanic",0
+2020,"Mississippi","Executive","Multiracial",6
+2020,"Mississippi","Executive","PacificIslander",0
+2020,"Mississippi","Executive","White",284
+2020,"Missouri","Executive","AmericanIndian",0
+2020,"Missouri","Executive","Asian",140
+2020,"Missouri","Executive","Black",102
+2020,"Missouri","Executive","Hispanic",94
+2020,"Missouri","Executive","Multiracial",46
+2020,"Missouri","Executive","PacificIslander",0
+2020,"Missouri","Executive","White",5000
+2020,"Montana","Executive","AmericanIndian",0
+2020,"Montana","Executive","Asian",0
+2020,"Montana","Executive","Black",0
+2020,"Montana","Executive","Hispanic",0
+2020,"Montana","Executive","Multiracial",0
+2020,"Montana","Executive","PacificIslander",0
+2020,"Montana","Executive","White",214
+2020,"Nebraska","Executive","AmericanIndian",0
+2020,"Nebraska","Executive","Asian",0
+2020,"Nebraska","Executive","Black",0
+2020,"Nebraska","Executive","Hispanic",0
+2020,"Nebraska","Executive","Multiracial",0
+2020,"Nebraska","Executive","PacificIslander",0
+2020,"Nebraska","Executive","White",1012
+2020,"Nevada","Executive","AmericanIndian",0
+2020,"Nevada","Executive","Asian",56
+2020,"Nevada","Executive","Black",26
+2020,"Nevada","Executive","Hispanic",48
+2020,"Nevada","Executive","Multiracial",20
+2020,"Nevada","Executive","PacificIslander",0
+2020,"Nevada","Executive","White",620
+2020,"New Hampshire","Executive","AmericanIndian",0
+2020,"New Hampshire","Executive","Asian",14
+2020,"New Hampshire","Executive","Black",0
+2020,"New Hampshire","Executive","Hispanic",26
+2020,"New Hampshire","Executive","Multiracial",6
+2020,"New Hampshire","Executive","PacificIslander",0
+2020,"New Hampshire","Executive","White",770
+2020,"New Jersey","Executive","AmericanIndian",0
+2020,"New Jersey","Executive","Asian",2942
+2020,"New Jersey","Executive","Black",498
+2020,"New Jersey","Executive","Hispanic",464
+2020,"New Jersey","Executive","Multiracial",94
+2020,"New Jersey","Executive","PacificIslander",0
+2020,"New Jersey","Executive","White",9100
+2020,"New Mexico","Executive","AmericanIndian",0
+2020,"New Mexico","Executive","Asian",0
+2020,"New Mexico","Executive","Black",6
+2020,"New Mexico","Executive","Hispanic",90
+2020,"New Mexico","Executive","Multiracial",18
+2020,"New Mexico","Executive","PacificIslander",0
+2020,"New Mexico","Executive","White",418
+2020,"New York","Executive","AmericanIndian",22
+2020,"New York","Executive","Asian",5160
+2020,"New York","Executive","Black",1074
+2020,"New York","Executive","Hispanic",1552
+2020,"New York","Executive","Multiracial",474
+2020,"New York","Executive","PacificIslander",34
+2020,"New York","Executive","White",29096
+2020,"North Carolina","Executive","AmericanIndian",0
+2020,"North Carolina","Executive","Asian",628
+2020,"North Carolina","Executive","Black",158
+2020,"North Carolina","Executive","Hispanic",170
+2020,"North Carolina","Executive","Multiracial",62
+2020,"North Carolina","Executive","PacificIslander",0
+2020,"North Carolina","Executive","White",6010
+2020,"North Dakota","Executive","AmericanIndian",0
+2020,"North Dakota","Executive","Asian",6
+2020,"North Dakota","Executive","Black",0
+2020,"North Dakota","Executive","Hispanic",0
+2020,"North Dakota","Executive","Multiracial",0
+2020,"North Dakota","Executive","PacificIslander",0
+2020,"North Dakota","Executive","White",0
+2020,"Ohio","Executive","AmericanIndian",0
+2020,"Ohio","Executive","Asian",418
+2020,"Ohio","Executive","Black",128
+2020,"Ohio","Executive","Hispanic",140
+2020,"Ohio","Executive","Multiracial",50
+2020,"Ohio","Executive","PacificIslander",0
+2020,"Ohio","Executive","White",7208
+2020,"Oklahoma","Executive","AmericanIndian",0
+2020,"Oklahoma","Executive","Asian",30
+2020,"Oklahoma","Executive","Black",0
+2020,"Oklahoma","Executive","Hispanic",0
+2020,"Oklahoma","Executive","Multiracial",0
+2020,"Oklahoma","Executive","PacificIslander",0
+2020,"Oklahoma","Executive","White",806
+2020,"Oregon","Executive","AmericanIndian",0
+2020,"Oregon","Executive","Asian",0
+2020,"Oregon","Executive","Black",0
+2020,"Oregon","Executive","Hispanic",0
+2020,"Oregon","Executive","Multiracial",52
+2020,"Oregon","Executive","PacificIslander",0
+2020,"Oregon","Executive","White",2008
+2020,"Pennsylvania","Executive","AmericanIndian",0
+2020,"Pennsylvania","Executive","Asian",772
+2020,"Pennsylvania","Executive","Black",236
+2020,"Pennsylvania","Executive","Hispanic",210
+2020,"Pennsylvania","Executive","Multiracial",64
+2020,"Pennsylvania","Executive","PacificIslander",0
+2020,"Pennsylvania","Executive","White",10092
+2020,"Rhode Island","Executive","AmericanIndian",0
+2020,"Rhode Island","Executive","Asian",18
+2020,"Rhode Island","Executive","Black",0
+2020,"Rhode Island","Executive","Hispanic",0
+2020,"Rhode Island","Executive","Multiracial",0
+2020,"Rhode Island","Executive","PacificIslander",0
+2020,"Rhode Island","Executive","White",382
+2020,"South Carolina","Executive","AmericanIndian",0
+2020,"South Carolina","Executive","Asian",62
+2020,"South Carolina","Executive","Black",0
+2020,"South Carolina","Executive","Hispanic",38
+2020,"South Carolina","Executive","Multiracial",8
+2020,"South Carolina","Executive","PacificIslander",0
+2020,"South Carolina","Executive","White",0
+2020,"South Dakota","Executive","AmericanIndian",0
+2020,"South Dakota","Executive","Asian",0
+2020,"South Dakota","Executive","Black",0
+2020,"South Dakota","Executive","Hispanic",0
+2020,"South Dakota","Executive","Multiracial",0
+2020,"South Dakota","Executive","PacificIslander",0
+2020,"South Dakota","Executive","White",0
+2020,"Tennessee","Executive","AmericanIndian",0
+2020,"Tennessee","Executive","Asian",232
+2020,"Tennessee","Executive","Black",110
+2020,"Tennessee","Executive","Hispanic",66
+2020,"Tennessee","Executive","Multiracial",26
+2020,"Tennessee","Executive","PacificIslander",0
+2020,"Tennessee","Executive","White",3594
+2020,"Texas","Executive","AmericanIndian",0
+2020,"Texas","Executive","Asian",2584
+2020,"Texas","Executive","Black",562
+2020,"Texas","Executive","Hispanic",1272
+2020,"Texas","Executive","Multiracial",278
+2020,"Texas","Executive","PacificIslander",0
+2020,"Texas","Executive","White",16280
+2020,"Utah","Executive","AmericanIndian",0
+2020,"Utah","Executive","Asian",94
+2020,"Utah","Executive","Black",18
+2020,"Utah","Executive","Hispanic",86
+2020,"Utah","Executive","Multiracial",44
+2020,"Utah","Executive","PacificIslander",0
+2020,"Utah","Executive","White",2578
+2020,"Vermont","Executive","AmericanIndian",0
+2020,"Vermont","Executive","Asian",6
+2020,"Vermont","Executive","Black",0
+2020,"Vermont","Executive","Hispanic",0
+2020,"Vermont","Executive","Multiracial",0
+2020,"Vermont","Executive","PacificIslander",0
+2020,"Vermont","Executive","White",132
+2020,"Virginia","Executive","AmericanIndian",0
+2020,"Virginia","Executive","Asian",2198
+2020,"Virginia","Executive","Black",1018
+2020,"Virginia","Executive","Hispanic",686
+2020,"Virginia","Executive","Multiracial",312
+2020,"Virginia","Executive","PacificIslander",0
+2020,"Virginia","Executive","White",16740
+2020,"Washington","Executive","AmericanIndian",16
+2020,"Washington","Executive","Asian",866
+2020,"Washington","Executive","Black",84
+2020,"Washington","Executive","Hispanic",180
+2020,"Washington","Executive","Multiracial",148
+2020,"Washington","Executive","PacificIslander",18
+2020,"Washington","Executive","White",5392
+2020,"West Virginia","Executive","AmericanIndian",0
+2020,"West Virginia","Executive","Asian",0
+2020,"West Virginia","Executive","Black",0
+2020,"West Virginia","Executive","Hispanic",0
+2020,"West Virginia","Executive","Multiracial",0
+2020,"West Virginia","Executive","PacificIslander",0
+2020,"West Virginia","Executive","White",242
+2020,"Wisconsin","Executive","AmericanIndian",0
+2020,"Wisconsin","Executive","Asian",96
+2020,"Wisconsin","Executive","Black",28
+2020,"Wisconsin","Executive","Hispanic",116
+2020,"Wisconsin","Executive","Multiracial",0
+2020,"Wisconsin","Executive","PacificIslander",0
+2020,"Wisconsin","Executive","White",3040
+2020,"Wyoming","Executive","AmericanIndian",0
+2020,"Wyoming","Executive","Asian",0
+2020,"Wyoming","Executive","Black",0
+2020,"Wyoming","Executive","Hispanic",0
+2020,"Wyoming","Executive","Multiracial",0
+2020,"Wyoming","Executive","PacificIslander",0
+2020,"Wyoming","Executive","White",24
+2021,"Alabama","Executive","AmericanIndian",0
+2021,"Alabama","Executive","Asian",0
+2021,"Alabama","Executive","Black",118
+2021,"Alabama","Executive","Hispanic",58
+2021,"Alabama","Executive","Multiracial",0
+2021,"Alabama","Executive","PacificIslander",0
+2021,"Alabama","Executive","White",2844
+2021,"Alaska","Executive","AmericanIndian",8
+2021,"Alaska","Executive","Asian",0
+2021,"Alaska","Executive","Black",0
+2021,"Alaska","Executive","Hispanic",0
+2021,"Alaska","Executive","Multiracial",0
+2021,"Alaska","Executive","PacificIslander",0
+2021,"Alaska","Executive","White",192
+2021,"Arizona","Executive","AmericanIndian",8
+2021,"Arizona","Executive","Asian",258
+2021,"Arizona","Executive","Black",50
+2021,"Arizona","Executive","Hispanic",236
+2021,"Arizona","Executive","Multiracial",76
+2021,"Arizona","Executive","PacificIslander",10
+2021,"Arizona","Executive","White",2882
+2021,"Arkansas","Executive","AmericanIndian",0
+2021,"Arkansas","Executive","Asian",22
+2021,"Arkansas","Executive","Black",8
+2021,"Arkansas","Executive","Hispanic",10
+2021,"Arkansas","Executive","Multiracial",0
+2021,"Arkansas","Executive","PacificIslander",0
+2021,"Arkansas","Executive","White",574
+2021,"California","Executive","AmericanIndian",86
+2021,"California","Executive","Asian",12344
+2021,"California","Executive","Black",1140
+2021,"California","Executive","Hispanic",2654
+2021,"California","Executive","Multiracial",1242
+2021,"California","Executive","PacificIslander",198
+2021,"California","Executive","White",35326
+2021,"Colorado","Executive","AmericanIndian",0
+2021,"Colorado","Executive","Asian",308
+2021,"Colorado","Executive","Black",70
+2021,"Colorado","Executive","Hispanic",228
+2021,"Colorado","Executive","Multiracial",102
+2021,"Colorado","Executive","PacificIslander",0
+2021,"Colorado","Executive","White",6040
+2021,"Connecticut","Executive","AmericanIndian",0
+2021,"Connecticut","Executive","Asian",0
+2021,"Connecticut","Executive","Black",108
+2021,"Connecticut","Executive","Hispanic",146
+2021,"Connecticut","Executive","Multiracial",82
+2021,"Connecticut","Executive","PacificIslander",0
+2021,"Connecticut","Executive","White",4392
+2021,"Delaware","Executive","AmericanIndian",0
+2021,"Delaware","Executive","Asian",0
+2021,"Delaware","Executive","Black",0
+2021,"Delaware","Executive","Hispanic",0
+2021,"Delaware","Executive","Multiracial",0
+2021,"Delaware","Executive","PacificIslander",0
+2021,"Delaware","Executive","White",480
+2021,"District of Columbia","Executive","AmericanIndian",0
+2021,"District of Columbia","Executive","Asian",0
+2021,"District of Columbia","Executive","Black",582
+2021,"District of Columbia","Executive","Hispanic",310
+2021,"District of Columbia","Executive","Multiracial",142
+2021,"District of Columbia","Executive","PacificIslander",6
+2021,"District of Columbia","Executive","White",6030
+2021,"Florida","Executive","AmericanIndian",32
+2021,"Florida","Executive","Asian",752
+2021,"Florida","Executive","Black",400
+2021,"Florida","Executive","Hispanic",1410
+2021,"Florida","Executive","Multiracial",190
+2021,"Florida","Executive","PacificIslander",26
+2021,"Florida","Executive","White",9264
+2021,"Georgia","Executive","AmericanIndian",16
+2021,"Georgia","Executive","Asian",1386
+2021,"Georgia","Executive","Black",754
+2021,"Georgia","Executive","Hispanic",362
+2021,"Georgia","Executive","Multiracial",114
+2021,"Georgia","Executive","PacificIslander",6
+2021,"Georgia","Executive","White",8622
+2021,"Hawaii","Executive","AmericanIndian",0
+2021,"Hawaii","Executive","Asian",238
+2021,"Hawaii","Executive","Black",0
+2021,"Hawaii","Executive","Hispanic",0
+2021,"Hawaii","Executive","Multiracial",0
+2021,"Hawaii","Executive","PacificIslander",0
+2021,"Hawaii","Executive","White",186
+2021,"Idaho","Executive","AmericanIndian",0
+2021,"Idaho","Executive","Asian",14
+2021,"Idaho","Executive","Black",0
+2021,"Idaho","Executive","Hispanic",0
+2021,"Idaho","Executive","Multiracial",8
+2021,"Idaho","Executive","PacificIslander",0
+2021,"Idaho","Executive","White",326
+2021,"Illinois","Executive","AmericanIndian",0
+2021,"Illinois","Executive","Asian",2318
+2021,"Illinois","Executive","Black",462
+2021,"Illinois","Executive","Hispanic",562
+2021,"Illinois","Executive","Multiracial",198
+2021,"Illinois","Executive","PacificIslander",0
+2021,"Illinois","Executive","White",17446
+2021,"Indiana","Executive","AmericanIndian",0
+2021,"Indiana","Executive","Asian",124
+2021,"Indiana","Executive","Black",78
+2021,"Indiana","Executive","Hispanic",46
+2021,"Indiana","Executive","Multiracial",0
+2021,"Indiana","Executive","PacificIslander",0
+2021,"Indiana","Executive","White",3236
+2021,"Iowa","Executive","AmericanIndian",0
+2021,"Iowa","Executive","Asian",42
+2021,"Iowa","Executive","Black",0
+2021,"Iowa","Executive","Hispanic",0
+2021,"Iowa","Executive","Multiracial",0
+2021,"Iowa","Executive","PacificIslander",0
+2021,"Iowa","Executive","White",850
+2021,"Kansas","Executive","AmericanIndian",0
+2021,"Kansas","Executive","Asian",0
+2021,"Kansas","Executive","Black",28
+2021,"Kansas","Executive","Hispanic",106
+2021,"Kansas","Executive","Multiracial",0
+2021,"Kansas","Executive","PacificIslander",0
+2021,"Kansas","Executive","White",1726
+2021,"Kentucky","Executive","AmericanIndian",0
+2021,"Kentucky","Executive","Asian",0
+2021,"Kentucky","Executive","Black",0
+2021,"Kentucky","Executive","Hispanic",0
+2021,"Kentucky","Executive","Multiracial",10
+2021,"Kentucky","Executive","PacificIslander",0
+2021,"Kentucky","Executive","White",1256
+2021,"Louisiana","Executive","AmericanIndian",0
+2021,"Louisiana","Executive","Asian",0
+2021,"Louisiana","Executive","Black",38
+2021,"Louisiana","Executive","Hispanic",18
+2021,"Louisiana","Executive","Multiracial",0
+2021,"Louisiana","Executive","PacificIslander",0
+2021,"Louisiana","Executive","White",1512
+2021,"Maine","Executive","AmericanIndian",0
+2021,"Maine","Executive","Asian",20
+2021,"Maine","Executive","Black",0
+2021,"Maine","Executive","Hispanic",20
+2021,"Maine","Executive","Multiracial",8
+2021,"Maine","Executive","PacificIslander",0
+2021,"Maine","Executive","White",0
+2021,"Maryland","Executive","AmericanIndian",0
+2021,"Maryland","Executive","Asian",854
+2021,"Maryland","Executive","Black",678
+2021,"Maryland","Executive","Hispanic",308
+2021,"Maryland","Executive","Multiracial",120
+2021,"Maryland","Executive","PacificIslander",0
+2021,"Maryland","Executive","White",7308
+2021,"Massachusetts","Executive","AmericanIndian",24
+2021,"Massachusetts","Executive","Asian",2044
+2021,"Massachusetts","Executive","Black",296
+2021,"Massachusetts","Executive","Hispanic",488
+2021,"Massachusetts","Executive","Multiracial",250
+2021,"Massachusetts","Executive","PacificIslander",14
+2021,"Massachusetts","Executive","White",15712
+2021,"Michigan","Executive","AmericanIndian",0
+2021,"Michigan","Executive","Asian",1534
+2021,"Michigan","Executive","Black",270
+2021,"Michigan","Executive","Hispanic",200
+2021,"Michigan","Executive","Multiracial",60
+2021,"Michigan","Executive","PacificIslander",0
+2021,"Michigan","Executive","White",6936
+2021,"Minnesota","Executive","AmericanIndian",0
+2021,"Minnesota","Executive","Asian",288
+2021,"Minnesota","Executive","Black",80
+2021,"Minnesota","Executive","Hispanic",128
+2021,"Minnesota","Executive","Multiracial",82
+2021,"Minnesota","Executive","PacificIslander",0
+2021,"Minnesota","Executive","White",4970
+2021,"Mississippi","Executive","AmericanIndian",0
+2021,"Mississippi","Executive","Asian",12
+2021,"Mississippi","Executive","Black",0
+2021,"Mississippi","Executive","Hispanic",0
+2021,"Mississippi","Executive","Multiracial",0
+2021,"Mississippi","Executive","PacificIslander",0
+2021,"Mississippi","Executive","White",392
+2021,"Missouri","Executive","AmericanIndian",0
+2021,"Missouri","Executive","Asian",156
+2021,"Missouri","Executive","Black",132
+2021,"Missouri","Executive","Hispanic",160
+2021,"Missouri","Executive","Multiracial",62
+2021,"Missouri","Executive","PacificIslander",0
+2021,"Missouri","Executive","White",5270
+2021,"Montana","Executive","AmericanIndian",0
+2021,"Montana","Executive","Asian",0
+2021,"Montana","Executive","Black",0
+2021,"Montana","Executive","Hispanic",0
+2021,"Montana","Executive","Multiracial",0
+2021,"Montana","Executive","PacificIslander",0
+2021,"Montana","Executive","White",0
+2021,"Nebraska","Executive","AmericanIndian",0
+2021,"Nebraska","Executive","Asian",14
+2021,"Nebraska","Executive","Black",0
+2021,"Nebraska","Executive","Hispanic",46
+2021,"Nebraska","Executive","Multiracial",0
+2021,"Nebraska","Executive","PacificIslander",0
+2021,"Nebraska","Executive","White",1176
+2021,"Nevada","Executive","AmericanIndian",0
+2021,"Nevada","Executive","Asian",70
+2021,"Nevada","Executive","Black",18
+2021,"Nevada","Executive","Hispanic",74
+2021,"Nevada","Executive","Multiracial",32
+2021,"Nevada","Executive","PacificIslander",0
+2021,"Nevada","Executive","White",838
+2021,"New Hampshire","Executive","AmericanIndian",0
+2021,"New Hampshire","Executive","Asian",0
+2021,"New Hampshire","Executive","Black",6
+2021,"New Hampshire","Executive","Hispanic",64
+2021,"New Hampshire","Executive","Multiracial",6
+2021,"New Hampshire","Executive","PacificIslander",0
+2021,"New Hampshire","Executive","White",738
+2021,"New Jersey","Executive","AmericanIndian",0
+2021,"New Jersey","Executive","Asian",3058
+2021,"New Jersey","Executive","Black",368
+2021,"New Jersey","Executive","Hispanic",466
+2021,"New Jersey","Executive","Multiracial",128
+2021,"New Jersey","Executive","PacificIslander",0
+2021,"New Jersey","Executive","White",9734
+2021,"New Mexico","Executive","AmericanIndian",0
+2021,"New Mexico","Executive","Asian",8
+2021,"New Mexico","Executive","Black",14
+2021,"New Mexico","Executive","Hispanic",82
+2021,"New Mexico","Executive","Multiracial",0
+2021,"New Mexico","Executive","PacificIslander",0
+2021,"New Mexico","Executive","White",506
+2021,"New York","Executive","AmericanIndian",28
+2021,"New York","Executive","Asian",6354
+2021,"New York","Executive","Black",1288
+2021,"New York","Executive","Hispanic",1548
+2021,"New York","Executive","Multiracial",520
+2021,"New York","Executive","PacificIslander",52
+2021,"New York","Executive","White",29594
+2021,"North Carolina","Executive","AmericanIndian",0
+2021,"North Carolina","Executive","Asian",780
+2021,"North Carolina","Executive","Black",240
+2021,"North Carolina","Executive","Hispanic",244
+2021,"North Carolina","Executive","Multiracial",90
+2021,"North Carolina","Executive","PacificIslander",0
+2021,"North Carolina","Executive","White",7272
+2021,"North Dakota","Executive","AmericanIndian",0
+2021,"North Dakota","Executive","Asian",0
+2021,"North Dakota","Executive","Black",0
+2021,"North Dakota","Executive","Hispanic",0
+2021,"North Dakota","Executive","Multiracial",0
+2021,"North Dakota","Executive","PacificIslander",0
+2021,"North Dakota","Executive","White",0
+2021,"Ohio","Executive","AmericanIndian",0
+2021,"Ohio","Executive","Asian",464
+2021,"Ohio","Executive","Black",208
+2021,"Ohio","Executive","Hispanic",184
+2021,"Ohio","Executive","Multiracial",88
+2021,"Ohio","Executive","PacificIslander",0
+2021,"Ohio","Executive","White",8208
+2021,"Oklahoma","Executive","AmericanIndian",0
+2021,"Oklahoma","Executive","Asian",0
+2021,"Oklahoma","Executive","Black",30
+2021,"Oklahoma","Executive","Hispanic",26
+2021,"Oklahoma","Executive","Multiracial",34
+2021,"Oklahoma","Executive","PacificIslander",0
+2021,"Oklahoma","Executive","White",918
+2021,"Oregon","Executive","AmericanIndian",0
+2021,"Oregon","Executive","Asian",0
+2021,"Oregon","Executive","Black",0
+2021,"Oregon","Executive","Hispanic",62
+2021,"Oregon","Executive","Multiracial",46
+2021,"Oregon","Executive","PacificIslander",0
+2021,"Oregon","Executive","White",2058
+2021,"Pennsylvania","Executive","AmericanIndian",0
+2021,"Pennsylvania","Executive","Asian",940
+2021,"Pennsylvania","Executive","Black",254
+2021,"Pennsylvania","Executive","Hispanic",228
+2021,"Pennsylvania","Executive","Multiracial",84
+2021,"Pennsylvania","Executive","PacificIslander",0
+2021,"Pennsylvania","Executive","White",10752
+2021,"Rhode Island","Executive","AmericanIndian",0
+2021,"Rhode Island","Executive","Asian",22
+2021,"Rhode Island","Executive","Black",0
+2021,"Rhode Island","Executive","Hispanic",0
+2021,"Rhode Island","Executive","Multiracial",0
+2021,"Rhode Island","Executive","PacificIslander",0
+2021,"Rhode Island","Executive","White",524
+2021,"South Carolina","Executive","AmericanIndian",0
+2021,"South Carolina","Executive","Asian",0
+2021,"South Carolina","Executive","Black",52
+2021,"South Carolina","Executive","Hispanic",38
+2021,"South Carolina","Executive","Multiracial",0
+2021,"South Carolina","Executive","PacificIslander",0
+2021,"South Carolina","Executive","White",1766
+2021,"South Dakota","Executive","AmericanIndian",0
+2021,"South Dakota","Executive","Asian",0
+2021,"South Dakota","Executive","Black",0
+2021,"South Dakota","Executive","Hispanic",0
+2021,"South Dakota","Executive","Multiracial",0
+2021,"South Dakota","Executive","PacificIslander",0
+2021,"South Dakota","Executive","White",0
+2021,"Tennessee","Executive","AmericanIndian",0
+2021,"Tennessee","Executive","Asian",300
+2021,"Tennessee","Executive","Black",186
+2021,"Tennessee","Executive","Hispanic",164
+2021,"Tennessee","Executive","Multiracial",66
+2021,"Tennessee","Executive","PacificIslander",0
+2021,"Tennessee","Executive","White",5138
+2021,"Texas","Executive","AmericanIndian",0
+2021,"Texas","Executive","Asian",3286
+2021,"Texas","Executive","Black",630
+2021,"Texas","Executive","Hispanic",1478
+2021,"Texas","Executive","Multiracial",392
+2021,"Texas","Executive","PacificIslander",0
+2021,"Texas","Executive","White",18130
+2021,"Utah","Executive","AmericanIndian",0
+2021,"Utah","Executive","Asian",120
+2021,"Utah","Executive","Black",30
+2021,"Utah","Executive","Hispanic",120
+2021,"Utah","Executive","Multiracial",60
+2021,"Utah","Executive","PacificIslander",0
+2021,"Utah","Executive","White",2944
+2021,"Vermont","Executive","AmericanIndian",0
+2021,"Vermont","Executive","Asian",0
+2021,"Vermont","Executive","Black",0
+2021,"Vermont","Executive","Hispanic",0
+2021,"Vermont","Executive","Multiracial",0
+2021,"Vermont","Executive","PacificIslander",0
+2021,"Vermont","Executive","White",0
+2021,"Virginia","Executive","AmericanIndian",50
+2021,"Virginia","Executive","Asian",2400
+2021,"Virginia","Executive","Black",1252
+2021,"Virginia","Executive","Hispanic",920
+2021,"Virginia","Executive","Multiracial",420
+2021,"Virginia","Executive","PacificIslander",64
+2021,"Virginia","Executive","White",17860
+2021,"Washington","Executive","AmericanIndian",16
+2021,"Washington","Executive","Asian",1068
+2021,"Washington","Executive","Black",122
+2021,"Washington","Executive","Hispanic",204
+2021,"Washington","Executive","Multiracial",168
+2021,"Washington","Executive","PacificIslander",16
+2021,"Washington","Executive","White",5804
+2021,"West Virginia","Executive","AmericanIndian",0
+2021,"West Virginia","Executive","Asian",0
+2021,"West Virginia","Executive","Black",0
+2021,"West Virginia","Executive","Hispanic",0
+2021,"West Virginia","Executive","Multiracial",0
+2021,"West Virginia","Executive","PacificIslander",0
+2021,"West Virginia","Executive","White",250
+2021,"Wisconsin","Executive","AmericanIndian",0
+2021,"Wisconsin","Executive","Asian",112
+2021,"Wisconsin","Executive","Black",32
+2021,"Wisconsin","Executive","Hispanic",46
+2021,"Wisconsin","Executive","Multiracial",0
+2021,"Wisconsin","Executive","PacificIslander",0
+2021,"Wisconsin","Executive","White",3294
+2021,"Wyoming","Executive","AmericanIndian",0
+2021,"Wyoming","Executive","Asian",0
+2021,"Wyoming","Executive","Black",0
+2021,"Wyoming","Executive","Hispanic",0
+2021,"Wyoming","Executive","Multiracial",0
+2021,"Wyoming","Executive","PacificIslander",0
+2021,"Wyoming","Executive","White",0
+2022,"Alabama","Executive","AmericanIndian",0
+2022,"Alabama","Executive","Asian",96
+2022,"Alabama","Executive","Black",150
+2022,"Alabama","Executive","Hispanic",0
+2022,"Alabama","Executive","Multiracial",44
+2022,"Alabama","Executive","PacificIslander",0
+2022,"Alabama","Executive","White",3506
+2022,"Alaska","Executive","AmericanIndian",0
+2022,"Alaska","Executive","Asian",0
+2022,"Alaska","Executive","Black",0
+2022,"Alaska","Executive","Hispanic",0
+2022,"Alaska","Executive","Multiracial",0
+2022,"Alaska","Executive","PacificIslander",0
+2022,"Alaska","Executive","White",260
+2022,"Arizona","Executive","AmericanIndian",0
+2022,"Arizona","Executive","Asian",0
+2022,"Arizona","Executive","Black",98
+2022,"Arizona","Executive","Hispanic",328
+2022,"Arizona","Executive","Multiracial",78
+2022,"Arizona","Executive","PacificIslander",0
+2022,"Arizona","Executive","White",3286
+2022,"Arkansas","Executive","AmericanIndian",0
+2022,"Arkansas","Executive","Asian",30
+2022,"Arkansas","Executive","Black",20
+2022,"Arkansas","Executive","Hispanic",22
+2022,"Arkansas","Executive","Multiracial",0
+2022,"Arkansas","Executive","PacificIslander",0
+2022,"Arkansas","Executive","White",724
+2022,"California","Executive","AmericanIndian",96
+2022,"California","Executive","Asian",14880
+2022,"California","Executive","Black",1536
+2022,"California","Executive","Hispanic",3588
+2022,"California","Executive","Multiracial",1766
+2022,"California","Executive","PacificIslander",306
+2022,"California","Executive","White",44884
+2022,"Colorado","Executive","AmericanIndian",0
+2022,"Colorado","Executive","Asian",424
+2022,"Colorado","Executive","Black",138
+2022,"Colorado","Executive","Hispanic",354
+2022,"Colorado","Executive","Multiracial",152
+2022,"Colorado","Executive","PacificIslander",0
+2022,"Colorado","Executive","White",8216
+2022,"Connecticut","Executive","AmericanIndian",0
+2022,"Connecticut","Executive","Asian",546
+2022,"Connecticut","Executive","Black",142
+2022,"Connecticut","Executive","Hispanic",222
+2022,"Connecticut","Executive","Multiracial",94
+2022,"Connecticut","Executive","PacificIslander",0
+2022,"Connecticut","Executive","White",5680
+2022,"Delaware","Executive","AmericanIndian",0
+2022,"Delaware","Executive","Asian",70
+2022,"Delaware","Executive","Black",0
+2022,"Delaware","Executive","Hispanic",0
+2022,"Delaware","Executive","Multiracial",0
+2022,"Delaware","Executive","PacificIslander",0
+2022,"Delaware","Executive","White",610
+2022,"District of Columbia","Executive","AmericanIndian",16
+2022,"District of Columbia","Executive","Asian",914
+2022,"District of Columbia","Executive","Black",828
+2022,"District of Columbia","Executive","Hispanic",0
+2022,"District of Columbia","Executive","Multiracial",206
+2022,"District of Columbia","Executive","PacificIslander",0
+2022,"District of Columbia","Executive","White",7806
+2022,"Florida","Executive","AmericanIndian",40
+2022,"Florida","Executive","Asian",916
+2022,"Florida","Executive","Black",526
+2022,"Florida","Executive","Hispanic",2150
+2022,"Florida","Executive","Multiracial",274
+2022,"Florida","Executive","PacificIslander",46
+2022,"Florida","Executive","White",13434
+2022,"Georgia","Executive","AmericanIndian",26
+2022,"Georgia","Executive","Asian",1786
+2022,"Georgia","Executive","Black",918
+2022,"Georgia","Executive","Hispanic",504
+2022,"Georgia","Executive","Multiracial",178
+2022,"Georgia","Executive","PacificIslander",14
+2022,"Georgia","Executive","White",10990
+2022,"Hawaii","Executive","AmericanIndian",0
+2022,"Hawaii","Executive","Asian",0
+2022,"Hawaii","Executive","Black",0
+2022,"Hawaii","Executive","Hispanic",0
+2022,"Hawaii","Executive","Multiracial",0
+2022,"Hawaii","Executive","PacificIslander",0
+2022,"Hawaii","Executive","White",212
+2022,"Idaho","Executive","AmericanIndian",0
+2022,"Idaho","Executive","Asian",0
+2022,"Idaho","Executive","Black",0
+2022,"Idaho","Executive","Hispanic",16
+2022,"Idaho","Executive","Multiracial",16
+2022,"Idaho","Executive","PacificIslander",0
+2022,"Idaho","Executive","White",522
+2022,"Illinois","Executive","AmericanIndian",0
+2022,"Illinois","Executive","Asian",2842
+2022,"Illinois","Executive","Black",672
+2022,"Illinois","Executive","Hispanic",786
+2022,"Illinois","Executive","Multiracial",268
+2022,"Illinois","Executive","PacificIslander",0
+2022,"Illinois","Executive","White",20422
+2022,"Indiana","Executive","AmericanIndian",0
+2022,"Indiana","Executive","Asian",134
+2022,"Indiana","Executive","Black",82
+2022,"Indiana","Executive","Hispanic",88
+2022,"Indiana","Executive","Multiracial",0
+2022,"Indiana","Executive","PacificIslander",0
+2022,"Indiana","Executive","White",3670
+2022,"Iowa","Executive","AmericanIndian",0
+2022,"Iowa","Executive","Asian",0
+2022,"Iowa","Executive","Black",10
+2022,"Iowa","Executive","Hispanic",18
+2022,"Iowa","Executive","Multiracial",0
+2022,"Iowa","Executive","PacificIslander",0
+2022,"Iowa","Executive","White",1228
+2022,"Kansas","Executive","AmericanIndian",0
+2022,"Kansas","Executive","Asian",84
+2022,"Kansas","Executive","Black",28
+2022,"Kansas","Executive","Hispanic",40
+2022,"Kansas","Executive","Multiracial",32
+2022,"Kansas","Executive","PacificIslander",0
+2022,"Kansas","Executive","White",2010
+2022,"Kentucky","Executive","AmericanIndian",0
+2022,"Kentucky","Executive","Asian",0
+2022,"Kentucky","Executive","Black",40
+2022,"Kentucky","Executive","Hispanic",34
+2022,"Kentucky","Executive","Multiracial",0
+2022,"Kentucky","Executive","PacificIslander",0
+2022,"Kentucky","Executive","White",1768
+2022,"Louisiana","Executive","AmericanIndian",0
+2022,"Louisiana","Executive","Asian",26
+2022,"Louisiana","Executive","Black",32
+2022,"Louisiana","Executive","Hispanic",42
+2022,"Louisiana","Executive","Multiracial",16
+2022,"Louisiana","Executive","PacificIslander",0
+2022,"Louisiana","Executive","White",1690
+2022,"Maine","Executive","AmericanIndian",0
+2022,"Maine","Executive","Asian",34
+2022,"Maine","Executive","Black",0
+2022,"Maine","Executive","Hispanic",0
+2022,"Maine","Executive","Multiracial",14
+2022,"Maine","Executive","PacificIslander",0
+2022,"Maine","Executive","White",996
+2022,"Maryland","Executive","AmericanIndian",20
+2022,"Maryland","Executive","Asian",1028
+2022,"Maryland","Executive","Black",796
+2022,"Maryland","Executive","Hispanic",304
+2022,"Maryland","Executive","Multiracial",144
+2022,"Maryland","Executive","PacificIslander",34
+2022,"Maryland","Executive","White",8492
+2022,"Massachusetts","Executive","AmericanIndian",24
+2022,"Massachusetts","Executive","Asian",2240
+2022,"Massachusetts","Executive","Black",340
+2022,"Massachusetts","Executive","Hispanic",628
+2022,"Massachusetts","Executive","Multiracial",286
+2022,"Massachusetts","Executive","PacificIslander",30
+2022,"Massachusetts","Executive","White",18528
+2022,"Michigan","Executive","AmericanIndian",24
+2022,"Michigan","Executive","Asian",730
+2022,"Michigan","Executive","Black",264
+2022,"Michigan","Executive","Hispanic",184
+2022,"Michigan","Executive","Multiracial",72
+2022,"Michigan","Executive","PacificIslander",92
+2022,"Michigan","Executive","White",8008
+2022,"Minnesota","Executive","AmericanIndian",8
+2022,"Minnesota","Executive","Asian",426
+2022,"Minnesota","Executive","Black",196
+2022,"Minnesota","Executive","Hispanic",224
+2022,"Minnesota","Executive","Multiracial",118
+2022,"Minnesota","Executive","PacificIslander",26
+2022,"Minnesota","Executive","White",7046
+2022,"Mississippi","Executive","AmericanIndian",0
+2022,"Mississippi","Executive","Asian",0
+2022,"Mississippi","Executive","Black",20
+2022,"Mississippi","Executive","Hispanic",0
+2022,"Mississippi","Executive","Multiracial",0
+2022,"Mississippi","Executive","PacificIslander",0
+2022,"Mississippi","Executive","White",498
+2022,"Missouri","Executive","AmericanIndian",0
+2022,"Missouri","Executive","Asian",322
+2022,"Missouri","Executive","Black",132
+2022,"Missouri","Executive","Hispanic",120
+2022,"Missouri","Executive","Multiracial",54
+2022,"Missouri","Executive","PacificIslander",0
+2022,"Missouri","Executive","White",5254
+2022,"Montana","Executive","AmericanIndian",0
+2022,"Montana","Executive","Asian",0
+2022,"Montana","Executive","Black",0
+2022,"Montana","Executive","Hispanic",0
+2022,"Montana","Executive","Multiracial",6
+2022,"Montana","Executive","PacificIslander",0
+2022,"Montana","Executive","White",0
+2022,"Nebraska","Executive","AmericanIndian",0
+2022,"Nebraska","Executive","Asian",0
+2022,"Nebraska","Executive","Black",6
+2022,"Nebraska","Executive","Hispanic",18
+2022,"Nebraska","Executive","Multiracial",0
+2022,"Nebraska","Executive","PacificIslander",0
+2022,"Nebraska","Executive","White",1314
+2022,"Nevada","Executive","AmericanIndian",12
+2022,"Nevada","Executive","Asian",98
+2022,"Nevada","Executive","Black",28
+2022,"Nevada","Executive","Hispanic",82
+2022,"Nevada","Executive","Multiracial",36
+2022,"Nevada","Executive","PacificIslander",8
+2022,"Nevada","Executive","White",1290
+2022,"New Hampshire","Executive","AmericanIndian",0
+2022,"New Hampshire","Executive","Asian",0
+2022,"New Hampshire","Executive","Black",18
+2022,"New Hampshire","Executive","Hispanic",14
+2022,"New Hampshire","Executive","Multiracial",10
+2022,"New Hampshire","Executive","PacificIslander",0
+2022,"New Hampshire","Executive","White",922
+2022,"New Jersey","Executive","AmericanIndian",0
+2022,"New Jersey","Executive","Asian",3804
+2022,"New Jersey","Executive","Black",452
+2022,"New Jersey","Executive","Hispanic",628
+2022,"New Jersey","Executive","Multiracial",188
+2022,"New Jersey","Executive","PacificIslander",0
+2022,"New Jersey","Executive","White",12122
+2022,"New Mexico","Executive","AmericanIndian",0
+2022,"New Mexico","Executive","Asian",0
+2022,"New Mexico","Executive","Black",0
+2022,"New Mexico","Executive","Hispanic",110
+2022,"New Mexico","Executive","Multiracial",0
+2022,"New Mexico","Executive","PacificIslander",0
+2022,"New Mexico","Executive","White",602
+2022,"New York","Executive","AmericanIndian",0
+2022,"New York","Executive","Asian",6628
+2022,"New York","Executive","Black",1626
+2022,"New York","Executive","Hispanic",2320
+2022,"New York","Executive","Multiracial",750
+2022,"New York","Executive","PacificIslander",0
+2022,"New York","Executive","White",36712
+2022,"North Carolina","Executive","AmericanIndian",0
+2022,"North Carolina","Executive","Asian",878
+2022,"North Carolina","Executive","Black",310
+2022,"North Carolina","Executive","Hispanic",310
+2022,"North Carolina","Executive","Multiracial",106
+2022,"North Carolina","Executive","PacificIslander",0
+2022,"North Carolina","Executive","White",9120
+2022,"North Dakota","Executive","AmericanIndian",0
+2022,"North Dakota","Executive","Asian",0
+2022,"North Dakota","Executive","Black",0
+2022,"North Dakota","Executive","Hispanic",0
+2022,"North Dakota","Executive","Multiracial",0
+2022,"North Dakota","Executive","PacificIslander",0
+2022,"North Dakota","Executive","White",344
+2022,"Ohio","Executive","AmericanIndian",0
+2022,"Ohio","Executive","Asian",506
+2022,"Ohio","Executive","Black",264
+2022,"Ohio","Executive","Hispanic",238
+2022,"Ohio","Executive","Multiracial",82
+2022,"Ohio","Executive","PacificIslander",0
+2022,"Ohio","Executive","White",9910
+2022,"Oklahoma","Executive","AmericanIndian",110
+2022,"Oklahoma","Executive","Asian",66
+2022,"Oklahoma","Executive","Black",50
+2022,"Oklahoma","Executive","Hispanic",50
+2022,"Oklahoma","Executive","Multiracial",0
+2022,"Oklahoma","Executive","PacificIslander",0
+2022,"Oklahoma","Executive","White",1478
+2022,"Oregon","Executive","AmericanIndian",0
+2022,"Oregon","Executive","Asian",190
+2022,"Oregon","Executive","Black",50
+2022,"Oregon","Executive","Hispanic",86
+2022,"Oregon","Executive","Multiracial",84
+2022,"Oregon","Executive","PacificIslander",0
+2022,"Oregon","Executive","White",2590
+2022,"Pennsylvania","Executive","AmericanIndian",10
+2022,"Pennsylvania","Executive","Asian",1010
+2022,"Pennsylvania","Executive","Black",352
+2022,"Pennsylvania","Executive","Hispanic",338
+2022,"Pennsylvania","Executive","Multiracial",120
+2022,"Pennsylvania","Executive","PacificIslander",24
+2022,"Pennsylvania","Executive","White",12482
+2022,"Rhode Island","Executive","AmericanIndian",0
+2022,"Rhode Island","Executive","Asian",26
+2022,"Rhode Island","Executive","Black",10
+2022,"Rhode Island","Executive","Hispanic",0
+2022,"Rhode Island","Executive","Multiracial",0
+2022,"Rhode Island","Executive","PacificIslander",0
+2022,"Rhode Island","Executive","White",0
+2022,"South Carolina","Executive","AmericanIndian",0
+2022,"South Carolina","Executive","Asian",90
+2022,"South Carolina","Executive","Black",42
+2022,"South Carolina","Executive","Hispanic",38
+2022,"South Carolina","Executive","Multiracial",26
+2022,"South Carolina","Executive","PacificIslander",0
+2022,"South Carolina","Executive","White",2210
+2022,"South Dakota","Executive","AmericanIndian",0
+2022,"South Dakota","Executive","Asian",12
+2022,"South Dakota","Executive","Black",0
+2022,"South Dakota","Executive","Hispanic",0
+2022,"South Dakota","Executive","Multiracial",0
+2022,"South Dakota","Executive","PacificIslander",0
+2022,"South Dakota","Executive","White",370
+2022,"Tennessee","Executive","AmericanIndian",0
+2022,"Tennessee","Executive","Asian",266
+2022,"Tennessee","Executive","Black",288
+2022,"Tennessee","Executive","Hispanic",242
+2022,"Tennessee","Executive","Multiracial",102
+2022,"Tennessee","Executive","PacificIslander",0
+2022,"Tennessee","Executive","White",6928
+2022,"Texas","Executive","AmericanIndian",120
+2022,"Texas","Executive","Asian",3878
+2022,"Texas","Executive","Black",848
+2022,"Texas","Executive","Hispanic",1986
+2022,"Texas","Executive","Multiracial",486
+2022,"Texas","Executive","PacificIslander",74
+2022,"Texas","Executive","White",22316
+2022,"Utah","Executive","AmericanIndian",0
+2022,"Utah","Executive","Asian",184
+2022,"Utah","Executive","Black",14
+2022,"Utah","Executive","Hispanic",110
+2022,"Utah","Executive","Multiracial",50
+2022,"Utah","Executive","PacificIslander",0
+2022,"Utah","Executive","White",3818
+2022,"Vermont","Executive","AmericanIndian",0
+2022,"Vermont","Executive","Asian",0
+2022,"Vermont","Executive","Black",0
+2022,"Vermont","Executive","Hispanic",0
+2022,"Vermont","Executive","Multiracial",0
+2022,"Vermont","Executive","PacificIslander",0
+2022,"Vermont","Executive","White",0
+2022,"Virginia","Executive","AmericanIndian",54
+2022,"Virginia","Executive","Asian",2738
+2022,"Virginia","Executive","Black",1384
+2022,"Virginia","Executive","Hispanic",964
+2022,"Virginia","Executive","Multiracial",452
+2022,"Virginia","Executive","PacificIslander",92
+2022,"Virginia","Executive","White",20718
+2022,"Washington","Executive","AmericanIndian",52
+2022,"Washington","Executive","Asian",1282
+2022,"Washington","Executive","Black",156
+2022,"Washington","Executive","Hispanic",322
+2022,"Washington","Executive","Multiracial",216
+2022,"Washington","Executive","PacificIslander",28
+2022,"Washington","Executive","White",7688
+2022,"West Virginia","Executive","AmericanIndian",0
+2022,"West Virginia","Executive","Asian",14
+2022,"West Virginia","Executive","Black",0
+2022,"West Virginia","Executive","Hispanic",0
+2022,"West Virginia","Executive","Multiracial",0
+2022,"West Virginia","Executive","PacificIslander",0
+2022,"West Virginia","Executive","White",376
+2022,"Wisconsin","Executive","AmericanIndian",0
+2022,"Wisconsin","Executive","Asian",124
+2022,"Wisconsin","Executive","Black",48
+2022,"Wisconsin","Executive","Hispanic",84
+2022,"Wisconsin","Executive","Multiracial",0
+2022,"Wisconsin","Executive","PacificIslander",0
+2022,"Wisconsin","Executive","White",4014
+2022,"Wyoming","Executive","AmericanIndian",0
+2022,"Wyoming","Executive","Asian",0
+2022,"Wyoming","Executive","Black",0
+2022,"Wyoming","Executive","Hispanic",0
+2022,"Wyoming","Executive","Multiracial",0
+2022,"Wyoming","Executive","PacificIslander",0
+2022,"Wyoming","Executive","White",0
+2023,"Alabama","Executive","AmericanIndian",32
+2023,"Alabama","Executive","Asian",0
+2023,"Alabama","Executive","Black",146
+2023,"Alabama","Executive","Hispanic",0
+2023,"Alabama","Executive","Multiracial",0
+2023,"Alabama","Executive","PacificIslander",0
+2023,"Alabama","Executive","White",3260
+2023,"Alaska","Executive","AmericanIndian",0
+2023,"Alaska","Executive","Asian",0
+2023,"Alaska","Executive","Black",0
+2023,"Alaska","Executive","Hispanic",6
+2023,"Alaska","Executive","Multiracial",6
+2023,"Alaska","Executive","PacificIslander",0
+2023,"Alaska","Executive","White",312
+2023,"Arizona","Executive","AmericanIndian",0
+2023,"Arizona","Executive","Asian",0
+2023,"Arizona","Executive","Black",80
+2023,"Arizona","Executive","Hispanic",310
+2023,"Arizona","Executive","Multiracial",118
+2023,"Arizona","Executive","PacificIslander",0
+2023,"Arizona","Executive","White",3382
+2023,"Arkansas","Executive","AmericanIndian",0
+2023,"Arkansas","Executive","Asian",0
+2023,"Arkansas","Executive","Black",20
+2023,"Arkansas","Executive","Hispanic",6
+2023,"Arkansas","Executive","Multiracial",0
+2023,"Arkansas","Executive","PacificIslander",0
+2023,"Arkansas","Executive","White",904
+2023,"California","Executive","AmericanIndian",118
+2023,"California","Executive","Asian",15368
+2023,"California","Executive","Black",1516
+2023,"California","Executive","Hispanic",3664
+2023,"California","Executive","Multiracial",1778
+2023,"California","Executive","PacificIslander",258
+2023,"California","Executive","White",43444
+2023,"Colorado","Executive","AmericanIndian",22
+2023,"Colorado","Executive","Asian",472
+2023,"Colorado","Executive","Black",152
+2023,"Colorado","Executive","Hispanic",370
+2023,"Colorado","Executive","Multiracial",172
+2023,"Colorado","Executive","PacificIslander",20
+2023,"Colorado","Executive","White",8246
+2023,"Connecticut","Executive","AmericanIndian",0
+2023,"Connecticut","Executive","Asian",478
+2023,"Connecticut","Executive","Black",120
+2023,"Connecticut","Executive","Hispanic",206
+2023,"Connecticut","Executive","Multiracial",102
+2023,"Connecticut","Executive","PacificIslander",0
+2023,"Connecticut","Executive","White",5130
+2023,"Delaware","Executive","AmericanIndian",0
+2023,"Delaware","Executive","Asian",64
+2023,"Delaware","Executive","Black",0
+2023,"Delaware","Executive","Hispanic",0
+2023,"Delaware","Executive","Multiracial",0
+2023,"Delaware","Executive","PacificIslander",8
+2023,"Delaware","Executive","White",668
+2023,"District of Columbia","Executive","AmericanIndian",14
+2023,"District of Columbia","Executive","Asian",922
+2023,"District of Columbia","Executive","Black",866
+2023,"District of Columbia","Executive","Hispanic",0
+2023,"District of Columbia","Executive","Multiracial",0
+2023,"District of Columbia","Executive","PacificIslander",28
+2023,"District of Columbia","Executive","White",7826
+2023,"Florida","Executive","AmericanIndian",40
+2023,"Florida","Executive","Asian",978
+2023,"Florida","Executive","Black",518
+2023,"Florida","Executive","Hispanic",2222
+2023,"Florida","Executive","Multiracial",298
+2023,"Florida","Executive","PacificIslander",30
+2023,"Florida","Executive","White",14116
+2023,"Georgia","Executive","AmericanIndian",16
+2023,"Georgia","Executive","Asian",1754
+2023,"Georgia","Executive","Black",912
+2023,"Georgia","Executive","Hispanic",522
+2023,"Georgia","Executive","Multiracial",164
+2023,"Georgia","Executive","PacificIslander",18
+2023,"Georgia","Executive","White",11268
+2023,"Hawaii","Executive","AmericanIndian",0
+2023,"Hawaii","Executive","Asian",0
+2023,"Hawaii","Executive","Black",0
+2023,"Hawaii","Executive","Hispanic",0
+2023,"Hawaii","Executive","Multiracial",52
+2023,"Hawaii","Executive","PacificIslander",0
+2023,"Hawaii","Executive","White",226
+2023,"Idaho","Executive","AmericanIndian",0
+2023,"Idaho","Executive","Asian",20
+2023,"Idaho","Executive","Black",0
+2023,"Idaho","Executive","Hispanic",14
+2023,"Idaho","Executive","Multiracial",16
+2023,"Idaho","Executive","PacificIslander",0
+2023,"Idaho","Executive","White",510
+2023,"Illinois","Executive","AmericanIndian",0
+2023,"Illinois","Executive","Asian",2852
+2023,"Illinois","Executive","Black",634
+2023,"Illinois","Executive","Hispanic",804
+2023,"Illinois","Executive","Multiracial",262
+2023,"Illinois","Executive","PacificIslander",0
+2023,"Illinois","Executive","White",19816
+2023,"Indiana","Executive","AmericanIndian",0
+2023,"Indiana","Executive","Asian",154
+2023,"Indiana","Executive","Black",110
+2023,"Indiana","Executive","Hispanic",70
+2023,"Indiana","Executive","Multiracial",0
+2023,"Indiana","Executive","PacificIslander",0
+2023,"Indiana","Executive","White",3876
+2023,"Iowa","Executive","AmericanIndian",0
+2023,"Iowa","Executive","Asian",46
+2023,"Iowa","Executive","Black",42
+2023,"Iowa","Executive","Hispanic",32
+2023,"Iowa","Executive","Multiracial",0
+2023,"Iowa","Executive","PacificIslander",0
+2023,"Iowa","Executive","White",1436
+2023,"Kansas","Executive","AmericanIndian",0
+2023,"Kansas","Executive","Asian",106
+2023,"Kansas","Executive","Black",34
+2023,"Kansas","Executive","Hispanic",62
+2023,"Kansas","Executive","Multiracial",30
+2023,"Kansas","Executive","PacificIslander",0
+2023,"Kansas","Executive","White",2206
+2023,"Kentucky","Executive","AmericanIndian",0
+2023,"Kentucky","Executive","Asian",0
+2023,"Kentucky","Executive","Black",36
+2023,"Kentucky","Executive","Hispanic",38
+2023,"Kentucky","Executive","Multiracial",14
+2023,"Kentucky","Executive","PacificIslander",0
+2023,"Kentucky","Executive","White",1812
+2023,"Louisiana","Executive","AmericanIndian",0
+2023,"Louisiana","Executive","Asian",38
+2023,"Louisiana","Executive","Black",38
+2023,"Louisiana","Executive","Hispanic",28
+2023,"Louisiana","Executive","Multiracial",14
+2023,"Louisiana","Executive","PacificIslander",0
+2023,"Louisiana","Executive","White",1692
+2023,"Maine","Executive","AmericanIndian",0
+2023,"Maine","Executive","Asian",18
+2023,"Maine","Executive","Black",0
+2023,"Maine","Executive","Hispanic",0
+2023,"Maine","Executive","Multiracial",12
+2023,"Maine","Executive","PacificIslander",0
+2023,"Maine","Executive","White",922
+2023,"Maryland","Executive","AmericanIndian",22
+2023,"Maryland","Executive","Asian",1144
+2023,"Maryland","Executive","Black",854
+2023,"Maryland","Executive","Hispanic",338
+2023,"Maryland","Executive","Multiracial",172
+2023,"Maryland","Executive","PacificIslander",24
+2023,"Maryland","Executive","White",8936
+2023,"Massachusetts","Executive","AmericanIndian",18
+2023,"Massachusetts","Executive","Asian",2524
+2023,"Massachusetts","Executive","Black",398
+2023,"Massachusetts","Executive","Hispanic",718
+2023,"Massachusetts","Executive","Multiracial",282
+2023,"Massachusetts","Executive","PacificIslander",24
+2023,"Massachusetts","Executive","White",18978
+2023,"Michigan","Executive","AmericanIndian",0
+2023,"Michigan","Executive","Asian",722
+2023,"Michigan","Executive","Black",368
+2023,"Michigan","Executive","Hispanic",218
+2023,"Michigan","Executive","Multiracial",80
+2023,"Michigan","Executive","PacificIslander",0
+2023,"Michigan","Executive","White",9172
+2023,"Minnesota","Executive","AmericanIndian",0
+2023,"Minnesota","Executive","Asian",396
+2023,"Minnesota","Executive","Black",94
+2023,"Minnesota","Executive","Hispanic",140
+2023,"Minnesota","Executive","Multiracial",76
+2023,"Minnesota","Executive","PacificIslander",0
+2023,"Minnesota","Executive","White",6264
+2023,"Mississippi","Executive","AmericanIndian",0
+2023,"Mississippi","Executive","Asian",0
+2023,"Mississippi","Executive","Black",28
+2023,"Mississippi","Executive","Hispanic",0
+2023,"Mississippi","Executive","Multiracial",0
+2023,"Mississippi","Executive","PacificIslander",0
+2023,"Mississippi","Executive","White",486
+2023,"Missouri","Executive","AmericanIndian",10
+2023,"Missouri","Executive","Asian",174
+2023,"Missouri","Executive","Black",142
+2023,"Missouri","Executive","Hispanic",156
+2023,"Missouri","Executive","Multiracial",68
+2023,"Missouri","Executive","PacificIslander",10
+2023,"Missouri","Executive","White",5816
+2023,"Montana","Executive","AmericanIndian",0
+2023,"Montana","Executive","Asian",0
+2023,"Montana","Executive","Black",6
+2023,"Montana","Executive","Hispanic",0
+2023,"Montana","Executive","Multiracial",0
+2023,"Montana","Executive","PacificIslander",0
+2023,"Montana","Executive","White",0
+2023,"Nebraska","Executive","AmericanIndian",0
+2023,"Nebraska","Executive","Asian",0
+2023,"Nebraska","Executive","Black",0
+2023,"Nebraska","Executive","Hispanic",34
+2023,"Nebraska","Executive","Multiracial",0
+2023,"Nebraska","Executive","PacificIslander",0
+2023,"Nebraska","Executive","White",1272
+2023,"Nevada","Executive","AmericanIndian",8
+2023,"Nevada","Executive","Asian",104
+2023,"Nevada","Executive","Black",26
+2023,"Nevada","Executive","Hispanic",76
+2023,"Nevada","Executive","Multiracial",44
+2023,"Nevada","Executive","PacificIslander",16
+2023,"Nevada","Executive","White",1232
+2023,"New Hampshire","Executive","AmericanIndian",0
+2023,"New Hampshire","Executive","Asian",0
+2023,"New Hampshire","Executive","Black",6
+2023,"New Hampshire","Executive","Hispanic",34
+2023,"New Hampshire","Executive","Multiracial",0
+2023,"New Hampshire","Executive","PacificIslander",0
+2023,"New Hampshire","Executive","White",1320
+2023,"New Jersey","Executive","AmericanIndian",0
+2023,"New Jersey","Executive","Asian",3692
+2023,"New Jersey","Executive","Black",388
+2023,"New Jersey","Executive","Hispanic",600
+2023,"New Jersey","Executive","Multiracial",194
+2023,"New Jersey","Executive","PacificIslander",0
+2023,"New Jersey","Executive","White",11832
+2023,"New Mexico","Executive","AmericanIndian",0
+2023,"New Mexico","Executive","Asian",0
+2023,"New Mexico","Executive","Black",20
+2023,"New Mexico","Executive","Hispanic",122
+2023,"New Mexico","Executive","Multiracial",10
+2023,"New Mexico","Executive","PacificIslander",18
+2023,"New Mexico","Executive","White",612
+2023,"New York","Executive","AmericanIndian",52
+2023,"New York","Executive","Asian",6852
+2023,"New York","Executive","Black",1628
+2023,"New York","Executive","Hispanic",2320
+2023,"New York","Executive","Multiracial",804
+2023,"New York","Executive","PacificIslander",60
+2023,"New York","Executive","White",38056
+2023,"North Carolina","Executive","AmericanIndian",0
+2023,"North Carolina","Executive","Asian",836
+2023,"North Carolina","Executive","Black",368
+2023,"North Carolina","Executive","Hispanic",292
+2023,"North Carolina","Executive","Multiracial",126
+2023,"North Carolina","Executive","PacificIslander",0
+2023,"North Carolina","Executive","White",9370
+2023,"North Dakota","Executive","AmericanIndian",0
+2023,"North Dakota","Executive","Asian",0
+2023,"North Dakota","Executive","Black",0
+2023,"North Dakota","Executive","Hispanic",0
+2023,"North Dakota","Executive","Multiracial",0
+2023,"North Dakota","Executive","PacificIslander",0
+2023,"North Dakota","Executive","White",342
+2023,"Ohio","Executive","AmericanIndian",32
+2023,"Ohio","Executive","Asian",548
+2023,"Ohio","Executive","Black",226
+2023,"Ohio","Executive","Hispanic",204
+2023,"Ohio","Executive","Multiracial",90
+2023,"Ohio","Executive","PacificIslander",28
+2023,"Ohio","Executive","White",10590
+2023,"Oklahoma","Executive","AmericanIndian",0
+2023,"Oklahoma","Executive","Asian",0
+2023,"Oklahoma","Executive","Black",20
+2023,"Oklahoma","Executive","Hispanic",42
+2023,"Oklahoma","Executive","Multiracial",0
+2023,"Oklahoma","Executive","PacificIslander",0
+2023,"Oklahoma","Executive","White",1464
+2023,"Oregon","Executive","AmericanIndian",14
+2023,"Oregon","Executive","Asian",192
+2023,"Oregon","Executive","Black",62
+2023,"Oregon","Executive","Hispanic",0
+2023,"Oregon","Executive","Multiracial",66
+2023,"Oregon","Executive","PacificIslander",0
+2023,"Oregon","Executive","White",2742
+2023,"Pennsylvania","Executive","AmericanIndian",0
+2023,"Pennsylvania","Executive","Asian",1064
+2023,"Pennsylvania","Executive","Black",306
+2023,"Pennsylvania","Executive","Hispanic",296
+2023,"Pennsylvania","Executive","Multiracial",140
+2023,"Pennsylvania","Executive","PacificIslander",0
+2023,"Pennsylvania","Executive","White",13244
+2023,"Rhode Island","Executive","AmericanIndian",0
+2023,"Rhode Island","Executive","Asian",24
+2023,"Rhode Island","Executive","Black",6
+2023,"Rhode Island","Executive","Hispanic",0
+2023,"Rhode Island","Executive","Multiracial",10
+2023,"Rhode Island","Executive","PacificIslander",0
+2023,"Rhode Island","Executive","White",616
+2023,"South Carolina","Executive","AmericanIndian",0
+2023,"South Carolina","Executive","Asian",76
+2023,"South Carolina","Executive","Black",62
+2023,"South Carolina","Executive","Hispanic",50
+2023,"South Carolina","Executive","Multiracial",42
+2023,"South Carolina","Executive","PacificIslander",0
+2023,"South Carolina","Executive","White",2244
+2023,"South Dakota","Executive","AmericanIndian",0
+2023,"South Dakota","Executive","Asian",16
+2023,"South Dakota","Executive","Black",0
+2023,"South Dakota","Executive","Hispanic",0
+2023,"South Dakota","Executive","Multiracial",0
+2023,"South Dakota","Executive","PacificIslander",0
+2023,"South Dakota","Executive","White",374
+2023,"Tennessee","Executive","AmericanIndian",0
+2023,"Tennessee","Executive","Asian",288
+2023,"Tennessee","Executive","Black",270
+2023,"Tennessee","Executive","Hispanic",228
+2023,"Tennessee","Executive","Multiracial",100
+2023,"Tennessee","Executive","PacificIslander",0
+2023,"Tennessee","Executive","White",7354
+2023,"Texas","Executive","AmericanIndian",136
+2023,"Texas","Executive","Asian",4414
+2023,"Texas","Executive","Black",898
+2023,"Texas","Executive","Hispanic",2190
+2023,"Texas","Executive","Multiracial",522
+2023,"Texas","Executive","PacificIslander",70
+2023,"Texas","Executive","White",23492
+2023,"Utah","Executive","AmericanIndian",8
+2023,"Utah","Executive","Asian",236
+2023,"Utah","Executive","Black",20
+2023,"Utah","Executive","Hispanic",126
+2023,"Utah","Executive","Multiracial",76
+2023,"Utah","Executive","PacificIslander",20
+2023,"Utah","Executive","White",4126
+2023,"Vermont","Executive","AmericanIndian",0
+2023,"Vermont","Executive","Asian",0
+2023,"Vermont","Executive","Black",0
+2023,"Vermont","Executive","Hispanic",0
+2023,"Vermont","Executive","Multiracial",0
+2023,"Vermont","Executive","PacificIslander",0
+2023,"Vermont","Executive","White",302
+2023,"Virginia","Executive","AmericanIndian",62
+2023,"Virginia","Executive","Asian",2814
+2023,"Virginia","Executive","Black",1382
+2023,"Virginia","Executive","Hispanic",1162
+2023,"Virginia","Executive","Multiracial",512
+2023,"Virginia","Executive","PacificIslander",102
+2023,"Virginia","Executive","White",20920
+2023,"Washington","Executive","AmericanIndian",44
+2023,"Washington","Executive","Asian",1294
+2023,"Washington","Executive","Black",150
+2023,"Washington","Executive","Hispanic",306
+2023,"Washington","Executive","Multiracial",218
+2023,"Washington","Executive","PacificIslander",24
+2023,"Washington","Executive","White",7326
+2023,"West Virginia","Executive","AmericanIndian",0
+2023,"West Virginia","Executive","Asian",12
+2023,"West Virginia","Executive","Black",0
+2023,"West Virginia","Executive","Hispanic",0
+2023,"West Virginia","Executive","Multiracial",0
+2023,"West Virginia","Executive","PacificIslander",0
+2023,"West Virginia","Executive","White",322
+2023,"Wisconsin","Executive","AmericanIndian",0
+2023,"Wisconsin","Executive","Asian",98
+2023,"Wisconsin","Executive","Black",44
+2023,"Wisconsin","Executive","Hispanic",58
+2023,"Wisconsin","Executive","Multiracial",0
+2023,"Wisconsin","Executive","PacificIslander",0
+2023,"Wisconsin","Executive","White",3834
+2023,"Wyoming","Executive","AmericanIndian",0
+2023,"Wyoming","Executive","Asian",0
+2023,"Wyoming","Executive","Black",0
+2023,"Wyoming","Executive","Hispanic",0
+2023,"Wyoming","Executive","Multiracial",0
+2023,"Wyoming","Executive","PacificIslander",0
+2023,"Wyoming","Executive","White",0
+2020,"Alabama","Mid","AmericanIndian",72
+2020,"Alabama","Mid","Asian",274
+2020,"Alabama","Mid","Black",774
+2020,"Alabama","Mid","Hispanic",262
+2020,"Alabama","Mid","Multiracial",102
+2020,"Alabama","Mid","PacificIslander",6
+2020,"Alabama","Mid","White",9286
+2020,"Alaska","Mid","AmericanIndian",24
+2020,"Alaska","Mid","Asian",20
+2020,"Alaska","Mid","Black",0
+2020,"Alaska","Mid","Hispanic",26
+2020,"Alaska","Mid","Multiracial",20
+2020,"Alaska","Mid","PacificIslander",0
+2020,"Alaska","Mid","White",656
+2020,"Arizona","Mid","AmericanIndian",94
+2020,"Arizona","Mid","Asian",2066
+2020,"Arizona","Mid","Black",674
+2020,"Arizona","Mid","Hispanic",2248
+2020,"Arizona","Mid","Multiracial",422
+2020,"Arizona","Mid","PacificIslander",66
+2020,"Arizona","Mid","White",13052
+2020,"Arkansas","Mid","AmericanIndian",0
+2020,"Arkansas","Mid","Asian",316
+2020,"Arkansas","Mid","Black",110
+2020,"Arkansas","Mid","Hispanic",72
+2020,"Arkansas","Mid","Multiracial",24
+2020,"Arkansas","Mid","PacificIslander",0
+2020,"Arkansas","Mid","White",2168
+2020,"California","Mid","AmericanIndian",456
+2020,"California","Mid","Asian",58536
+2020,"California","Mid","Black",5718
+2020,"California","Mid","Hispanic",15450
+2020,"California","Mid","Multiracial",5420
+2020,"California","Mid","PacificIslander",1024
+2020,"California","Mid","White",112362
+2020,"Colorado","Mid","AmericanIndian",110
+2020,"Colorado","Mid","Asian",2118
+2020,"Colorado","Mid","Black",790
+2020,"Colorado","Mid","Hispanic",1516
+2020,"Colorado","Mid","Multiracial",586
+2020,"Colorado","Mid","PacificIslander",84
+2020,"Colorado","Mid","White",26348
+2020,"Connecticut","Mid","AmericanIndian",30
+2020,"Connecticut","Mid","Asian",2078
+2020,"Connecticut","Mid","Black",532
+2020,"Connecticut","Mid","Hispanic",706
+2020,"Connecticut","Mid","Multiracial",214
+2020,"Connecticut","Mid","PacificIslander",12
+2020,"Connecticut","Mid","White",13282
+2020,"Delaware","Mid","AmericanIndian",0
+2020,"Delaware","Mid","Asian",140
+2020,"Delaware","Mid","Black",82
+2020,"Delaware","Mid","Hispanic",66
+2020,"Delaware","Mid","Multiracial",0
+2020,"Delaware","Mid","PacificIslander",0
+2020,"Delaware","Mid","White",1198
+2020,"District of Columbia","Mid","AmericanIndian",0
+2020,"District of Columbia","Mid","Asian",2004
+2020,"District of Columbia","Mid","Black",2598
+2020,"District of Columbia","Mid","Hispanic",1036
+2020,"District of Columbia","Mid","Multiracial",466
+2020,"District of Columbia","Mid","PacificIslander",0
+2020,"District of Columbia","Mid","White",13828
+2020,"Florida","Mid","AmericanIndian",116
+2020,"Florida","Mid","Asian",4558
+2020,"Florida","Mid","Black",3192
+2020,"Florida","Mid","Hispanic",7322
+2020,"Florida","Mid","Multiracial",998
+2020,"Florida","Mid","PacificIslander",90
+2020,"Florida","Mid","White",32662
+2020,"Georgia","Mid","AmericanIndian",110
+2020,"Georgia","Mid","Asian",8702
+2020,"Georgia","Mid","Black",5638
+2020,"Georgia","Mid","Hispanic",1938
+2020,"Georgia","Mid","Multiracial",864
+2020,"Georgia","Mid","PacificIslander",46
+2020,"Georgia","Mid","White",30112
+2020,"Hawaii","Mid","AmericanIndian",6
+2020,"Hawaii","Mid","Asian",448
+2020,"Hawaii","Mid","Black",0
+2020,"Hawaii","Mid","Hispanic",28
+2020,"Hawaii","Mid","Multiracial",130
+2020,"Hawaii","Mid","PacificIslander",0
+2020,"Hawaii","Mid","White",456
+2020,"Idaho","Mid","AmericanIndian",26
+2020,"Idaho","Mid","Asian",44
+2020,"Idaho","Mid","Black",26
+2020,"Idaho","Mid","Hispanic",132
+2020,"Idaho","Mid","Multiracial",56
+2020,"Idaho","Mid","PacificIslander",8
+2020,"Idaho","Mid","White",3100
+2020,"Illinois","Mid","AmericanIndian",82
+2020,"Illinois","Mid","Asian",13552
+2020,"Illinois","Mid","Black",3114
+2020,"Illinois","Mid","Hispanic",3896
+2020,"Illinois","Mid","Multiracial",1044
+2020,"Illinois","Mid","PacificIslander",134
+2020,"Illinois","Mid","White",57874
+2020,"Indiana","Mid","AmericanIndian",26
+2020,"Indiana","Mid","Asian",594
+2020,"Indiana","Mid","Black",396
+2020,"Indiana","Mid","Hispanic",366
+2020,"Indiana","Mid","Multiracial",112
+2020,"Indiana","Mid","PacificIslander",18
+2020,"Indiana","Mid","White",10620
+2020,"Iowa","Mid","AmericanIndian",0
+2020,"Iowa","Mid","Asian",154
+2020,"Iowa","Mid","Black",54
+2020,"Iowa","Mid","Hispanic",124
+2020,"Iowa","Mid","Multiracial",34
+2020,"Iowa","Mid","PacificIslander",0
+2020,"Iowa","Mid","White",3714
+2020,"Kansas","Mid","AmericanIndian",54
+2020,"Kansas","Mid","Asian",394
+2020,"Kansas","Mid","Black",264
+2020,"Kansas","Mid","Hispanic",276
+2020,"Kansas","Mid","Multiracial",128
+2020,"Kansas","Mid","PacificIslander",10
+2020,"Kansas","Mid","White",7290
+2020,"Kentucky","Mid","AmericanIndian",0
+2020,"Kentucky","Mid","Asian",268
+2020,"Kentucky","Mid","Black",164
+2020,"Kentucky","Mid","Hispanic",120
+2020,"Kentucky","Mid","Multiracial",50
+2020,"Kentucky","Mid","PacificIslander",0
+2020,"Kentucky","Mid","White",4502
+2020,"Louisiana","Mid","AmericanIndian",0
+2020,"Louisiana","Mid","Asian",78
+2020,"Louisiana","Mid","Black",430
+2020,"Louisiana","Mid","Hispanic",112
+2020,"Louisiana","Mid","Multiracial",30
+2020,"Louisiana","Mid","PacificIslander",0
+2020,"Louisiana","Mid","White",3348
+2020,"Maine","Mid","AmericanIndian",0
+2020,"Maine","Mid","Asian",48
+2020,"Maine","Mid","Black",20
+2020,"Maine","Mid","Hispanic",34
+2020,"Maine","Mid","Multiracial",20
+2020,"Maine","Mid","PacificIslander",0
+2020,"Maine","Mid","White",2180
+2020,"Maryland","Mid","AmericanIndian",66
+2020,"Maryland","Mid","Asian",3722
+2020,"Maryland","Mid","Black",4076
+2020,"Maryland","Mid","Hispanic",1468
+2020,"Maryland","Mid","Multiracial",670
+2020,"Maryland","Mid","PacificIslander",60
+2020,"Maryland","Mid","White",25852
+2020,"Massachusetts","Mid","AmericanIndian",74
+2020,"Massachusetts","Mid","Asian",12106
+2020,"Massachusetts","Mid","Black",1872
+2020,"Massachusetts","Mid","Hispanic",2512
+2020,"Massachusetts","Mid","Multiracial",1028
+2020,"Massachusetts","Mid","PacificIslander",78
+2020,"Massachusetts","Mid","White",58194
+2020,"Michigan","Mid","AmericanIndian",56
+2020,"Michigan","Mid","Asian",3182
+2020,"Michigan","Mid","Black",1564
+2020,"Michigan","Mid","Hispanic",920
+2020,"Michigan","Mid","Multiracial",336
+2020,"Michigan","Mid","PacificIslander",16
+2020,"Michigan","Mid","White",25188
+2020,"Minnesota","Mid","AmericanIndian",66
+2020,"Minnesota","Mid","Asian",1922
+2020,"Minnesota","Mid","Black",452
+2020,"Minnesota","Mid","Hispanic",626
+2020,"Minnesota","Mid","Multiracial",242
+2020,"Minnesota","Mid","PacificIslander",12
+2020,"Minnesota","Mid","White",23230
+2020,"Mississippi","Mid","AmericanIndian",0
+2020,"Mississippi","Mid","Asian",6
+2020,"Mississippi","Mid","Black",254
+2020,"Mississippi","Mid","Hispanic",26
+2020,"Mississippi","Mid","Multiracial",20
+2020,"Mississippi","Mid","PacificIslander",0
+2020,"Mississippi","Mid","White",730
+2020,"Missouri","Mid","AmericanIndian",84
+2020,"Missouri","Mid","Asian",1300
+2020,"Missouri","Mid","Black",920
+2020,"Missouri","Mid","Hispanic",776
+2020,"Missouri","Mid","Multiracial",326
+2020,"Missouri","Mid","PacificIslander",26
+2020,"Missouri","Mid","White",22884
+2020,"Montana","Mid","AmericanIndian",0
+2020,"Montana","Mid","Asian",0
+2020,"Montana","Mid","Black",0
+2020,"Montana","Mid","Hispanic",0
+2020,"Montana","Mid","Multiracial",0
+2020,"Montana","Mid","PacificIslander",0
+2020,"Montana","Mid","White",762
+2020,"Nebraska","Mid","AmericanIndian",0
+2020,"Nebraska","Mid","Asian",154
+2020,"Nebraska","Mid","Black",54
+2020,"Nebraska","Mid","Hispanic",74
+2020,"Nebraska","Mid","Multiracial",44
+2020,"Nebraska","Mid","PacificIslander",0
+2020,"Nebraska","Mid","White",2994
+2020,"Nevada","Mid","AmericanIndian",26
+2020,"Nevada","Mid","Asian",440
+2020,"Nevada","Mid","Black",274
+2020,"Nevada","Mid","Hispanic",326
+2020,"Nevada","Mid","Multiracial",114
+2020,"Nevada","Mid","PacificIslander",48
+2020,"Nevada","Mid","White",2754
+2020,"New Hampshire","Mid","AmericanIndian",0
+2020,"New Hampshire","Mid","Asian",214
+2020,"New Hampshire","Mid","Black",50
+2020,"New Hampshire","Mid","Hispanic",76
+2020,"New Hampshire","Mid","Multiracial",50
+2020,"New Hampshire","Mid","PacificIslander",0
+2020,"New Hampshire","Mid","White",4040
+2020,"New Jersey","Mid","AmericanIndian",82
+2020,"New Jersey","Mid","Asian",16650
+2020,"New Jersey","Mid","Black",2106
+2020,"New Jersey","Mid","Hispanic",2612
+2020,"New Jersey","Mid","Multiracial",524
+2020,"New Jersey","Mid","PacificIslander",58
+2020,"New Jersey","Mid","White",29736
+2020,"New Mexico","Mid","AmericanIndian",94
+2020,"New Mexico","Mid","Asian",176
+2020,"New Mexico","Mid","Black",98
+2020,"New Mexico","Mid","Hispanic",1396
+2020,"New Mexico","Mid","Multiracial",100
+2020,"New Mexico","Mid","PacificIslander",12
+2020,"New Mexico","Mid","White",3646
+2020,"New York","Mid","AmericanIndian",180
+2020,"New York","Mid","Asian",22776
+2020,"New York","Mid","Black",6694
+2020,"New York","Mid","Hispanic",9006
+2020,"New York","Mid","Multiracial",2372
+2020,"New York","Mid","PacificIslander",266
+2020,"New York","Mid","White",93258
+2020,"North Carolina","Mid","AmericanIndian",100
+2020,"North Carolina","Mid","Asian",4466
+2020,"North Carolina","Mid","Black",2886
+2020,"North Carolina","Mid","Hispanic",1384
+2020,"North Carolina","Mid","Multiracial",532
+2020,"North Carolina","Mid","PacificIslander",52
+2020,"North Carolina","Mid","White",29932
+2020,"North Dakota","Mid","AmericanIndian",0
+2020,"North Dakota","Mid","Asian",0
+2020,"North Dakota","Mid","Black",0
+2020,"North Dakota","Mid","Hispanic",0
+2020,"North Dakota","Mid","Multiracial",0
+2020,"North Dakota","Mid","PacificIslander",0
+2020,"North Dakota","Mid","White",1118
+2020,"Ohio","Mid","AmericanIndian",80
+2020,"Ohio","Mid","Asian",2374
+2020,"Ohio","Mid","Black",1150
+2020,"Ohio","Mid","Hispanic",774
+2020,"Ohio","Mid","Multiracial",354
+2020,"Ohio","Mid","PacificIslander",30
+2020,"Ohio","Mid","White",27504
+2020,"Oklahoma","Mid","AmericanIndian",118
+2020,"Oklahoma","Mid","Asian",200
+2020,"Oklahoma","Mid","Black",166
+2020,"Oklahoma","Mid","Hispanic",146
+2020,"Oklahoma","Mid","Multiracial",76
+2020,"Oklahoma","Mid","PacificIslander",10
+2020,"Oklahoma","Mid","White",2866
+2020,"Oregon","Mid","AmericanIndian",28
+2020,"Oregon","Mid","Asian",590
+2020,"Oregon","Mid","Black",66
+2020,"Oregon","Mid","Hispanic",354
+2020,"Oregon","Mid","Multiracial",216
+2020,"Oregon","Mid","PacificIslander",46
+2020,"Oregon","Mid","White",6060
+2020,"Pennsylvania","Mid","AmericanIndian",96
+2020,"Pennsylvania","Mid","Asian",5958
+2020,"Pennsylvania","Mid","Black",1766
+2020,"Pennsylvania","Mid","Hispanic",1240
+2020,"Pennsylvania","Mid","Multiracial",578
+2020,"Pennsylvania","Mid","PacificIslander",58
+2020,"Pennsylvania","Mid","White",42880
+2020,"Rhode Island","Mid","AmericanIndian",0
+2020,"Rhode Island","Mid","Asian",176
+2020,"Rhode Island","Mid","Black",24
+2020,"Rhode Island","Mid","Hispanic",48
+2020,"Rhode Island","Mid","Multiracial",0
+2020,"Rhode Island","Mid","PacificIslander",0
+2020,"Rhode Island","Mid","White",1480
+2020,"South Carolina","Mid","AmericanIndian",18
+2020,"South Carolina","Mid","Asian",224
+2020,"South Carolina","Mid","Black",770
+2020,"South Carolina","Mid","Hispanic",264
+2020,"South Carolina","Mid","Multiracial",134
+2020,"South Carolina","Mid","PacificIslander",14
+2020,"South Carolina","Mid","White",6846
+2020,"South Dakota","Mid","AmericanIndian",0
+2020,"South Dakota","Mid","Asian",0
+2020,"South Dakota","Mid","Black",0
+2020,"South Dakota","Mid","Hispanic",0
+2020,"South Dakota","Mid","Multiracial",0
+2020,"South Dakota","Mid","PacificIslander",0
+2020,"South Dakota","Mid","White",592
+2020,"Tennessee","Mid","AmericanIndian",56
+2020,"Tennessee","Mid","Asian",1094
+2020,"Tennessee","Mid","Black",1298
+2020,"Tennessee","Mid","Hispanic",476
+2020,"Tennessee","Mid","Multiracial",196
+2020,"Tennessee","Mid","PacificIslander",12
+2020,"Tennessee","Mid","White",14750
+2020,"Texas","Mid","AmericanIndian",320
+2020,"Texas","Mid","Asian",20556
+2020,"Texas","Mid","Black",6188
+2020,"Texas","Mid","Hispanic",9614
+2020,"Texas","Mid","Multiracial",1562
+2020,"Texas","Mid","PacificIslander",166
+2020,"Texas","Mid","White",60864
+2020,"Utah","Mid","AmericanIndian",26
+2020,"Utah","Mid","Asian",402
+2020,"Utah","Mid","Black",138
+2020,"Utah","Mid","Hispanic",572
+2020,"Utah","Mid","Multiracial",270
+2020,"Utah","Mid","PacificIslander",66
+2020,"Utah","Mid","White",10018
+2020,"Vermont","Mid","AmericanIndian",0
+2020,"Vermont","Mid","Asian",10
+2020,"Vermont","Mid","Black",18
+2020,"Vermont","Mid","Hispanic",10
+2020,"Vermont","Mid","Multiracial",0
+2020,"Vermont","Mid","PacificIslander",0
+2020,"Vermont","Mid","White",564
+2020,"Virginia","Mid","AmericanIndian",248
+2020,"Virginia","Mid","Asian",12180
+2020,"Virginia","Mid","Black",9468
+2020,"Virginia","Mid","Hispanic",4302
+2020,"Virginia","Mid","Multiracial",1992
+2020,"Virginia","Mid","PacificIslander",222
+2020,"Virginia","Mid","White",68996
+2020,"Washington","Mid","AmericanIndian",138
+2020,"Washington","Mid","Asian",5864
+2020,"Washington","Mid","Black",636
+2020,"Washington","Mid","Hispanic",1204
+2020,"Washington","Mid","Multiracial",802
+2020,"Washington","Mid","PacificIslander",108
+2020,"Washington","Mid","White",22222
+2020,"West Virginia","Mid","AmericanIndian",0
+2020,"West Virginia","Mid","Asian",24
+2020,"West Virginia","Mid","Black",26
+2020,"West Virginia","Mid","Hispanic",18
+2020,"West Virginia","Mid","Multiracial",0
+2020,"West Virginia","Mid","PacificIslander",0
+2020,"West Virginia","Mid","White",1072
+2020,"Wisconsin","Mid","AmericanIndian",30
+2020,"Wisconsin","Mid","Asian",924
+2020,"Wisconsin","Mid","Black",266
+2020,"Wisconsin","Mid","Hispanic",282
+2020,"Wisconsin","Mid","Multiracial",160
+2020,"Wisconsin","Mid","PacificIslander",10
+2020,"Wisconsin","Mid","White",13440
+2020,"Wyoming","Mid","AmericanIndian",0
+2020,"Wyoming","Mid","Asian",0
+2020,"Wyoming","Mid","Black",0
+2020,"Wyoming","Mid","Hispanic",0
+2020,"Wyoming","Mid","Multiracial",0
+2020,"Wyoming","Mid","PacificIslander",0
+2020,"Wyoming","Mid","White",144
+2021,"Alabama","Mid","AmericanIndian",88
+2021,"Alabama","Mid","Asian",300
+2021,"Alabama","Mid","Black",922
+2021,"Alabama","Mid","Hispanic",368
+2021,"Alabama","Mid","Multiracial",168
+2021,"Alabama","Mid","PacificIslander",12
+2021,"Alabama","Mid","White",11218
+2021,"Alaska","Mid","AmericanIndian",0
+2021,"Alaska","Mid","Asian",28
+2021,"Alaska","Mid","Black",14
+2021,"Alaska","Mid","Hispanic",28
+2021,"Alaska","Mid","Multiracial",28
+2021,"Alaska","Mid","PacificIslander",0
+2021,"Alaska","Mid","White",768
+2021,"Arizona","Mid","AmericanIndian",102
+2021,"Arizona","Mid","Asian",2160
+2021,"Arizona","Mid","Black",920
+2021,"Arizona","Mid","Hispanic",2508
+2021,"Arizona","Mid","Multiracial",540
+2021,"Arizona","Mid","PacificIslander",98
+2021,"Arizona","Mid","White",14648
+2021,"Arkansas","Mid","AmericanIndian",0
+2021,"Arkansas","Mid","Asian",130
+2021,"Arkansas","Mid","Black",146
+2021,"Arkansas","Mid","Hispanic",94
+2021,"Arkansas","Mid","Multiracial",36
+2021,"Arkansas","Mid","PacificIslander",0
+2021,"Arkansas","Mid","White",2648
+2021,"California","Mid","AmericanIndian",548
+2021,"California","Mid","Asian",68090
+2021,"California","Mid","Black",8596
+2021,"California","Mid","Hispanic",19572
+2021,"California","Mid","Multiracial",7152
+2021,"California","Mid","PacificIslander",1314
+2021,"California","Mid","White",136822
+2021,"Colorado","Mid","AmericanIndian",102
+2021,"Colorado","Mid","Asian",1906
+2021,"Colorado","Mid","Black",722
+2021,"Colorado","Mid","Hispanic",1776
+2021,"Colorado","Mid","Multiracial",700
+2021,"Colorado","Mid","PacificIslander",92
+2021,"Colorado","Mid","White",26978
+2021,"Connecticut","Mid","AmericanIndian",26
+2021,"Connecticut","Mid","Asian",2654
+2021,"Connecticut","Mid","Black",604
+2021,"Connecticut","Mid","Hispanic",824
+2021,"Connecticut","Mid","Multiracial",238
+2021,"Connecticut","Mid","PacificIslander",14
+2021,"Connecticut","Mid","White",14652
+2021,"Delaware","Mid","AmericanIndian",0
+2021,"Delaware","Mid","Asian",226
+2021,"Delaware","Mid","Black",120
+2021,"Delaware","Mid","Hispanic",88
+2021,"Delaware","Mid","Multiracial",36
+2021,"Delaware","Mid","PacificIslander",0
+2021,"Delaware","Mid","White",1486
+2021,"District of Columbia","Mid","AmericanIndian",28
+2021,"District of Columbia","Mid","Asian",0
+2021,"District of Columbia","Mid","Black",2694
+2021,"District of Columbia","Mid","Hispanic",1190
+2021,"District of Columbia","Mid","Multiracial",570
+2021,"District of Columbia","Mid","PacificIslander",0
+2021,"District of Columbia","Mid","White",13948
+2021,"Florida","Mid","AmericanIndian",140
+2021,"Florida","Mid","Asian",4960
+2021,"Florida","Mid","Black",3514
+2021,"Florida","Mid","Hispanic",8092
+2021,"Florida","Mid","Multiracial",1226
+2021,"Florida","Mid","PacificIslander",80
+2021,"Florida","Mid","White",37890
+2021,"Georgia","Mid","AmericanIndian",126
+2021,"Georgia","Mid","Asian",9138
+2021,"Georgia","Mid","Black",6514
+2021,"Georgia","Mid","Hispanic",2782
+2021,"Georgia","Mid","Multiracial",1194
+2021,"Georgia","Mid","PacificIslander",88
+2021,"Georgia","Mid","White",32938
+2021,"Hawaii","Mid","AmericanIndian",0
+2021,"Hawaii","Mid","Asian",572
+2021,"Hawaii","Mid","Black",32
+2021,"Hawaii","Mid","Hispanic",88
+2021,"Hawaii","Mid","Multiracial",194
+2021,"Hawaii","Mid","PacificIslander",0
+2021,"Hawaii","Mid","White",720
+2021,"Idaho","Mid","AmericanIndian",26
+2021,"Idaho","Mid","Asian",58
+2021,"Idaho","Mid","Black",32
+2021,"Idaho","Mid","Hispanic",146
+2021,"Idaho","Mid","Multiracial",78
+2021,"Idaho","Mid","PacificIslander",10
+2021,"Idaho","Mid","White",3274
+2021,"Illinois","Mid","AmericanIndian",130
+2021,"Illinois","Mid","Asian",15192
+2021,"Illinois","Mid","Black",4162
+2021,"Illinois","Mid","Hispanic",5246
+2021,"Illinois","Mid","Multiracial",1540
+2021,"Illinois","Mid","PacificIslander",168
+2021,"Illinois","Mid","White",66830
+2021,"Indiana","Mid","AmericanIndian",24
+2021,"Indiana","Mid","Asian",922
+2021,"Indiana","Mid","Black",494
+2021,"Indiana","Mid","Hispanic",318
+2021,"Indiana","Mid","Multiracial",146
+2021,"Indiana","Mid","PacificIslander",16
+2021,"Indiana","Mid","White",10962
+2021,"Iowa","Mid","AmericanIndian",0
+2021,"Iowa","Mid","Asian",146
+2021,"Iowa","Mid","Black",72
+2021,"Iowa","Mid","Hispanic",172
+2021,"Iowa","Mid","Multiracial",34
+2021,"Iowa","Mid","PacificIslander",0
+2021,"Iowa","Mid","White",3842
+2021,"Kansas","Mid","AmericanIndian",54
+2021,"Kansas","Mid","Asian",456
+2021,"Kansas","Mid","Black",360
+2021,"Kansas","Mid","Hispanic",418
+2021,"Kansas","Mid","Multiracial",126
+2021,"Kansas","Mid","PacificIslander",14
+2021,"Kansas","Mid","White",7818
+2021,"Kentucky","Mid","AmericanIndian",0
+2021,"Kentucky","Mid","Asian",362
+2021,"Kentucky","Mid","Black",236
+2021,"Kentucky","Mid","Hispanic",236
+2021,"Kentucky","Mid","Multiracial",88
+2021,"Kentucky","Mid","PacificIslander",0
+2021,"Kentucky","Mid","White",5164
+2021,"Louisiana","Mid","AmericanIndian",0
+2021,"Louisiana","Mid","Asian",142
+2021,"Louisiana","Mid","Black",460
+2021,"Louisiana","Mid","Hispanic",146
+2021,"Louisiana","Mid","Multiracial",54
+2021,"Louisiana","Mid","PacificIslander",0
+2021,"Louisiana","Mid","White",4148
+2021,"Maine","Mid","AmericanIndian",0
+2021,"Maine","Mid","Asian",48
+2021,"Maine","Mid","Black",14
+2021,"Maine","Mid","Hispanic",26
+2021,"Maine","Mid","Multiracial",22
+2021,"Maine","Mid","PacificIslander",0
+2021,"Maine","Mid","White",1654
+2021,"Maryland","Mid","AmericanIndian",86
+2021,"Maryland","Mid","Asian",4026
+2021,"Maryland","Mid","Black",4794
+2021,"Maryland","Mid","Hispanic",1692
+2021,"Maryland","Mid","Multiracial",850
+2021,"Maryland","Mid","PacificIslander",88
+2021,"Maryland","Mid","White",28436
+2021,"Massachusetts","Mid","AmericanIndian",90
+2021,"Massachusetts","Mid","Asian",12978
+2021,"Massachusetts","Mid","Black",2220
+2021,"Massachusetts","Mid","Hispanic",3282
+2021,"Massachusetts","Mid","Multiracial",1286
+2021,"Massachusetts","Mid","PacificIslander",120
+2021,"Massachusetts","Mid","White",64412
+2021,"Michigan","Mid","AmericanIndian",72
+2021,"Michigan","Mid","Asian",4190
+2021,"Michigan","Mid","Black",1784
+2021,"Michigan","Mid","Hispanic",1070
+2021,"Michigan","Mid","Multiracial",406
+2021,"Michigan","Mid","PacificIslander",34
+2021,"Michigan","Mid","White",25920
+2021,"Minnesota","Mid","AmericanIndian",76
+2021,"Minnesota","Mid","Asian",1928
+2021,"Minnesota","Mid","Black",518
+2021,"Minnesota","Mid","Hispanic",1114
+2021,"Minnesota","Mid","Multiracial",406
+2021,"Minnesota","Mid","PacificIslander",10
+2021,"Minnesota","Mid","White",23502
+2021,"Mississippi","Mid","AmericanIndian",0
+2021,"Mississippi","Mid","Asian",32
+2021,"Mississippi","Mid","Black",338
+2021,"Mississippi","Mid","Hispanic",48
+2021,"Mississippi","Mid","Multiracial",22
+2021,"Mississippi","Mid","PacificIslander",0
+2021,"Mississippi","Mid","White",826
+2021,"Missouri","Mid","AmericanIndian",90
+2021,"Missouri","Mid","Asian",2528
+2021,"Missouri","Mid","Black",1182
+2021,"Missouri","Mid","Hispanic",1030
+2021,"Missouri","Mid","Multiracial",388
+2021,"Missouri","Mid","PacificIslander",36
+2021,"Missouri","Mid","White",23778
+2021,"Montana","Mid","AmericanIndian",0
+2021,"Montana","Mid","Asian",0
+2021,"Montana","Mid","Black",0
+2021,"Montana","Mid","Hispanic",0
+2021,"Montana","Mid","Multiracial",0
+2021,"Montana","Mid","PacificIslander",0
+2021,"Montana","Mid","White",722
+2021,"Nebraska","Mid","AmericanIndian",12
+2021,"Nebraska","Mid","Asian",124
+2021,"Nebraska","Mid","Black",70
+2021,"Nebraska","Mid","Hispanic",80
+2021,"Nebraska","Mid","Multiracial",50
+2021,"Nebraska","Mid","PacificIslander",6
+2021,"Nebraska","Mid","White",3364
+2021,"Nevada","Mid","AmericanIndian",36
+2021,"Nevada","Mid","Asian",484
+2021,"Nevada","Mid","Black",290
+2021,"Nevada","Mid","Hispanic",410
+2021,"Nevada","Mid","Multiracial",134
+2021,"Nevada","Mid","PacificIslander",42
+2021,"Nevada","Mid","White",3378
+2021,"New Hampshire","Mid","AmericanIndian",6
+2021,"New Hampshire","Mid","Asian",264
+2021,"New Hampshire","Mid","Black",52
+2021,"New Hampshire","Mid","Hispanic",96
+2021,"New Hampshire","Mid","Multiracial",64
+2021,"New Hampshire","Mid","PacificIslander",6
+2021,"New Hampshire","Mid","White",4424
+2021,"New Jersey","Mid","AmericanIndian",106
+2021,"New Jersey","Mid","Asian",18612
+2021,"New Jersey","Mid","Black",2754
+2021,"New Jersey","Mid","Hispanic",3188
+2021,"New Jersey","Mid","Multiracial",710
+2021,"New Jersey","Mid","PacificIslander",90
+2021,"New Jersey","Mid","White",32504
+2021,"New Mexico","Mid","AmericanIndian",80
+2021,"New Mexico","Mid","Asian",192
+2021,"New Mexico","Mid","Black",118
+2021,"New Mexico","Mid","Hispanic",1546
+2021,"New Mexico","Mid","Multiracial",88
+2021,"New Mexico","Mid","PacificIslander",14
+2021,"New Mexico","Mid","White",3834
+2021,"New York","Mid","AmericanIndian",240
+2021,"New York","Mid","Asian",24340
+2021,"New York","Mid","Black",8842
+2021,"New York","Mid","Hispanic",11224
+2021,"New York","Mid","Multiracial",3148
+2021,"New York","Mid","PacificIslander",476
+2021,"New York","Mid","White",100228
+2021,"North Carolina","Mid","AmericanIndian",150
+2021,"North Carolina","Mid","Asian",5152
+2021,"North Carolina","Mid","Black",3680
+2021,"North Carolina","Mid","Hispanic",1764
+2021,"North Carolina","Mid","Multiracial",728
+2021,"North Carolina","Mid","PacificIslander",50
+2021,"North Carolina","Mid","White",36228
+2021,"North Dakota","Mid","AmericanIndian",0
+2021,"North Dakota","Mid","Asian",0
+2021,"North Dakota","Mid","Black",10
+2021,"North Dakota","Mid","Hispanic",8
+2021,"North Dakota","Mid","Multiracial",0
+2021,"North Dakota","Mid","PacificIslander",0
+2021,"North Dakota","Mid","White",1148
+2021,"Ohio","Mid","AmericanIndian",76
+2021,"Ohio","Mid","Asian",2770
+2021,"Ohio","Mid","Black",1624
+2021,"Ohio","Mid","Hispanic",1258
+2021,"Ohio","Mid","Multiracial",530
+2021,"Ohio","Mid","PacificIslander",40
+2021,"Ohio","Mid","White",31654
+2021,"Oklahoma","Mid","AmericanIndian",104
+2021,"Oklahoma","Mid","Asian",210
+2021,"Oklahoma","Mid","Black",210
+2021,"Oklahoma","Mid","Hispanic",154
+2021,"Oklahoma","Mid","Multiracial",84
+2021,"Oklahoma","Mid","PacificIslander",16
+2021,"Oklahoma","Mid","White",3154
+2021,"Oregon","Mid","AmericanIndian",46
+2021,"Oregon","Mid","Asian",550
+2021,"Oregon","Mid","Black",136
+2021,"Oregon","Mid","Hispanic",378
+2021,"Oregon","Mid","Multiracial",234
+2021,"Oregon","Mid","PacificIslander",46
+2021,"Oregon","Mid","White",5952
+2021,"Pennsylvania","Mid","AmericanIndian",72
+2021,"Pennsylvania","Mid","Asian",6834
+2021,"Pennsylvania","Mid","Black",2518
+2021,"Pennsylvania","Mid","Hispanic",1808
+2021,"Pennsylvania","Mid","Multiracial",704
+2021,"Pennsylvania","Mid","PacificIslander",56
+2021,"Pennsylvania","Mid","White",48000
+2021,"Rhode Island","Mid","AmericanIndian",6
+2021,"Rhode Island","Mid","Asian",168
+2021,"Rhode Island","Mid","Black",54
+2021,"Rhode Island","Mid","Hispanic",70
+2021,"Rhode Island","Mid","Multiracial",32
+2021,"Rhode Island","Mid","PacificIslander",8
+2021,"Rhode Island","Mid","White",1614
+2021,"South Carolina","Mid","AmericanIndian",18
+2021,"South Carolina","Mid","Asian",896
+2021,"South Carolina","Mid","Black",908
+2021,"South Carolina","Mid","Hispanic",268
+2021,"South Carolina","Mid","Multiracial",152
+2021,"South Carolina","Mid","PacificIslander",22
+2021,"South Carolina","Mid","White",7530
+2021,"South Dakota","Mid","AmericanIndian",0
+2021,"South Dakota","Mid","Asian",0
+2021,"South Dakota","Mid","Black",6
+2021,"South Dakota","Mid","Hispanic",14
+2021,"South Dakota","Mid","Multiracial",0
+2021,"South Dakota","Mid","PacificIslander",0
+2021,"South Dakota","Mid","White",676
+2021,"Tennessee","Mid","AmericanIndian",34
+2021,"Tennessee","Mid","Asian",1618
+2021,"Tennessee","Mid","Black",1296
+2021,"Tennessee","Mid","Hispanic",554
+2021,"Tennessee","Mid","Multiracial",200
+2021,"Tennessee","Mid","PacificIslander",20
+2021,"Tennessee","Mid","White",15248
+2021,"Texas","Mid","AmericanIndian",420
+2021,"Texas","Mid","Asian",24822
+2021,"Texas","Mid","Black",7650
+2021,"Texas","Mid","Hispanic",12576
+2021,"Texas","Mid","Multiracial",2272
+2021,"Texas","Mid","PacificIslander",212
+2021,"Texas","Mid","White",73372
+2021,"Utah","Mid","AmericanIndian",30
+2021,"Utah","Mid","Asian",616
+2021,"Utah","Mid","Black",260
+2021,"Utah","Mid","Hispanic",876
+2021,"Utah","Mid","Multiracial",336
+2021,"Utah","Mid","PacificIslander",80
+2021,"Utah","Mid","White",12922
+2021,"Vermont","Mid","AmericanIndian",0
+2021,"Vermont","Mid","Asian",28
+2021,"Vermont","Mid","Black",50
+2021,"Vermont","Mid","Hispanic",20
+2021,"Vermont","Mid","Multiracial",8
+2021,"Vermont","Mid","PacificIslander",0
+2021,"Vermont","Mid","White",640
+2021,"Virginia","Mid","AmericanIndian",228
+2021,"Virginia","Mid","Asian",13720
+2021,"Virginia","Mid","Black",10676
+2021,"Virginia","Mid","Hispanic",5232
+2021,"Virginia","Mid","Multiracial",2614
+2021,"Virginia","Mid","PacificIslander",242
+2021,"Virginia","Mid","White",74410
+2021,"Washington","Mid","AmericanIndian",142
+2021,"Washington","Mid","Asian",7486
+2021,"Washington","Mid","Black",882
+2021,"Washington","Mid","Hispanic",1510
+2021,"Washington","Mid","Multiracial",974
+2021,"Washington","Mid","PacificIslander",140
+2021,"Washington","Mid","White",26156
+2021,"West Virginia","Mid","AmericanIndian",0
+2021,"West Virginia","Mid","Asian",0
+2021,"West Virginia","Mid","Black",24
+2021,"West Virginia","Mid","Hispanic",18
+2021,"West Virginia","Mid","Multiracial",20
+2021,"West Virginia","Mid","PacificIslander",0
+2021,"West Virginia","Mid","White",934
+2021,"Wisconsin","Mid","AmericanIndian",36
+2021,"Wisconsin","Mid","Asian",1082
+2021,"Wisconsin","Mid","Black",430
+2021,"Wisconsin","Mid","Hispanic",400
+2021,"Wisconsin","Mid","Multiracial",180
+2021,"Wisconsin","Mid","PacificIslander",18
+2021,"Wisconsin","Mid","White",14478
+2021,"Wyoming","Mid","AmericanIndian",0
+2021,"Wyoming","Mid","Asian",0
+2021,"Wyoming","Mid","Black",0
+2021,"Wyoming","Mid","Hispanic",0
+2021,"Wyoming","Mid","Multiracial",0
+2021,"Wyoming","Mid","PacificIslander",0
+2021,"Wyoming","Mid","White",130
+2022,"Alabama","Mid","AmericanIndian",0
+2022,"Alabama","Mid","Asian",382
+2022,"Alabama","Mid","Black",1112
+2022,"Alabama","Mid","Hispanic",440
+2022,"Alabama","Mid","Multiracial",210
+2022,"Alabama","Mid","PacificIslander",0
+2022,"Alabama","Mid","White",13080
+2022,"Alaska","Mid","AmericanIndian",34
+2022,"Alaska","Mid","Asian",52
+2022,"Alaska","Mid","Black",46
+2022,"Alaska","Mid","Hispanic",58
+2022,"Alaska","Mid","Multiracial",38
+2022,"Alaska","Mid","PacificIslander",12
+2022,"Alaska","Mid","White",1422
+2022,"Arizona","Mid","AmericanIndian",142
+2022,"Arizona","Mid","Asian",2696
+2022,"Arizona","Mid","Black",1134
+2022,"Arizona","Mid","Hispanic",3386
+2022,"Arizona","Mid","Multiracial",706
+2022,"Arizona","Mid","PacificIslander",96
+2022,"Arizona","Mid","White",18528
+2022,"Arkansas","Mid","AmericanIndian",50
+2022,"Arkansas","Mid","Asian",288
+2022,"Arkansas","Mid","Black",184
+2022,"Arkansas","Mid","Hispanic",140
+2022,"Arkansas","Mid","Multiracial",42
+2022,"Arkansas","Mid","PacificIslander",12
+2022,"Arkansas","Mid","White",3724
+2022,"California","Mid","AmericanIndian",762
+2022,"California","Mid","Asian",80644
+2022,"California","Mid","Black",10212
+2022,"California","Mid","Hispanic",25810
+2022,"California","Mid","Multiracial",9010
+2022,"California","Mid","PacificIslander",1630
+2022,"California","Mid","White",162008
+2022,"Colorado","Mid","AmericanIndian",144
+2022,"Colorado","Mid","Asian",2842
+2022,"Colorado","Mid","Black",1092
+2022,"Colorado","Mid","Hispanic",2572
+2022,"Colorado","Mid","Multiracial",978
+2022,"Colorado","Mid","PacificIslander",122
+2022,"Colorado","Mid","White",36982
+2022,"Connecticut","Mid","AmericanIndian",30
+2022,"Connecticut","Mid","Asian",3424
+2022,"Connecticut","Mid","Black",852
+2022,"Connecticut","Mid","Hispanic",1122
+2022,"Connecticut","Mid","Multiracial",378
+2022,"Connecticut","Mid","PacificIslander",22
+2022,"Connecticut","Mid","White",18936
+2022,"Delaware","Mid","AmericanIndian",0
+2022,"Delaware","Mid","Asian",236
+2022,"Delaware","Mid","Black",176
+2022,"Delaware","Mid","Hispanic",84
+2022,"Delaware","Mid","Multiracial",0
+2022,"Delaware","Mid","PacificIslander",0
+2022,"Delaware","Mid","White",1870
+2022,"District of Columbia","Mid","AmericanIndian",40
+2022,"District of Columbia","Mid","Asian",3270
+2022,"District of Columbia","Mid","Black",4210
+2022,"District of Columbia","Mid","Hispanic",1816
+2022,"District of Columbia","Mid","Multiracial",748
+2022,"District of Columbia","Mid","PacificIslander",86
+2022,"District of Columbia","Mid","White",19658
+2022,"Florida","Mid","AmericanIndian",208
+2022,"Florida","Mid","Asian",6970
+2022,"Florida","Mid","Black",5184
+2022,"Florida","Mid","Hispanic",12836
+2022,"Florida","Mid","Multiracial",1922
+2022,"Florida","Mid","PacificIslander",200
+2022,"Florida","Mid","White",53950
+2022,"Georgia","Mid","AmericanIndian",104
+2022,"Georgia","Mid","Asian",11514
+2022,"Georgia","Mid","Black",7796
+2022,"Georgia","Mid","Hispanic",2814
+2022,"Georgia","Mid","Multiracial",1272
+2022,"Georgia","Mid","PacificIslander",62
+2022,"Georgia","Mid","White",38266
+2022,"Hawaii","Mid","AmericanIndian",8
+2022,"Hawaii","Mid","Asian",816
+2022,"Hawaii","Mid","Black",76
+2022,"Hawaii","Mid","Hispanic",124
+2022,"Hawaii","Mid","Multiracial",216
+2022,"Hawaii","Mid","PacificIslander",190
+2022,"Hawaii","Mid","White",1066
+2022,"Idaho","Mid","AmericanIndian",22
+2022,"Idaho","Mid","Asian",96
+2022,"Idaho","Mid","Black",40
+2022,"Idaho","Mid","Hispanic",148
+2022,"Idaho","Mid","Multiracial",92
+2022,"Idaho","Mid","PacificIslander",12
+2022,"Idaho","Mid","White",3874
+2022,"Illinois","Mid","AmericanIndian",156
+2022,"Illinois","Mid","Asian",17370
+2022,"Illinois","Mid","Black",4856
+2022,"Illinois","Mid","Hispanic",6422
+2022,"Illinois","Mid","Multiracial",1804
+2022,"Illinois","Mid","PacificIslander",208
+2022,"Illinois","Mid","White",77890
+2022,"Indiana","Mid","AmericanIndian",192
+2022,"Indiana","Mid","Asian",1292
+2022,"Indiana","Mid","Black",654
+2022,"Indiana","Mid","Hispanic",544
+2022,"Indiana","Mid","Multiracial",234
+2022,"Indiana","Mid","PacificIslander",18
+2022,"Indiana","Mid","White",14076
+2022,"Iowa","Mid","AmericanIndian",0
+2022,"Iowa","Mid","Asian",206
+2022,"Iowa","Mid","Black",78
+2022,"Iowa","Mid","Hispanic",194
+2022,"Iowa","Mid","Multiracial",54
+2022,"Iowa","Mid","PacificIslander",0
+2022,"Iowa","Mid","White",5774
+2022,"Kansas","Mid","AmericanIndian",72
+2022,"Kansas","Mid","Asian",592
+2022,"Kansas","Mid","Black",340
+2022,"Kansas","Mid","Hispanic",394
+2022,"Kansas","Mid","Multiracial",178
+2022,"Kansas","Mid","PacificIslander",26
+2022,"Kansas","Mid","White",9486
+2022,"Kentucky","Mid","AmericanIndian",14
+2022,"Kentucky","Mid","Asian",270
+2022,"Kentucky","Mid","Black",358
+2022,"Kentucky","Mid","Hispanic",280
+2022,"Kentucky","Mid","Multiracial",124
+2022,"Kentucky","Mid","PacificIslander",6
+2022,"Kentucky","Mid","White",6930
+2022,"Louisiana","Mid","AmericanIndian",36
+2022,"Louisiana","Mid","Asian",218
+2022,"Louisiana","Mid","Black",698
+2022,"Louisiana","Mid","Hispanic",270
+2022,"Louisiana","Mid","Multiracial",82
+2022,"Louisiana","Mid","PacificIslander",16
+2022,"Louisiana","Mid","White",6204
+2022,"Maine","Mid","AmericanIndian",0
+2022,"Maine","Mid","Asian",88
+2022,"Maine","Mid","Black",26
+2022,"Maine","Mid","Hispanic",60
+2022,"Maine","Mid","Multiracial",32
+2022,"Maine","Mid","PacificIslander",0
+2022,"Maine","Mid","White",3106
+2022,"Maryland","Mid","AmericanIndian",112
+2022,"Maryland","Mid","Asian",4876
+2022,"Maryland","Mid","Black",5470
+2022,"Maryland","Mid","Hispanic",1956
+2022,"Maryland","Mid","Multiracial",962
+2022,"Maryland","Mid","PacificIslander",186
+2022,"Maryland","Mid","White",32648
+2022,"Massachusetts","Mid","AmericanIndian",116
+2022,"Massachusetts","Mid","Asian",16012
+2022,"Massachusetts","Mid","Black",3128
+2022,"Massachusetts","Mid","Hispanic",4176
+2022,"Massachusetts","Mid","Multiracial",1710
+2022,"Massachusetts","Mid","PacificIslander",212
+2022,"Massachusetts","Mid","White",76288
+2022,"Michigan","Mid","AmericanIndian",72
+2022,"Michigan","Mid","Asian",4108
+2022,"Michigan","Mid","Black",2170
+2022,"Michigan","Mid","Hispanic",1246
+2022,"Michigan","Mid","Multiracial",546
+2022,"Michigan","Mid","PacificIslander",62
+2022,"Michigan","Mid","White",31586
+2022,"Minnesota","Mid","AmericanIndian",96
+2022,"Minnesota","Mid","Asian",2766
+2022,"Minnesota","Mid","Black",1038
+2022,"Minnesota","Mid","Hispanic",1288
+2022,"Minnesota","Mid","Multiracial",636
+2022,"Minnesota","Mid","PacificIslander",74
+2022,"Minnesota","Mid","White",34494
+2022,"Mississippi","Mid","AmericanIndian",0
+2022,"Mississippi","Mid","Asian",56
+2022,"Mississippi","Mid","Black",396
+2022,"Mississippi","Mid","Hispanic",86
+2022,"Mississippi","Mid","Multiracial",30
+2022,"Mississippi","Mid","PacificIslander",0
+2022,"Mississippi","Mid","White",1584
+2022,"Missouri","Mid","AmericanIndian",140
+2022,"Missouri","Mid","Asian",2112
+2022,"Missouri","Mid","Black",1336
+2022,"Missouri","Mid","Hispanic",1150
+2022,"Missouri","Mid","Multiracial",560
+2022,"Missouri","Mid","PacificIslander",52
+2022,"Missouri","Mid","White",28994
+2022,"Montana","Mid","AmericanIndian",0
+2022,"Montana","Mid","Asian",28
+2022,"Montana","Mid","Black",6
+2022,"Montana","Mid","Hispanic",48
+2022,"Montana","Mid","Multiracial",32
+2022,"Montana","Mid","PacificIslander",0
+2022,"Montana","Mid","White",1538
+2022,"Nebraska","Mid","AmericanIndian",22
+2022,"Nebraska","Mid","Asian",136
+2022,"Nebraska","Mid","Black",104
+2022,"Nebraska","Mid","Hispanic",146
+2022,"Nebraska","Mid","Multiracial",78
+2022,"Nebraska","Mid","PacificIslander",8
+2022,"Nebraska","Mid","White",4532
+2022,"Nevada","Mid","AmericanIndian",48
+2022,"Nevada","Mid","Asian",726
+2022,"Nevada","Mid","Black",472
+2022,"Nevada","Mid","Hispanic",812
+2022,"Nevada","Mid","Multiracial",244
+2022,"Nevada","Mid","PacificIslander",82
+2022,"Nevada","Mid","White",5038
+2022,"New Hampshire","Mid","AmericanIndian",10
+2022,"New Hampshire","Mid","Asian",306
+2022,"New Hampshire","Mid","Black",70
+2022,"New Hampshire","Mid","Hispanic",140
+2022,"New Hampshire","Mid","Multiracial",56
+2022,"New Hampshire","Mid","PacificIslander",12
+2022,"New Hampshire","Mid","White",5186
+2022,"New Jersey","Mid","AmericanIndian",112
+2022,"New Jersey","Mid","Asian",23064
+2022,"New Jersey","Mid","Black",4246
+2022,"New Jersey","Mid","Hispanic",4818
+2022,"New Jersey","Mid","Multiracial",1052
+2022,"New Jersey","Mid","PacificIslander",304
+2022,"New Jersey","Mid","White",41834
+2022,"New Mexico","Mid","AmericanIndian",132
+2022,"New Mexico","Mid","Asian",276
+2022,"New Mexico","Mid","Black",172
+2022,"New Mexico","Mid","Hispanic",2054
+2022,"New Mexico","Mid","Multiracial",146
+2022,"New Mexico","Mid","PacificIslander",10
+2022,"New Mexico","Mid","White",4972
+2022,"New York","Mid","AmericanIndian",292
+2022,"New York","Mid","Asian",30342
+2022,"New York","Mid","Black",10414
+2022,"New York","Mid","Hispanic",14458
+2022,"New York","Mid","Multiracial",4014
+2022,"New York","Mid","PacificIslander",376
+2022,"New York","Mid","White",125346
+2022,"North Carolina","Mid","AmericanIndian",240
+2022,"North Carolina","Mid","Asian",6458
+2022,"North Carolina","Mid","Black",4650
+2022,"North Carolina","Mid","Hispanic",2362
+2022,"North Carolina","Mid","Multiracial",976
+2022,"North Carolina","Mid","PacificIslander",74
+2022,"North Carolina","Mid","White",47984
+2022,"North Dakota","Mid","AmericanIndian",0
+2022,"North Dakota","Mid","Asian",40
+2022,"North Dakota","Mid","Black",0
+2022,"North Dakota","Mid","Hispanic",14
+2022,"North Dakota","Mid","Multiracial",14
+2022,"North Dakota","Mid","PacificIslander",0
+2022,"North Dakota","Mid","White",1544
+2022,"Ohio","Mid","AmericanIndian",146
+2022,"Ohio","Mid","Asian",3656
+2022,"Ohio","Mid","Black",2170
+2022,"Ohio","Mid","Hispanic",1612
+2022,"Ohio","Mid","Multiracial",658
+2022,"Ohio","Mid","PacificIslander",74
+2022,"Ohio","Mid","White",40882
+2022,"Oklahoma","Mid","AmericanIndian",272
+2022,"Oklahoma","Mid","Asian",348
+2022,"Oklahoma","Mid","Black",322
+2022,"Oklahoma","Mid","Hispanic",278
+2022,"Oklahoma","Mid","Multiracial",178
+2022,"Oklahoma","Mid","PacificIslander",16
+2022,"Oklahoma","Mid","White",4942
+2022,"Oregon","Mid","AmericanIndian",56
+2022,"Oregon","Mid","Asian",774
+2022,"Oregon","Mid","Black",160
+2022,"Oregon","Mid","Hispanic",418
+2022,"Oregon","Mid","Multiracial",294
+2022,"Oregon","Mid","PacificIslander",56
+2022,"Oregon","Mid","White",8350
+2022,"Pennsylvania","Mid","AmericanIndian",108
+2022,"Pennsylvania","Mid","Asian",8052
+2022,"Pennsylvania","Mid","Black",3210
+2022,"Pennsylvania","Mid","Hispanic",2238
+2022,"Pennsylvania","Mid","Multiracial",1018
+2022,"Pennsylvania","Mid","PacificIslander",108
+2022,"Pennsylvania","Mid","White",57288
+2022,"Rhode Island","Mid","AmericanIndian",0
+2022,"Rhode Island","Mid","Asian",216
+2022,"Rhode Island","Mid","Black",50
+2022,"Rhode Island","Mid","Hispanic",94
+2022,"Rhode Island","Mid","Multiracial",36
+2022,"Rhode Island","Mid","PacificIslander",0
+2022,"Rhode Island","Mid","White",2316
+2022,"South Carolina","Mid","AmericanIndian",22
+2022,"South Carolina","Mid","Asian",736
+2022,"South Carolina","Mid","Black",806
+2022,"South Carolina","Mid","Hispanic",326
+2022,"South Carolina","Mid","Multiracial",146
+2022,"South Carolina","Mid","PacificIslander",14
+2022,"South Carolina","Mid","White",9210
+2022,"South Dakota","Mid","AmericanIndian",0
+2022,"South Dakota","Mid","Asian",22
+2022,"South Dakota","Mid","Black",0
+2022,"South Dakota","Mid","Hispanic",66
+2022,"South Dakota","Mid","Multiracial",8
+2022,"South Dakota","Mid","PacificIslander",0
+2022,"South Dakota","Mid","White",1158
+2022,"Tennessee","Mid","AmericanIndian",64
+2022,"Tennessee","Mid","Asian",1472
+2022,"Tennessee","Mid","Black",2112
+2022,"Tennessee","Mid","Hispanic",1152
+2022,"Tennessee","Mid","Multiracial",404
+2022,"Tennessee","Mid","PacificIslander",44
+2022,"Tennessee","Mid","White",23856
+2022,"Texas","Mid","AmericanIndian",580
+2022,"Texas","Mid","Asian",30650
+2022,"Texas","Mid","Black",9322
+2022,"Texas","Mid","Hispanic",16532
+2022,"Texas","Mid","Multiracial",2920
+2022,"Texas","Mid","PacificIslander",402
+2022,"Texas","Mid","White",90892
+2022,"Utah","Mid","AmericanIndian",68
+2022,"Utah","Mid","Asian",1006
+2022,"Utah","Mid","Black",514
+2022,"Utah","Mid","Hispanic",1250
+2022,"Utah","Mid","Multiracial",446
+2022,"Utah","Mid","PacificIslander",132
+2022,"Utah","Mid","White",17744
+2022,"Vermont","Mid","AmericanIndian",0
+2022,"Vermont","Mid","Asian",40
+2022,"Vermont","Mid","Black",58
+2022,"Vermont","Mid","Hispanic",36
+2022,"Vermont","Mid","Multiracial",14
+2022,"Vermont","Mid","PacificIslander",0
+2022,"Vermont","Mid","White",1178
+2022,"Virginia","Mid","AmericanIndian",332
+2022,"Virginia","Mid","Asian",16734
+2022,"Virginia","Mid","Black",12924
+2022,"Virginia","Mid","Hispanic",6508
+2022,"Virginia","Mid","Multiracial",3140
+2022,"Virginia","Mid","PacificIslander",374
+2022,"Virginia","Mid","White",87266
+2022,"Washington","Mid","AmericanIndian",192
+2022,"Washington","Mid","Asian",9488
+2022,"Washington","Mid","Black",1120
+2022,"Washington","Mid","Hispanic",1874
+2022,"Washington","Mid","Multiracial",1344
+2022,"Washington","Mid","PacificIslander",202
+2022,"Washington","Mid","White",31728
+2022,"West Virginia","Mid","AmericanIndian",0
+2022,"West Virginia","Mid","Asian",42
+2022,"West Virginia","Mid","Black",32
+2022,"West Virginia","Mid","Hispanic",24
+2022,"West Virginia","Mid","Multiracial",0
+2022,"West Virginia","Mid","PacificIslander",0
+2022,"West Virginia","Mid","White",1732
+2022,"Wisconsin","Mid","AmericanIndian",62
+2022,"Wisconsin","Mid","Asian",1396
+2022,"Wisconsin","Mid","Black",548
+2022,"Wisconsin","Mid","Hispanic",648
+2022,"Wisconsin","Mid","Multiracial",278
+2022,"Wisconsin","Mid","PacificIslander",216
+2022,"Wisconsin","Mid","White",19834
+2022,"Wyoming","Mid","AmericanIndian",0
+2022,"Wyoming","Mid","Asian",30
+2022,"Wyoming","Mid","Black",10
+2022,"Wyoming","Mid","Hispanic",14
+2022,"Wyoming","Mid","Multiracial",6
+2022,"Wyoming","Mid","PacificIslander",0
+2022,"Wyoming","Mid","White",600
+2023,"Alabama","Mid","AmericanIndian",0
+2023,"Alabama","Mid","Asian",364
+2023,"Alabama","Mid","Black",1228
+2023,"Alabama","Mid","Hispanic",464
+2023,"Alabama","Mid","Multiracial",250
+2023,"Alabama","Mid","PacificIslander",0
+2023,"Alabama","Mid","White",13404
+2023,"Alaska","Mid","AmericanIndian",42
+2023,"Alaska","Mid","Asian",50
+2023,"Alaska","Mid","Black",40
+2023,"Alaska","Mid","Hispanic",60
+2023,"Alaska","Mid","Multiracial",48
+2023,"Alaska","Mid","PacificIslander",20
+2023,"Alaska","Mid","White",1450
+2023,"Arizona","Mid","AmericanIndian",0
+2023,"Arizona","Mid","Asian",3020
+2023,"Arizona","Mid","Black",1136
+2023,"Arizona","Mid","Hispanic",3516
+2023,"Arizona","Mid","Multiracial",694
+2023,"Arizona","Mid","PacificIslander",0
+2023,"Arizona","Mid","White",18286
+2023,"Arkansas","Mid","AmericanIndian",62
+2023,"Arkansas","Mid","Asian",388
+2023,"Arkansas","Mid","Black",176
+2023,"Arkansas","Mid","Hispanic",226
+2023,"Arkansas","Mid","Multiracial",76
+2023,"Arkansas","Mid","PacificIslander",6
+2023,"Arkansas","Mid","White",4496
+2023,"California","Mid","AmericanIndian",618
+2023,"California","Mid","Asian",79594
+2023,"California","Mid","Black",9226
+2023,"California","Mid","Hispanic",26416
+2023,"California","Mid","Multiracial",8944
+2023,"California","Mid","PacificIslander",1610
+2023,"California","Mid","White",152800
+2023,"Colorado","Mid","AmericanIndian",170
+2023,"Colorado","Mid","Asian",2992
+2023,"Colorado","Mid","Black",1172
+2023,"Colorado","Mid","Hispanic",2664
+2023,"Colorado","Mid","Multiracial",1070
+2023,"Colorado","Mid","PacificIslander",144
+2023,"Colorado","Mid","White",38126
+2023,"Connecticut","Mid","AmericanIndian",24
+2023,"Connecticut","Mid","Asian",3384
+2023,"Connecticut","Mid","Black",798
+2023,"Connecticut","Mid","Hispanic",1098
+2023,"Connecticut","Mid","Multiracial",358
+2023,"Connecticut","Mid","PacificIslander",40
+2023,"Connecticut","Mid","White",18082
+2023,"Delaware","Mid","AmericanIndian",0
+2023,"Delaware","Mid","Asian",224
+2023,"Delaware","Mid","Black",166
+2023,"Delaware","Mid","Hispanic",114
+2023,"Delaware","Mid","Multiracial",0
+2023,"Delaware","Mid","PacificIslander",0
+2023,"Delaware","Mid","White",1934
+2023,"District of Columbia","Mid","AmericanIndian",48
+2023,"District of Columbia","Mid","Asian",3208
+2023,"District of Columbia","Mid","Black",4444
+2023,"District of Columbia","Mid","Hispanic",1808
+2023,"District of Columbia","Mid","Multiracial",796
+2023,"District of Columbia","Mid","PacificIslander",84
+2023,"District of Columbia","Mid","White",20624
+2023,"Florida","Mid","AmericanIndian",246
+2023,"Florida","Mid","Asian",7680
+2023,"Florida","Mid","Black",5306
+2023,"Florida","Mid","Hispanic",13902
+2023,"Florida","Mid","Multiracial",1950
+2023,"Florida","Mid","PacificIslander",190
+2023,"Florida","Mid","White",58554
+2023,"Georgia","Mid","AmericanIndian",116
+2023,"Georgia","Mid","Asian",12696
+2023,"Georgia","Mid","Black",7796
+2023,"Georgia","Mid","Hispanic",3048
+2023,"Georgia","Mid","Multiracial",1360
+2023,"Georgia","Mid","PacificIslander",82
+2023,"Georgia","Mid","White",39540
+2023,"Hawaii","Mid","AmericanIndian",12
+2023,"Hawaii","Mid","Asian",870
+2023,"Hawaii","Mid","Black",84
+2023,"Hawaii","Mid","Hispanic",132
+2023,"Hawaii","Mid","Multiracial",256
+2023,"Hawaii","Mid","PacificIslander",182
+2023,"Hawaii","Mid","White",1216
+2023,"Idaho","Mid","AmericanIndian",32
+2023,"Idaho","Mid","Asian",122
+2023,"Idaho","Mid","Black",60
+2023,"Idaho","Mid","Hispanic",176
+2023,"Idaho","Mid","Multiracial",96
+2023,"Idaho","Mid","PacificIslander",10
+2023,"Idaho","Mid","White",4130
+2023,"Illinois","Mid","AmericanIndian",138
+2023,"Illinois","Mid","Asian",18070
+2023,"Illinois","Mid","Black",4772
+2023,"Illinois","Mid","Hispanic",6760
+2023,"Illinois","Mid","Multiracial",1980
+2023,"Illinois","Mid","PacificIslander",184
+2023,"Illinois","Mid","White",78882
+2023,"Indiana","Mid","AmericanIndian",34
+2023,"Indiana","Mid","Asian",1434
+2023,"Indiana","Mid","Black",694
+2023,"Indiana","Mid","Hispanic",580
+2023,"Indiana","Mid","Multiracial",248
+2023,"Indiana","Mid","PacificIslander",12
+2023,"Indiana","Mid","White",14604
+2023,"Iowa","Mid","AmericanIndian",0
+2023,"Iowa","Mid","Asian",260
+2023,"Iowa","Mid","Black",76
+2023,"Iowa","Mid","Hispanic",128
+2023,"Iowa","Mid","Multiracial",54
+2023,"Iowa","Mid","PacificIslander",0
+2023,"Iowa","Mid","White",5470
+2023,"Kansas","Mid","AmericanIndian",74
+2023,"Kansas","Mid","Asian",694
+2023,"Kansas","Mid","Black",482
+2023,"Kansas","Mid","Hispanic",548
+2023,"Kansas","Mid","Multiracial",194
+2023,"Kansas","Mid","PacificIslander",36
+2023,"Kansas","Mid","White",11216
+2023,"Kentucky","Mid","AmericanIndian",14
+2023,"Kentucky","Mid","Asian",218
+2023,"Kentucky","Mid","Black",326
+2023,"Kentucky","Mid","Hispanic",254
+2023,"Kentucky","Mid","Multiracial",118
+2023,"Kentucky","Mid","PacificIslander",12
+2023,"Kentucky","Mid","White",6970
+2023,"Louisiana","Mid","AmericanIndian",34
+2023,"Louisiana","Mid","Asian",228
+2023,"Louisiana","Mid","Black",610
+2023,"Louisiana","Mid","Hispanic",268
+2023,"Louisiana","Mid","Multiracial",96
+2023,"Louisiana","Mid","PacificIslander",10
+2023,"Louisiana","Mid","White",6664
+2023,"Maine","Mid","AmericanIndian",0
+2023,"Maine","Mid","Asian",52
+2023,"Maine","Mid","Black",36
+2023,"Maine","Mid","Hispanic",54
+2023,"Maine","Mid","Multiracial",12
+2023,"Maine","Mid","PacificIslander",0
+2023,"Maine","Mid","White",2906
+2023,"Maryland","Mid","AmericanIndian",148
+2023,"Maryland","Mid","Asian",5230
+2023,"Maryland","Mid","Black",6040
+2023,"Maryland","Mid","Hispanic",2302
+2023,"Maryland","Mid","Multiracial",1134
+2023,"Maryland","Mid","PacificIslander",160
+2023,"Maryland","Mid","White",35392
+2023,"Massachusetts","Mid","AmericanIndian",136
+2023,"Massachusetts","Mid","Asian",16486
+2023,"Massachusetts","Mid","Black",3252
+2023,"Massachusetts","Mid","Hispanic",4438
+2023,"Massachusetts","Mid","Multiracial",1728
+2023,"Massachusetts","Mid","PacificIslander",170
+2023,"Massachusetts","Mid","White",77884
+2023,"Michigan","Mid","AmericanIndian",94
+2023,"Michigan","Mid","Asian",4422
+2023,"Michigan","Mid","Black",2182
+2023,"Michigan","Mid","Hispanic",1250
+2023,"Michigan","Mid","Multiracial",632
+2023,"Michigan","Mid","PacificIslander",78
+2023,"Michigan","Mid","White",32800
+2023,"Minnesota","Mid","AmericanIndian",124
+2023,"Minnesota","Mid","Asian",2642
+2023,"Minnesota","Mid","Black",792
+2023,"Minnesota","Mid","Hispanic",1004
+2023,"Minnesota","Mid","Multiracial",500
+2023,"Minnesota","Mid","PacificIslander",40
+2023,"Minnesota","Mid","White",30406
+2023,"Mississippi","Mid","AmericanIndian",0
+2023,"Mississippi","Mid","Asian",56
+2023,"Mississippi","Mid","Black",376
+2023,"Mississippi","Mid","Hispanic",96
+2023,"Mississippi","Mid","Multiracial",38
+2023,"Mississippi","Mid","PacificIslander",0
+2023,"Mississippi","Mid","White",1816
+2023,"Missouri","Mid","AmericanIndian",128
+2023,"Missouri","Mid","Asian",1870
+2023,"Missouri","Mid","Black",1360
+2023,"Missouri","Mid","Hispanic",1296
+2023,"Missouri","Mid","Multiracial",622
+2023,"Missouri","Mid","PacificIslander",32
+2023,"Missouri","Mid","White",29080
+2023,"Montana","Mid","AmericanIndian",0
+2023,"Montana","Mid","Asian",0
+2023,"Montana","Mid","Black",8
+2023,"Montana","Mid","Hispanic",56
+2023,"Montana","Mid","Multiracial",0
+2023,"Montana","Mid","PacificIslander",0
+2023,"Montana","Mid","White",1688
+2023,"Nebraska","Mid","AmericanIndian",18
+2023,"Nebraska","Mid","Asian",152
+2023,"Nebraska","Mid","Black",116
+2023,"Nebraska","Mid","Hispanic",144
+2023,"Nebraska","Mid","Multiracial",94
+2023,"Nebraska","Mid","PacificIslander",8
+2023,"Nebraska","Mid","White",4736
+2023,"Nevada","Mid","AmericanIndian",38
+2023,"Nevada","Mid","Asian",776
+2023,"Nevada","Mid","Black",464
+2023,"Nevada","Mid","Hispanic",798
+2023,"Nevada","Mid","Multiracial",352
+2023,"Nevada","Mid","PacificIslander",70
+2023,"Nevada","Mid","White",5580
+2023,"New Hampshire","Mid","AmericanIndian",10
+2023,"New Hampshire","Mid","Asian",340
+2023,"New Hampshire","Mid","Black",100
+2023,"New Hampshire","Mid","Hispanic",186
+2023,"New Hampshire","Mid","Multiracial",82
+2023,"New Hampshire","Mid","PacificIslander",6
+2023,"New Hampshire","Mid","White",5910
+2023,"New Jersey","Mid","AmericanIndian",116
+2023,"New Jersey","Mid","Asian",23636
+2023,"New Jersey","Mid","Black",3548
+2023,"New Jersey","Mid","Hispanic",4722
+2023,"New Jersey","Mid","Multiracial",1066
+2023,"New Jersey","Mid","PacificIslander",96
+2023,"New Jersey","Mid","White",42264
+2023,"New Mexico","Mid","AmericanIndian",140
+2023,"New Mexico","Mid","Asian",246
+2023,"New Mexico","Mid","Black",180
+2023,"New Mexico","Mid","Hispanic",2348
+2023,"New Mexico","Mid","Multiracial",158
+2023,"New Mexico","Mid","PacificIslander",18
+2023,"New Mexico","Mid","White",5260
+2023,"New York","Mid","AmericanIndian",276
+2023,"New York","Mid","Asian",32342
+2023,"New York","Mid","Black",10606
+2023,"New York","Mid","Hispanic",15450
+2023,"New York","Mid","Multiracial",4282
+2023,"New York","Mid","PacificIslander",452
+2023,"New York","Mid","White",130058
+2023,"North Carolina","Mid","AmericanIndian",212
+2023,"North Carolina","Mid","Asian",7272
+2023,"North Carolina","Mid","Black",4768
+2023,"North Carolina","Mid","Hispanic",2390
+2023,"North Carolina","Mid","Multiracial",1050
+2023,"North Carolina","Mid","PacificIslander",76
+2023,"North Carolina","Mid","White",47944
+2023,"North Dakota","Mid","AmericanIndian",0
+2023,"North Dakota","Mid","Asian",48
+2023,"North Dakota","Mid","Black",0
+2023,"North Dakota","Mid","Hispanic",16
+2023,"North Dakota","Mid","Multiracial",16
+2023,"North Dakota","Mid","PacificIslander",0
+2023,"North Dakota","Mid","White",1668
+2023,"Ohio","Mid","AmericanIndian",128
+2023,"Ohio","Mid","Asian",3828
+2023,"Ohio","Mid","Black",2080
+2023,"Ohio","Mid","Hispanic",1456
+2023,"Ohio","Mid","Multiracial",716
+2023,"Ohio","Mid","PacificIslander",62
+2023,"Ohio","Mid","White",41268
+2023,"Oklahoma","Mid","AmericanIndian",286
+2023,"Oklahoma","Mid","Asian",370
+2023,"Oklahoma","Mid","Black",326
+2023,"Oklahoma","Mid","Hispanic",294
+2023,"Oklahoma","Mid","Multiracial",190
+2023,"Oklahoma","Mid","PacificIslander",34
+2023,"Oklahoma","Mid","White",5234
+2023,"Oregon","Mid","AmericanIndian",46
+2023,"Oregon","Mid","Asian",852
+2023,"Oregon","Mid","Black",160
+2023,"Oregon","Mid","Hispanic",612
+2023,"Oregon","Mid","Multiracial",340
+2023,"Oregon","Mid","PacificIslander",72
+2023,"Oregon","Mid","White",8834
+2023,"Pennsylvania","Mid","AmericanIndian",98
+2023,"Pennsylvania","Mid","Asian",8296
+2023,"Pennsylvania","Mid","Black",3218
+2023,"Pennsylvania","Mid","Hispanic",2382
+2023,"Pennsylvania","Mid","Multiracial",1040
+2023,"Pennsylvania","Mid","PacificIslander",102
+2023,"Pennsylvania","Mid","White",58702
+2023,"Rhode Island","Mid","AmericanIndian",6
+2023,"Rhode Island","Mid","Asian",368
+2023,"Rhode Island","Mid","Black",62
+2023,"Rhode Island","Mid","Hispanic",114
+2023,"Rhode Island","Mid","Multiracial",44
+2023,"Rhode Island","Mid","PacificIslander",6
+2023,"Rhode Island","Mid","White",2450
+2023,"South Carolina","Mid","AmericanIndian",38
+2023,"South Carolina","Mid","Asian",560
+2023,"South Carolina","Mid","Black",948
+2023,"South Carolina","Mid","Hispanic",442
+2023,"South Carolina","Mid","Multiracial",218
+2023,"South Carolina","Mid","PacificIslander",32
+2023,"South Carolina","Mid","White",10032
+2023,"South Dakota","Mid","AmericanIndian",0
+2023,"South Dakota","Mid","Asian",24
+2023,"South Dakota","Mid","Black",0
+2023,"South Dakota","Mid","Hispanic",66
+2023,"South Dakota","Mid","Multiracial",18
+2023,"South Dakota","Mid","PacificIslander",0
+2023,"South Dakota","Mid","White",1162
+2023,"Tennessee","Mid","AmericanIndian",98
+2023,"Tennessee","Mid","Asian",1798
+2023,"Tennessee","Mid","Black",2720
+2023,"Tennessee","Mid","Hispanic",1412
+2023,"Tennessee","Mid","Multiracial",576
+2023,"Tennessee","Mid","PacificIslander",48
+2023,"Tennessee","Mid","White",26804
+2023,"Texas","Mid","AmericanIndian",610
+2023,"Texas","Mid","Asian",33848
+2023,"Texas","Mid","Black",10198
+2023,"Texas","Mid","Hispanic",17744
+2023,"Texas","Mid","Multiracial",3208
+2023,"Texas","Mid","PacificIslander",450
+2023,"Texas","Mid","White",94450
+2023,"Utah","Mid","AmericanIndian",68
+2023,"Utah","Mid","Asian",1050
+2023,"Utah","Mid","Black",532
+2023,"Utah","Mid","Hispanic",1196
+2023,"Utah","Mid","Multiracial",466
+2023,"Utah","Mid","PacificIslander",128
+2023,"Utah","Mid","White",17684
+2023,"Vermont","Mid","AmericanIndian",0
+2023,"Vermont","Mid","Asian",34
+2023,"Vermont","Mid","Black",12
+2023,"Vermont","Mid","Hispanic",26
+2023,"Vermont","Mid","Multiracial",10
+2023,"Vermont","Mid","PacificIslander",0
+2023,"Vermont","Mid","White",1152
+2023,"Virginia","Mid","AmericanIndian",384
+2023,"Virginia","Mid","Asian",16008
+2023,"Virginia","Mid","Black",13204
+2023,"Virginia","Mid","Hispanic",6864
+2023,"Virginia","Mid","Multiracial",3302
+2023,"Virginia","Mid","PacificIslander",376
+2023,"Virginia","Mid","White",91446
+2023,"Washington","Mid","AmericanIndian",178
+2023,"Washington","Mid","Asian",9664
+2023,"Washington","Mid","Black",1064
+2023,"Washington","Mid","Hispanic",1946
+2023,"Washington","Mid","Multiracial",1282
+2023,"Washington","Mid","PacificIslander",200
+2023,"Washington","Mid","White",30754
+2023,"West Virginia","Mid","AmericanIndian",0
+2023,"West Virginia","Mid","Asian",34
+2023,"West Virginia","Mid","Black",30
+2023,"West Virginia","Mid","Hispanic",18
+2023,"West Virginia","Mid","Multiracial",0
+2023,"West Virginia","Mid","PacificIslander",0
+2023,"West Virginia","Mid","White",1704
+2023,"Wisconsin","Mid","AmericanIndian",54
+2023,"Wisconsin","Mid","Asian",1290
+2023,"Wisconsin","Mid","Black",408
+2023,"Wisconsin","Mid","Hispanic",528
+2023,"Wisconsin","Mid","Multiracial",314
+2023,"Wisconsin","Mid","PacificIslander",196
+2023,"Wisconsin","Mid","White",17996
+2023,"Wyoming","Mid","AmericanIndian",0
+2023,"Wyoming","Mid","Asian",0
+2023,"Wyoming","Mid","Black",8
+2023,"Wyoming","Mid","Hispanic",22
+2023,"Wyoming","Mid","Multiracial",0
+2023,"Wyoming","Mid","PacificIslander",0
+2023,"Wyoming","Mid","White",682
+2020,"Alabama","Professional","AmericanIndian",0
+2020,"Alabama","Professional","Asian",1944
+2020,"Alabama","Professional","Black",5438
+2020,"Alabama","Professional","Hispanic",1954
+2020,"Alabama","Professional","Multiracial",950
+2020,"Alabama","Professional","PacificIslander",0
+2020,"Alabama","Professional","White",48988
+2020,"Alaska","Professional","AmericanIndian",56
+2020,"Alaska","Professional","Asian",106
+2020,"Alaska","Professional","Black",54
+2020,"Alaska","Professional","Hispanic",66
+2020,"Alaska","Professional","Multiracial",74
+2020,"Alaska","Professional","PacificIslander",10
+2020,"Alaska","Professional","White",2120
+2020,"Arizona","Professional","AmericanIndian",398
+2020,"Arizona","Professional","Asian",8092
+2020,"Arizona","Professional","Black",2736
+2020,"Arizona","Professional","Hispanic",7900
+2020,"Arizona","Professional","Multiracial",1760
+2020,"Arizona","Professional","PacificIslander",194
+2020,"Arizona","Professional","White",41936
+2020,"Arkansas","Professional","AmericanIndian",46
+2020,"Arkansas","Professional","Asian",1172
+2020,"Arkansas","Professional","Black",434
+2020,"Arkansas","Professional","Hispanic",246
+2020,"Arkansas","Professional","Multiracial",92
+2020,"Arkansas","Professional","PacificIslander",8
+2020,"Arkansas","Professional","White",5010
+2020,"California","Professional","AmericanIndian",1450
+2020,"California","Professional","Asian",218694
+2020,"California","Professional","Black",20658
+2020,"California","Professional","Hispanic",55718
+2020,"California","Professional","Multiracial",21072
+2020,"California","Professional","PacificIslander",3166
+2020,"California","Professional","White",289806
+2020,"Colorado","Professional","AmericanIndian",392
+2020,"Colorado","Professional","Asian",8358
+2020,"Colorado","Professional","Black",3260
+2020,"Colorado","Professional","Hispanic",6586
+2020,"Colorado","Professional","Multiracial",2684
+2020,"Colorado","Professional","PacificIslander",266
+2020,"Colorado","Professional","White",80584
+2020,"Connecticut","Professional","AmericanIndian",74
+2020,"Connecticut","Professional","Asian",6528
+2020,"Connecticut","Professional","Black",2030
+2020,"Connecticut","Professional","Hispanic",2230
+2020,"Connecticut","Professional","Multiracial",662
+2020,"Connecticut","Professional","PacificIslander",40
+2020,"Connecticut","Professional","White",28040
+2020,"Delaware","Professional","AmericanIndian",10
+2020,"Delaware","Professional","Asian",888
+2020,"Delaware","Professional","Black",656
+2020,"Delaware","Professional","Hispanic",302
+2020,"Delaware","Professional","Multiracial",122
+2020,"Delaware","Professional","PacificIslander",6
+2020,"Delaware","Professional","White",4948
+2020,"District of Columbia","Professional","AmericanIndian",224
+2020,"District of Columbia","Professional","Asian",9700
+2020,"District of Columbia","Professional","Black",12080
+2020,"District of Columbia","Professional","Hispanic",4890
+2020,"District of Columbia","Professional","Multiracial",2350
+2020,"District of Columbia","Professional","PacificIslander",224
+2020,"District of Columbia","Professional","White",48642
+2020,"Florida","Professional","AmericanIndian",496
+2020,"Florida","Professional","Asian",17794
+2020,"Florida","Professional","Black",15610
+2020,"Florida","Professional","Hispanic",27466
+2020,"Florida","Professional","Multiracial",4230
+2020,"Florida","Professional","PacificIslander",398
+2020,"Florida","Professional","White",101848
+2020,"Georgia","Professional","AmericanIndian",344
+2020,"Georgia","Professional","Asian",22526
+2020,"Georgia","Professional","Black",21440
+2020,"Georgia","Professional","Hispanic",6682
+2020,"Georgia","Professional","Multiracial",3220
+2020,"Georgia","Professional","PacificIslander",214
+2020,"Georgia","Professional","White",78928
+2020,"Hawaii","Professional","AmericanIndian",30
+2020,"Hawaii","Professional","Asian",1978
+2020,"Hawaii","Professional","Black",78
+2020,"Hawaii","Professional","Hispanic",218
+2020,"Hawaii","Professional","Multiracial",522
+2020,"Hawaii","Professional","PacificIslander",298
+2020,"Hawaii","Professional","White",2272
+2020,"Idaho","Professional","AmericanIndian",64
+2020,"Idaho","Professional","Asian",542
+2020,"Idaho","Professional","Black",84
+2020,"Idaho","Professional","Hispanic",562
+2020,"Idaho","Professional","Multiracial",308
+2020,"Idaho","Professional","PacificIslander",22
+2020,"Idaho","Professional","White",12110
+2020,"Illinois","Professional","AmericanIndian",246
+2020,"Illinois","Professional","Asian",31494
+2020,"Illinois","Professional","Black",10558
+2020,"Illinois","Professional","Hispanic",11916
+2020,"Illinois","Professional","Multiracial",3476
+2020,"Illinois","Professional","PacificIslander",318
+2020,"Illinois","Professional","White",124588
+2020,"Indiana","Professional","AmericanIndian",68
+2020,"Indiana","Professional","Asian",3888
+2020,"Indiana","Professional","Black",2066
+2020,"Indiana","Professional","Hispanic",1308
+2020,"Indiana","Professional","Multiracial",516
+2020,"Indiana","Professional","PacificIslander",38
+2020,"Indiana","Professional","White",29148
+2020,"Iowa","Professional","AmericanIndian",18
+2020,"Iowa","Professional","Asian",786
+2020,"Iowa","Professional","Black",302
+2020,"Iowa","Professional","Hispanic",400
+2020,"Iowa","Professional","Multiracial",152
+2020,"Iowa","Professional","PacificIslander",20
+2020,"Iowa","Professional","White",11992
+2020,"Kansas","Professional","AmericanIndian",130
+2020,"Kansas","Professional","Asian",2180
+2020,"Kansas","Professional","Black",1320
+2020,"Kansas","Professional","Hispanic",1144
+2020,"Kansas","Professional","Multiracial",480
+2020,"Kansas","Professional","PacificIslander",52
+2020,"Kansas","Professional","White",20022
+2020,"Kentucky","Professional","AmericanIndian",44
+2020,"Kentucky","Professional","Asian",2228
+2020,"Kentucky","Professional","Black",1050
+2020,"Kentucky","Professional","Hispanic",562
+2020,"Kentucky","Professional","Multiracial",306
+2020,"Kentucky","Professional","PacificIslander",14
+2020,"Kentucky","Professional","White",14670
+2020,"Louisiana","Professional","AmericanIndian",32
+2020,"Louisiana","Professional","Asian",956
+2020,"Louisiana","Professional","Black",1230
+2020,"Louisiana","Professional","Hispanic",510
+2020,"Louisiana","Professional","Multiracial",230
+2020,"Louisiana","Professional","PacificIslander",16
+2020,"Louisiana","Professional","White",11092
+2020,"Maine","Professional","AmericanIndian",0
+2020,"Maine","Professional","Asian",402
+2020,"Maine","Professional","Black",70
+2020,"Maine","Professional","Hispanic",146
+2020,"Maine","Professional","Multiracial",76
+2020,"Maine","Professional","PacificIslander",0
+2020,"Maine","Professional","White",6692
+2020,"Maryland","Professional","AmericanIndian",396
+2020,"Maryland","Professional","Asian",22890
+2020,"Maryland","Professional","Black",23942
+2020,"Maryland","Professional","Hispanic",7814
+2020,"Maryland","Professional","Multiracial",4014
+2020,"Maryland","Professional","PacificIslander",352
+2020,"Maryland","Professional","White",100124
+2020,"Massachusetts","Professional","AmericanIndian",250
+2020,"Massachusetts","Professional","Asian",37648
+2020,"Massachusetts","Professional","Black",7564
+2020,"Massachusetts","Professional","Hispanic",9072
+2020,"Massachusetts","Professional","Multiracial",3770
+2020,"Massachusetts","Professional","PacificIslander",252
+2020,"Massachusetts","Professional","White",138334
+2020,"Michigan","Professional","AmericanIndian",298
+2020,"Michigan","Professional","Asian",13928
+2020,"Michigan","Professional","Black",6080
+2020,"Michigan","Professional","Hispanic",2924
+2020,"Michigan","Professional","Multiracial",1328
+2020,"Michigan","Professional","PacificIslander",106
+2020,"Michigan","Professional","White",70208
+2020,"Minnesota","Professional","AmericanIndian",172
+2020,"Minnesota","Professional","Asian",7778
+2020,"Minnesota","Professional","Black",2182
+2020,"Minnesota","Professional","Hispanic",1822
+2020,"Minnesota","Professional","Multiracial",1226
+2020,"Minnesota","Professional","PacificIslander",126
+2020,"Minnesota","Professional","White",62456
+2020,"Mississippi","Professional","AmericanIndian",0
+2020,"Mississippi","Professional","Asian",62
+2020,"Mississippi","Professional","Black",356
+2020,"Mississippi","Professional","Hispanic",66
+2020,"Mississippi","Professional","Multiracial",50
+2020,"Mississippi","Professional","PacificIslander",0
+2020,"Mississippi","Professional","White",2058
+2020,"Missouri","Professional","AmericanIndian",264
+2020,"Missouri","Professional","Asian",8328
+2020,"Missouri","Professional","Black",5244
+2020,"Missouri","Professional","Hispanic",3050
+2020,"Missouri","Professional","Multiracial",1670
+2020,"Missouri","Professional","PacificIslander",128
+2020,"Missouri","Professional","White",74930
+2020,"Montana","Professional","AmericanIndian",12
+2020,"Montana","Professional","Asian",0
+2020,"Montana","Professional","Black",0
+2020,"Montana","Professional","Hispanic",188
+2020,"Montana","Professional","Multiracial",56
+2020,"Montana","Professional","PacificIslander",0
+2020,"Montana","Professional","White",3096
+2020,"Nebraska","Professional","AmericanIndian",36
+2020,"Nebraska","Professional","Asian",804
+2020,"Nebraska","Professional","Black",414
+2020,"Nebraska","Professional","Hispanic",490
+2020,"Nebraska","Professional","Multiracial",240
+2020,"Nebraska","Professional","PacificIslander",18
+2020,"Nebraska","Professional","White",12648
+2020,"Nevada","Professional","AmericanIndian",66
+2020,"Nevada","Professional","Asian",1388
+2020,"Nevada","Professional","Black",796
+2020,"Nevada","Professional","Hispanic",1264
+2020,"Nevada","Professional","Multiracial",568
+2020,"Nevada","Professional","PacificIslander",114
+2020,"Nevada","Professional","White",7882
+2020,"New Hampshire","Professional","AmericanIndian",0
+2020,"New Hampshire","Professional","Asian",1356
+2020,"New Hampshire","Professional","Black",350
+2020,"New Hampshire","Professional","Hispanic",652
+2020,"New Hampshire","Professional","Multiracial",264
+2020,"New Hampshire","Professional","PacificIslander",0
+2020,"New Hampshire","Professional","White",13606
+2020,"New Jersey","Professional","AmericanIndian",198
+2020,"New Jersey","Professional","Asian",41312
+2020,"New Jersey","Professional","Black",9190
+2020,"New Jersey","Professional","Hispanic",7696
+2020,"New Jersey","Professional","Multiracial",2096
+2020,"New Jersey","Professional","PacificIslander",204
+2020,"New Jersey","Professional","White",64434
+2020,"New Mexico","Professional","AmericanIndian",568
+2020,"New Mexico","Professional","Asian",2310
+2020,"New Mexico","Professional","Black",828
+2020,"New Mexico","Professional","Hispanic",9814
+2020,"New Mexico","Professional","Multiracial",888
+2020,"New Mexico","Professional","PacificIslander",58
+2020,"New Mexico","Professional","White",26092
+2020,"New York","Professional","AmericanIndian",534
+2020,"New York","Professional","Asian",66226
+2020,"New York","Professional","Black",21152
+2020,"New York","Professional","Hispanic",25604
+2020,"New York","Professional","Multiracial",8554
+2020,"New York","Professional","PacificIslander",476
+2020,"New York","Professional","White",213460
+2020,"North Carolina","Professional","AmericanIndian",304
+2020,"North Carolina","Professional","Asian",17166
+2020,"North Carolina","Professional","Black",14018
+2020,"North Carolina","Professional","Hispanic",6140
+2020,"North Carolina","Professional","Multiracial",2710
+2020,"North Carolina","Professional","PacificIslander",234
+2020,"North Carolina","Professional","White",84644
+2020,"North Dakota","Professional","AmericanIndian",0
+2020,"North Dakota","Professional","Asian",108
+2020,"North Dakota","Professional","Black",56
+2020,"North Dakota","Professional","Hispanic",60
+2020,"North Dakota","Professional","Multiracial",24
+2020,"North Dakota","Professional","PacificIslander",0
+2020,"North Dakota","Professional","White",3090
+2020,"Ohio","Professional","AmericanIndian",224
+2020,"Ohio","Professional","Asian",10858
+2020,"Ohio","Professional","Black",5696
+2020,"Ohio","Professional","Hispanic",3370
+2020,"Ohio","Professional","Multiracial",1780
+2020,"Ohio","Professional","PacificIslander",192
+2020,"Ohio","Professional","White",87612
+2020,"Oklahoma","Professional","AmericanIndian",590
+2020,"Oklahoma","Professional","Asian",1672
+2020,"Oklahoma","Professional","Black",1176
+2020,"Oklahoma","Professional","Hispanic",860
+2020,"Oklahoma","Professional","Multiracial",570
+2020,"Oklahoma","Professional","PacificIslander",34
+2020,"Oklahoma","Professional","White",11706
+2020,"Oregon","Professional","AmericanIndian",122
+2020,"Oregon","Professional","Asian",3302
+2020,"Oregon","Professional","Black",666
+2020,"Oregon","Professional","Hispanic",1372
+2020,"Oregon","Professional","Multiracial",1098
+2020,"Oregon","Professional","PacificIslander",86
+2020,"Oregon","Professional","White",22426
+2020,"Pennsylvania","Professional","AmericanIndian",200
+2020,"Pennsylvania","Professional","Asian",21804
+2020,"Pennsylvania","Professional","Black",8214
+2020,"Pennsylvania","Professional","Hispanic",4918
+2020,"Pennsylvania","Professional","Multiracial",2226
+2020,"Pennsylvania","Professional","PacificIslander",190
+2020,"Pennsylvania","Professional","White",114338
+2020,"Rhode Island","Professional","AmericanIndian",0
+2020,"Rhode Island","Professional","Asian",804
+2020,"Rhode Island","Professional","Black",0
+2020,"Rhode Island","Professional","Hispanic",240
+2020,"Rhode Island","Professional","Multiracial",100
+2020,"Rhode Island","Professional","PacificIslander",0
+2020,"Rhode Island","Professional","White",5348
+2020,"South Carolina","Professional","AmericanIndian",66
+2020,"South Carolina","Professional","Asian",1540
+2020,"South Carolina","Professional","Black",2658
+2020,"South Carolina","Professional","Hispanic",1126
+2020,"South Carolina","Professional","Multiracial",524
+2020,"South Carolina","Professional","PacificIslander",74
+2020,"South Carolina","Professional","White",20894
+2020,"South Dakota","Professional","AmericanIndian",0
+2020,"South Dakota","Professional","Asian",36
+2020,"South Dakota","Professional","Black",30
+2020,"South Dakota","Professional","Hispanic",16
+2020,"South Dakota","Professional","Multiracial",6
+2020,"South Dakota","Professional","PacificIslander",0
+2020,"South Dakota","Professional","White",1436
+2020,"Tennessee","Professional","AmericanIndian",138
+2020,"Tennessee","Professional","Asian",4612
+2020,"Tennessee","Professional","Black",4078
+2020,"Tennessee","Professional","Hispanic",1710
+2020,"Tennessee","Professional","Multiracial",794
+2020,"Tennessee","Professional","PacificIslander",66
+2020,"Tennessee","Professional","White",42732
+2020,"Texas","Professional","AmericanIndian",1000
+2020,"Texas","Professional","Asian",61870
+2020,"Texas","Professional","Black",24576
+2020,"Texas","Professional","Hispanic",37112
+2020,"Texas","Professional","Multiracial",6624
+2020,"Texas","Professional","PacificIslander",590
+2020,"Texas","Professional","White",164724
+2020,"Utah","Professional","AmericanIndian",110
+2020,"Utah","Professional","Asian",2468
+2020,"Utah","Professional","Black",632
+2020,"Utah","Professional","Hispanic",2078
+2020,"Utah","Professional","Multiracial",888
+2020,"Utah","Professional","PacificIslander",200
+2020,"Utah","Professional","White",31066
+2020,"Vermont","Professional","AmericanIndian",0
+2020,"Vermont","Professional","Asian",524
+2020,"Vermont","Professional","Black",0
+2020,"Vermont","Professional","Hispanic",36
+2020,"Vermont","Professional","Multiracial",46
+2020,"Vermont","Professional","PacificIslander",0
+2020,"Vermont","Professional","White",1560
+2020,"Virginia","Professional","AmericanIndian",1076
+2020,"Virginia","Professional","Asian",57634
+2020,"Virginia","Professional","Black",56506
+2020,"Virginia","Professional","Hispanic",22618
+2020,"Virginia","Professional","Multiracial",11324
+2020,"Virginia","Professional","PacificIslander",1112
+2020,"Virginia","Professional","White",237196
+2020,"Washington","Professional","AmericanIndian",346
+2020,"Washington","Professional","Asian",27494
+2020,"Washington","Professional","Black",2938
+2020,"Washington","Professional","Hispanic",4820
+2020,"Washington","Professional","Multiracial",3514
+2020,"Washington","Professional","PacificIslander",412
+2020,"Washington","Professional","White",70344
+2020,"West Virginia","Professional","AmericanIndian",10
+2020,"West Virginia","Professional","Asian",244
+2020,"West Virginia","Professional","Black",208
+2020,"West Virginia","Professional","Hispanic",116
+2020,"West Virginia","Professional","Multiracial",88
+2020,"West Virginia","Professional","PacificIslander",12
+2020,"West Virginia","Professional","White",4646
+2020,"Wisconsin","Professional","AmericanIndian",138
+2020,"Wisconsin","Professional","Asian",6052
+2020,"Wisconsin","Professional","Black",1436
+2020,"Wisconsin","Professional","Hispanic",1750
+2020,"Wisconsin","Professional","Multiracial",1140
+2020,"Wisconsin","Professional","PacificIslander",70
+2020,"Wisconsin","Professional","White",50948
+2020,"Wyoming","Professional","AmericanIndian",6
+2020,"Wyoming","Professional","Asian",0
+2020,"Wyoming","Professional","Black",0
+2020,"Wyoming","Professional","Hispanic",16
+2020,"Wyoming","Professional","Multiracial",10
+2020,"Wyoming","Professional","PacificIslander",0
+2020,"Wyoming","Professional","White",334
+2021,"Alabama","Professional","AmericanIndian",376
+2021,"Alabama","Professional","Asian",1892
+2021,"Alabama","Professional","Black",5412
+2021,"Alabama","Professional","Hispanic",2460
+2021,"Alabama","Professional","Multiracial",1094
+2021,"Alabama","Professional","PacificIslander",118
+2021,"Alabama","Professional","White",48078
+2021,"Alaska","Professional","AmericanIndian",80
+2021,"Alaska","Professional","Asian",142
+2021,"Alaska","Professional","Black",94
+2021,"Alaska","Professional","Hispanic",132
+2021,"Alaska","Professional","Multiracial",110
+2021,"Alaska","Professional","PacificIslander",8
+2021,"Alaska","Professional","White",2586
+2021,"Arizona","Professional","AmericanIndian",432
+2021,"Arizona","Professional","Asian",9238
+2021,"Arizona","Professional","Black",3514
+2021,"Arizona","Professional","Hispanic",8994
+2021,"Arizona","Professional","Multiracial",2162
+2021,"Arizona","Professional","PacificIslander",188
+2021,"Arizona","Professional","White",46370
+2021,"Arkansas","Professional","AmericanIndian",50
+2021,"Arkansas","Professional","Asian",1494
+2021,"Arkansas","Professional","Black",634
+2021,"Arkansas","Professional","Hispanic",320
+2021,"Arkansas","Professional","Multiracial",142
+2021,"Arkansas","Professional","PacificIslander",14
+2021,"Arkansas","Professional","White",5954
+2021,"California","Professional","AmericanIndian",1898
+2021,"California","Professional","Asian",248180
+2021,"California","Professional","Black",32126
+2021,"California","Professional","Hispanic",69950
+2021,"California","Professional","Multiracial",26246
+2021,"California","Professional","PacificIslander",3748
+2021,"California","Professional","White",351450
+2021,"Colorado","Professional","AmericanIndian",460
+2021,"Colorado","Professional","Asian",8814
+2021,"Colorado","Professional","Black",3830
+2021,"Colorado","Professional","Hispanic",7660
+2021,"Colorado","Professional","Multiracial",3102
+2021,"Colorado","Professional","PacificIslander",280
+2021,"Colorado","Professional","White",84702
+2021,"Connecticut","Professional","AmericanIndian",108
+2021,"Connecticut","Professional","Asian",7868
+2021,"Connecticut","Professional","Black",2546
+2021,"Connecticut","Professional","Hispanic",2700
+2021,"Connecticut","Professional","Multiracial",802
+2021,"Connecticut","Professional","PacificIslander",60
+2021,"Connecticut","Professional","White",33066
+2021,"Delaware","Professional","AmericanIndian",18
+2021,"Delaware","Professional","Asian",1150
+2021,"Delaware","Professional","Black",764
+2021,"Delaware","Professional","Hispanic",554
+2021,"Delaware","Professional","Multiracial",212
+2021,"Delaware","Professional","PacificIslander",12
+2021,"Delaware","Professional","White",5654
+2021,"District of Columbia","Professional","AmericanIndian",172
+2021,"District of Columbia","Professional","Asian",10008
+2021,"District of Columbia","Professional","Black",12084
+2021,"District of Columbia","Professional","Hispanic",5038
+2021,"District of Columbia","Professional","Multiracial",2510
+2021,"District of Columbia","Professional","PacificIslander",136
+2021,"District of Columbia","Professional","White",49990
+2021,"Florida","Professional","AmericanIndian",542
+2021,"Florida","Professional","Asian",20998
+2021,"Florida","Professional","Black",17872
+2021,"Florida","Professional","Hispanic",30414
+2021,"Florida","Professional","Multiracial",5084
+2021,"Florida","Professional","PacificIslander",464
+2021,"Florida","Professional","White",111354
+2021,"Georgia","Professional","AmericanIndian",326
+2021,"Georgia","Professional","Asian",26008
+2021,"Georgia","Professional","Black",24734
+2021,"Georgia","Professional","Hispanic",8406
+2021,"Georgia","Professional","Multiracial",3478
+2021,"Georgia","Professional","PacificIslander",228
+2021,"Georgia","Professional","White",81678
+2021,"Hawaii","Professional","AmericanIndian",10
+2021,"Hawaii","Professional","Asian",2130
+2021,"Hawaii","Professional","Black",178
+2021,"Hawaii","Professional","Hispanic",336
+2021,"Hawaii","Professional","Multiracial",574
+2021,"Hawaii","Professional","PacificIslander",344
+2021,"Hawaii","Professional","White",2570
+2021,"Idaho","Professional","AmericanIndian",76
+2021,"Idaho","Professional","Asian",726
+2021,"Idaho","Professional","Black",326
+2021,"Idaho","Professional","Hispanic",656
+2021,"Idaho","Professional","Multiracial",372
+2021,"Idaho","Professional","PacificIslander",36
+2021,"Idaho","Professional","White",12366
+2021,"Illinois","Professional","AmericanIndian",342
+2021,"Illinois","Professional","Asian",36726
+2021,"Illinois","Professional","Black",13528
+2021,"Illinois","Professional","Hispanic",14722
+2021,"Illinois","Professional","Multiracial",4814
+2021,"Illinois","Professional","PacificIslander",368
+2021,"Illinois","Professional","White",141432
+2021,"Indiana","Professional","AmericanIndian",114
+2021,"Indiana","Professional","Asian",4902
+2021,"Indiana","Professional","Black",2762
+2021,"Indiana","Professional","Hispanic",1594
+2021,"Indiana","Professional","Multiracial",784
+2021,"Indiana","Professional","PacificIslander",82
+2021,"Indiana","Professional","White",34338
+2021,"Iowa","Professional","AmericanIndian",44
+2021,"Iowa","Professional","Asian",778
+2021,"Iowa","Professional","Black",350
+2021,"Iowa","Professional","Hispanic",464
+2021,"Iowa","Professional","Multiracial",192
+2021,"Iowa","Professional","PacificIslander",24
+2021,"Iowa","Professional","White",12242
+2021,"Kansas","Professional","AmericanIndian",114
+2021,"Kansas","Professional","Asian",2462
+2021,"Kansas","Professional","Black",1746
+2021,"Kansas","Professional","Hispanic",1302
+2021,"Kansas","Professional","Multiracial",544
+2021,"Kansas","Professional","PacificIslander",48
+2021,"Kansas","Professional","White",20202
+2021,"Kentucky","Professional","AmericanIndian",70
+2021,"Kentucky","Professional","Asian",2542
+2021,"Kentucky","Professional","Black",1254
+2021,"Kentucky","Professional","Hispanic",732
+2021,"Kentucky","Professional","Multiracial",346
+2021,"Kentucky","Professional","PacificIslander",46
+2021,"Kentucky","Professional","White",16452
+2021,"Louisiana","Professional","AmericanIndian",52
+2021,"Louisiana","Professional","Asian",1136
+2021,"Louisiana","Professional","Black",1596
+2021,"Louisiana","Professional","Hispanic",608
+2021,"Louisiana","Professional","Multiracial",296
+2021,"Louisiana","Professional","PacificIslander",22
+2021,"Louisiana","Professional","White",12540
+2021,"Maine","Professional","AmericanIndian",0
+2021,"Maine","Professional","Asian",242
+2021,"Maine","Professional","Black",66
+2021,"Maine","Professional","Hispanic",128
+2021,"Maine","Professional","Multiracial",92
+2021,"Maine","Professional","PacificIslander",0
+2021,"Maine","Professional","White",4610
+2021,"Maryland","Professional","AmericanIndian",448
+2021,"Maryland","Professional","Asian",25402
+2021,"Maryland","Professional","Black",26178
+2021,"Maryland","Professional","Hispanic",9720
+2021,"Maryland","Professional","Multiracial",4666
+2021,"Maryland","Professional","PacificIslander",458
+2021,"Maryland","Professional","White",110152
+2021,"Massachusetts","Professional","AmericanIndian",308
+2021,"Massachusetts","Professional","Asian",41816
+2021,"Massachusetts","Professional","Black",9138
+2021,"Massachusetts","Professional","Hispanic",11252
+2021,"Massachusetts","Professional","Multiracial",4586
+2021,"Massachusetts","Professional","PacificIslander",304
+2021,"Massachusetts","Professional","White",149348
+2021,"Michigan","Professional","AmericanIndian",354
+2021,"Michigan","Professional","Asian",16256
+2021,"Michigan","Professional","Black",7388
+2021,"Michigan","Professional","Hispanic",3734
+2021,"Michigan","Professional","Multiracial",1628
+2021,"Michigan","Professional","PacificIslander",224
+2021,"Michigan","Professional","White",73054
+2021,"Minnesota","Professional","AmericanIndian",206
+2021,"Minnesota","Professional","Asian",8132
+2021,"Minnesota","Professional","Black",3012
+2021,"Minnesota","Professional","Hispanic",2386
+2021,"Minnesota","Professional","Multiracial",1416
+2021,"Minnesota","Professional","PacificIslander",82
+2021,"Minnesota","Professional","White",63902
+2021,"Mississippi","Professional","AmericanIndian",20
+2021,"Mississippi","Professional","Asian",148
+2021,"Mississippi","Professional","Black",794
+2021,"Mississippi","Professional","Hispanic",268
+2021,"Mississippi","Professional","Multiracial",88
+2021,"Mississippi","Professional","PacificIslander",12
+2021,"Mississippi","Professional","White",2342
+2021,"Missouri","Professional","AmericanIndian",356
+2021,"Missouri","Professional","Asian",8630
+2021,"Missouri","Professional","Black",6338
+2021,"Missouri","Professional","Hispanic",3744
+2021,"Missouri","Professional","Multiracial",1996
+2021,"Missouri","Professional","PacificIslander",146
+2021,"Missouri","Professional","White",77046
+2021,"Montana","Professional","AmericanIndian",34
+2021,"Montana","Professional","Asian",0
+2021,"Montana","Professional","Black",0
+2021,"Montana","Professional","Hispanic",78
+2021,"Montana","Professional","Multiracial",68
+2021,"Montana","Professional","PacificIslander",0
+2021,"Montana","Professional","White",3030
+2021,"Nebraska","Professional","AmericanIndian",38
+2021,"Nebraska","Professional","Asian",944
+2021,"Nebraska","Professional","Black",562
+2021,"Nebraska","Professional","Hispanic",570
+2021,"Nebraska","Professional","Multiracial",250
+2021,"Nebraska","Professional","PacificIslander",18
+2021,"Nebraska","Professional","White",12578
+2021,"Nevada","Professional","AmericanIndian",76
+2021,"Nevada","Professional","Asian",1644
+2021,"Nevada","Professional","Black",830
+2021,"Nevada","Professional","Hispanic",1492
+2021,"Nevada","Professional","Multiracial",760
+2021,"Nevada","Professional","PacificIslander",258
+2021,"Nevada","Professional","White",8502
+2021,"New Hampshire","Professional","AmericanIndian",20
+2021,"New Hampshire","Professional","Asian",1588
+2021,"New Hampshire","Professional","Black",406
+2021,"New Hampshire","Professional","Hispanic",658
+2021,"New Hampshire","Professional","Multiracial",266
+2021,"New Hampshire","Professional","PacificIslander",20
+2021,"New Hampshire","Professional","White",12838
+2021,"New Jersey","Professional","AmericanIndian",248
+2021,"New Jersey","Professional","Asian",51840
+2021,"New Jersey","Professional","Black",13168
+2021,"New Jersey","Professional","Hispanic",9934
+2021,"New Jersey","Professional","Multiracial",2716
+2021,"New Jersey","Professional","PacificIslander",222
+2021,"New Jersey","Professional","White",74672
+2021,"New Mexico","Professional","AmericanIndian",592
+2021,"New Mexico","Professional","Asian",2438
+2021,"New Mexico","Professional","Black",878
+2021,"New Mexico","Professional","Hispanic",10484
+2021,"New Mexico","Professional","Multiracial",908
+2021,"New Mexico","Professional","PacificIslander",74
+2021,"New Mexico","Professional","White",26466
+2021,"New York","Professional","AmericanIndian",550
+2021,"New York","Professional","Asian",70750
+2021,"New York","Professional","Black",26214
+2021,"New York","Professional","Hispanic",29896
+2021,"New York","Professional","Multiracial",9736
+2021,"New York","Professional","PacificIslander",610
+2021,"New York","Professional","White",234804
+2021,"North Carolina","Professional","AmericanIndian",406
+2021,"North Carolina","Professional","Asian",21768
+2021,"North Carolina","Professional","Black",16960
+2021,"North Carolina","Professional","Hispanic",7622
+2021,"North Carolina","Professional","Multiracial",3434
+2021,"North Carolina","Professional","PacificIslander",256
+2021,"North Carolina","Professional","White",100102
+2021,"North Dakota","Professional","AmericanIndian",0
+2021,"North Dakota","Professional","Asian",158
+2021,"North Dakota","Professional","Black",102
+2021,"North Dakota","Professional","Hispanic",78
+2021,"North Dakota","Professional","Multiracial",24
+2021,"North Dakota","Professional","PacificIslander",0
+2021,"North Dakota","Professional","White",3160
+2021,"Ohio","Professional","AmericanIndian",298
+2021,"Ohio","Professional","Asian",12080
+2021,"Ohio","Professional","Black",6644
+2021,"Ohio","Professional","Hispanic",4028
+2021,"Ohio","Professional","Multiracial",1980
+2021,"Ohio","Professional","PacificIslander",158
+2021,"Ohio","Professional","White",93426
+2021,"Oklahoma","Professional","AmericanIndian",570
+2021,"Oklahoma","Professional","Asian",1602
+2021,"Oklahoma","Professional","Black",1378
+2021,"Oklahoma","Professional","Hispanic",1054
+2021,"Oklahoma","Professional","Multiracial",630
+2021,"Oklahoma","Professional","PacificIslander",40
+2021,"Oklahoma","Professional","White",12168
+2021,"Oregon","Professional","AmericanIndian",100
+2021,"Oregon","Professional","Asian",3428
+2021,"Oregon","Professional","Black",964
+2021,"Oregon","Professional","Hispanic",1754
+2021,"Oregon","Professional","Multiracial",1206
+2021,"Oregon","Professional","PacificIslander",108
+2021,"Oregon","Professional","White",22502
+2021,"Pennsylvania","Professional","AmericanIndian",224
+2021,"Pennsylvania","Professional","Asian",25302
+2021,"Pennsylvania","Professional","Black",9982
+2021,"Pennsylvania","Professional","Hispanic",5946
+2021,"Pennsylvania","Professional","Multiracial",2710
+2021,"Pennsylvania","Professional","PacificIslander",232
+2021,"Pennsylvania","Professional","White",126152
+2021,"Rhode Island","Professional","AmericanIndian",18
+2021,"Rhode Island","Professional","Asian",1638
+2021,"Rhode Island","Professional","Black",414
+2021,"Rhode Island","Professional","Hispanic",354
+2021,"Rhode Island","Professional","Multiracial",130
+2021,"Rhode Island","Professional","PacificIslander",40
+2021,"Rhode Island","Professional","White",6272
+2021,"South Carolina","Professional","AmericanIndian",78
+2021,"South Carolina","Professional","Asian",2024
+2021,"South Carolina","Professional","Black",3372
+2021,"South Carolina","Professional","Hispanic",1496
+2021,"South Carolina","Professional","Multiracial",666
+2021,"South Carolina","Professional","PacificIslander",72
+2021,"South Carolina","Professional","White",23752
+2021,"South Dakota","Professional","AmericanIndian",0
+2021,"South Dakota","Professional","Asian",40
+2021,"South Dakota","Professional","Black",36
+2021,"South Dakota","Professional","Hispanic",26
+2021,"South Dakota","Professional","Multiracial",26
+2021,"South Dakota","Professional","PacificIslander",0
+2021,"South Dakota","Professional","White",1894
+2021,"Tennessee","Professional","AmericanIndian",150
+2021,"Tennessee","Professional","Asian",6030
+2021,"Tennessee","Professional","Black",5572
+2021,"Tennessee","Professional","Hispanic",2366
+2021,"Tennessee","Professional","Multiracial",1048
+2021,"Tennessee","Professional","PacificIslander",92
+2021,"Tennessee","Professional","White",46488
+2021,"Texas","Professional","AmericanIndian",1168
+2021,"Texas","Professional","Asian",76414
+2021,"Texas","Professional","Black",32492
+2021,"Texas","Professional","Hispanic",44834
+2021,"Texas","Professional","Multiracial",8572
+2021,"Texas","Professional","PacificIslander",676
+2021,"Texas","Professional","White",186786
+2021,"Utah","Professional","AmericanIndian",152
+2021,"Utah","Professional","Asian",2900
+2021,"Utah","Professional","Black",1290
+2021,"Utah","Professional","Hispanic",2826
+2021,"Utah","Professional","Multiracial",1244
+2021,"Utah","Professional","PacificIslander",212
+2021,"Utah","Professional","White",38704
+2021,"Vermont","Professional","AmericanIndian",0
+2021,"Vermont","Professional","Asian",150
+2021,"Vermont","Professional","Black",88
+2021,"Vermont","Professional","Hispanic",74
+2021,"Vermont","Professional","Multiracial",66
+2021,"Vermont","Professional","PacificIslander",0
+2021,"Vermont","Professional","White",1968
+2021,"Virginia","Professional","AmericanIndian",1186
+2021,"Virginia","Professional","Asian",62794
+2021,"Virginia","Professional","Black",65194
+2021,"Virginia","Professional","Hispanic",27890
+2021,"Virginia","Professional","Multiracial",13470
+2021,"Virginia","Professional","PacificIslander",1266
+2021,"Virginia","Professional","White",252322
+2021,"Washington","Professional","AmericanIndian",388
+2021,"Washington","Professional","Asian",32090
+2021,"Washington","Professional","Black",3942
+2021,"Washington","Professional","Hispanic",5850
+2021,"Washington","Professional","Multiracial",4028
+2021,"Washington","Professional","PacificIslander",466
+2021,"Washington","Professional","White",74912
+2021,"West Virginia","Professional","AmericanIndian",14
+2021,"West Virginia","Professional","Asian",228
+2021,"West Virginia","Professional","Black",282
+2021,"West Virginia","Professional","Hispanic",146
+2021,"West Virginia","Professional","Multiracial",102
+2021,"West Virginia","Professional","PacificIslander",8
+2021,"West Virginia","Professional","White",4442
+2021,"Wisconsin","Professional","AmericanIndian",138
+2021,"Wisconsin","Professional","Asian",6972
+2021,"Wisconsin","Professional","Black",2768
+2021,"Wisconsin","Professional","Hispanic",2536
+2021,"Wisconsin","Professional","Multiracial",1296
+2021,"Wisconsin","Professional","PacificIslander",84
+2021,"Wisconsin","Professional","White",53486
+2021,"Wyoming","Professional","AmericanIndian",6
+2021,"Wyoming","Professional","Asian",0
+2021,"Wyoming","Professional","Black",0
+2021,"Wyoming","Professional","Hispanic",8
+2021,"Wyoming","Professional","Multiracial",6
+2021,"Wyoming","Professional","PacificIslander",0
+2021,"Wyoming","Professional","White",332
+2022,"Alabama","Professional","AmericanIndian",404
+2022,"Alabama","Professional","Asian",2476
+2022,"Alabama","Professional","Black",7120
+2022,"Alabama","Professional","Hispanic",2600
+2022,"Alabama","Professional","Multiracial",1472
+2022,"Alabama","Professional","PacificIslander",174
+2022,"Alabama","Professional","White",58852
+2022,"Alaska","Professional","AmericanIndian",160
+2022,"Alaska","Professional","Asian",322
+2022,"Alaska","Professional","Black",354
+2022,"Alaska","Professional","Hispanic",268
+2022,"Alaska","Professional","Multiracial",256
+2022,"Alaska","Professional","PacificIslander",10
+2022,"Alaska","Professional","White",4408
+2022,"Arizona","Professional","AmericanIndian",0
+2022,"Arizona","Professional","Asian",11128
+2022,"Arizona","Professional","Black",4580
+2022,"Arizona","Professional","Hispanic",12460
+2022,"Arizona","Professional","Multiracial",2756
+2022,"Arizona","Professional","PacificIslander",0
+2022,"Arizona","Professional","White",54762
+2022,"Arkansas","Professional","AmericanIndian",82
+2022,"Arkansas","Professional","Asian",1714
+2022,"Arkansas","Professional","Black",828
+2022,"Arkansas","Professional","Hispanic",588
+2022,"Arkansas","Professional","Multiracial",244
+2022,"Arkansas","Professional","PacificIslander",28
+2022,"Arkansas","Professional","White",9022
+2022,"California","Professional","AmericanIndian",2244
+2022,"California","Professional","Asian",280712
+2022,"California","Professional","Black",40586
+2022,"California","Professional","Hispanic",94210
+2022,"California","Professional","Multiracial",33294
+2022,"California","Professional","PacificIslander",5360
+2022,"California","Professional","White",421636
+2022,"Colorado","Professional","AmericanIndian",580
+2022,"Colorado","Professional","Asian",11652
+2022,"Colorado","Professional","Black",5410
+2022,"Colorado","Professional","Hispanic",10872
+2022,"Colorado","Professional","Multiracial",4560
+2022,"Colorado","Professional","PacificIslander",590
+2022,"Colorado","Professional","White",111950
+2022,"Connecticut","Professional","AmericanIndian",126
+2022,"Connecticut","Professional","Asian",8986
+2022,"Connecticut","Professional","Black",3712
+2022,"Connecticut","Professional","Hispanic",3738
+2022,"Connecticut","Professional","Multiracial",1272
+2022,"Connecticut","Professional","PacificIslander",102
+2022,"Connecticut","Professional","White",40892
+2022,"Delaware","Professional","AmericanIndian",32
+2022,"Delaware","Professional","Asian",1410
+2022,"Delaware","Professional","Black",1060
+2022,"Delaware","Professional","Hispanic",534
+2022,"Delaware","Professional","Multiracial",200
+2022,"Delaware","Professional","PacificIslander",12
+2022,"Delaware","Professional","White",7294
+2022,"District of Columbia","Professional","AmericanIndian",206
+2022,"District of Columbia","Professional","Asian",13784
+2022,"District of Columbia","Professional","Black",17648
+2022,"District of Columbia","Professional","Hispanic",7122
+2022,"District of Columbia","Professional","Multiracial",3508
+2022,"District of Columbia","Professional","PacificIslander",358
+2022,"District of Columbia","Professional","White",62860
+2022,"Florida","Professional","AmericanIndian",736
+2022,"Florida","Professional","Asian",25518
+2022,"Florida","Professional","Black",23302
+2022,"Florida","Professional","Hispanic",43176
+2022,"Florida","Professional","Multiracial",7370
+2022,"Florida","Professional","PacificIslander",968
+2022,"Florida","Professional","White",154838
+2022,"Georgia","Professional","AmericanIndian",410
+2022,"Georgia","Professional","Asian",30034
+2022,"Georgia","Professional","Black",31222
+2022,"Georgia","Professional","Hispanic",10928
+2022,"Georgia","Professional","Multiracial",4846
+2022,"Georgia","Professional","PacificIslander",458
+2022,"Georgia","Professional","White",97630
+2022,"Hawaii","Professional","AmericanIndian",32
+2022,"Hawaii","Professional","Asian",3712
+2022,"Hawaii","Professional","Black",454
+2022,"Hawaii","Professional","Hispanic",620
+2022,"Hawaii","Professional","Multiracial",1104
+2022,"Hawaii","Professional","PacificIslander",700
+2022,"Hawaii","Professional","White",4202
+2022,"Idaho","Professional","AmericanIndian",90
+2022,"Idaho","Professional","Asian",918
+2022,"Idaho","Professional","Black",188
+2022,"Idaho","Professional","Hispanic",746
+2022,"Idaho","Professional","Multiracial",500
+2022,"Idaho","Professional","PacificIslander",50
+2022,"Idaho","Professional","White",14782
+2022,"Illinois","Professional","AmericanIndian",462
+2022,"Illinois","Professional","Asian",43106
+2022,"Illinois","Professional","Black",17112
+2022,"Illinois","Professional","Hispanic",19096
+2022,"Illinois","Professional","Multiracial",6020
+2022,"Illinois","Professional","PacificIslander",530
+2022,"Illinois","Professional","White",167724
+2022,"Indiana","Professional","AmericanIndian",838
+2022,"Indiana","Professional","Asian",5450
+2022,"Indiana","Professional","Black",3150
+2022,"Indiana","Professional","Hispanic",2470
+2022,"Indiana","Professional","Multiracial",1070
+2022,"Indiana","Professional","PacificIslander",112
+2022,"Indiana","Professional","White",41550
+2022,"Iowa","Professional","AmericanIndian",98
+2022,"Iowa","Professional","Asian",1070
+2022,"Iowa","Professional","Black",532
+2022,"Iowa","Professional","Hispanic",718
+2022,"Iowa","Professional","Multiracial",298
+2022,"Iowa","Professional","PacificIslander",30
+2022,"Iowa","Professional","White",17916
+2022,"Kansas","Professional","AmericanIndian",162
+2022,"Kansas","Professional","Asian",3338
+2022,"Kansas","Professional","Black",2226
+2022,"Kansas","Professional","Hispanic",1892
+2022,"Kansas","Professional","Multiracial",882
+2022,"Kansas","Professional","PacificIslander",78
+2022,"Kansas","Professional","White",25526
+2022,"Kentucky","Professional","AmericanIndian",50
+2022,"Kentucky","Professional","Asian",2184
+2022,"Kentucky","Professional","Black",1574
+2022,"Kentucky","Professional","Hispanic",942
+2022,"Kentucky","Professional","Multiracial",486
+2022,"Kentucky","Professional","PacificIslander",28
+2022,"Kentucky","Professional","White",21286
+2022,"Louisiana","Professional","AmericanIndian",86
+2022,"Louisiana","Professional","Asian",1360
+2022,"Louisiana","Professional","Black",2536
+2022,"Louisiana","Professional","Hispanic",1084
+2022,"Louisiana","Professional","Multiracial",462
+2022,"Louisiana","Professional","PacificIslander",40
+2022,"Louisiana","Professional","White",19374
+2022,"Maine","Professional","AmericanIndian",44
+2022,"Maine","Professional","Asian",490
+2022,"Maine","Professional","Black",180
+2022,"Maine","Professional","Hispanic",224
+2022,"Maine","Professional","Multiracial",160
+2022,"Maine","Professional","PacificIslander",8
+2022,"Maine","Professional","White",9184
+2022,"Maryland","Professional","AmericanIndian",568
+2022,"Maryland","Professional","Asian",30042
+2022,"Maryland","Professional","Black",32762
+2022,"Maryland","Professional","Hispanic",11574
+2022,"Maryland","Professional","Multiracial",5936
+2022,"Maryland","Professional","PacificIslander",1158
+2022,"Maryland","Professional","White",130930
+2022,"Massachusetts","Professional","AmericanIndian",378
+2022,"Massachusetts","Professional","Asian",47288
+2022,"Massachusetts","Professional","Black",11790
+2022,"Massachusetts","Professional","Hispanic",13684
+2022,"Massachusetts","Professional","Multiracial",5732
+2022,"Massachusetts","Professional","PacificIslander",796
+2022,"Massachusetts","Professional","White",170370
+2022,"Michigan","Professional","AmericanIndian",386
+2022,"Michigan","Professional","Asian",17742
+2022,"Michigan","Professional","Black",8534
+2022,"Michigan","Professional","Hispanic",4398
+2022,"Michigan","Professional","Multiracial",2248
+2022,"Michigan","Professional","PacificIslander",546
+2022,"Michigan","Professional","White",83642
+2022,"Minnesota","Professional","AmericanIndian",310
+2022,"Minnesota","Professional","Asian",12946
+2022,"Minnesota","Professional","Black",5540
+2022,"Minnesota","Professional","Hispanic",4392
+2022,"Minnesota","Professional","Multiracial",2444
+2022,"Minnesota","Professional","PacificIslander",722
+2022,"Minnesota","Professional","White",93080
+2022,"Mississippi","Professional","AmericanIndian",22
+2022,"Mississippi","Professional","Asian",234
+2022,"Mississippi","Professional","Black",1016
+2022,"Mississippi","Professional","Hispanic",360
+2022,"Mississippi","Professional","Multiracial",138
+2022,"Mississippi","Professional","PacificIslander",24
+2022,"Mississippi","Professional","White",4720
+2022,"Missouri","Professional","AmericanIndian",440
+2022,"Missouri","Professional","Asian",8484
+2022,"Missouri","Professional","Black",7078
+2022,"Missouri","Professional","Hispanic",4244
+2022,"Missouri","Professional","Multiracial",2228
+2022,"Missouri","Professional","PacificIslander",330
+2022,"Missouri","Professional","White",84100
+2022,"Montana","Professional","AmericanIndian",58
+2022,"Montana","Professional","Asian",194
+2022,"Montana","Professional","Black",172
+2022,"Montana","Professional","Hispanic",182
+2022,"Montana","Professional","Multiracial",124
+2022,"Montana","Professional","PacificIslander",8
+2022,"Montana","Professional","White",6026
+2022,"Nebraska","Professional","AmericanIndian",64
+2022,"Nebraska","Professional","Asian",1032
+2022,"Nebraska","Professional","Black",1144
+2022,"Nebraska","Professional","Hispanic",886
+2022,"Nebraska","Professional","Multiracial",406
+2022,"Nebraska","Professional","PacificIslander",86
+2022,"Nebraska","Professional","White",16692
+2022,"Nevada","Professional","AmericanIndian",102
+2022,"Nevada","Professional","Asian",2536
+2022,"Nevada","Professional","Black",1246
+2022,"Nevada","Professional","Hispanic",2068
+2022,"Nevada","Professional","Multiracial",802
+2022,"Nevada","Professional","PacificIslander",176
+2022,"Nevada","Professional","White",12454
+2022,"New Hampshire","Professional","AmericanIndian",30
+2022,"New Hampshire","Professional","Asian",1554
+2022,"New Hampshire","Professional","Black",422
+2022,"New Hampshire","Professional","Hispanic",648
+2022,"New Hampshire","Professional","Multiracial",280
+2022,"New Hampshire","Professional","PacificIslander",24
+2022,"New Hampshire","Professional","White",14474
+2022,"New Jersey","Professional","AmericanIndian",614
+2022,"New Jersey","Professional","Asian",55076
+2022,"New Jersey","Professional","Black",12664
+2022,"New Jersey","Professional","Hispanic",12252
+2022,"New Jersey","Professional","Multiracial",2910
+2022,"New Jersey","Professional","PacificIslander",380
+2022,"New Jersey","Professional","White",82694
+2022,"New Mexico","Professional","AmericanIndian",860
+2022,"New Mexico","Professional","Asian",3228
+2022,"New Mexico","Professional","Black",1130
+2022,"New Mexico","Professional","Hispanic",12796
+2022,"New Mexico","Professional","Multiracial",1190
+2022,"New Mexico","Professional","PacificIslander",110
+2022,"New Mexico","Professional","White",31096
+2022,"New York","Professional","AmericanIndian",994
+2022,"New York","Professional","Asian",89202
+2022,"New York","Professional","Black",33248
+2022,"New York","Professional","Hispanic",40370
+2022,"New York","Professional","Multiracial",13022
+2022,"New York","Professional","PacificIslander",2100
+2022,"New York","Professional","White",282192
+2022,"North Carolina","Professional","AmericanIndian",570
+2022,"North Carolina","Professional","Asian",27104
+2022,"North Carolina","Professional","Black",21800
+2022,"North Carolina","Professional","Hispanic",10124
+2022,"North Carolina","Professional","Multiracial",4532
+2022,"North Carolina","Professional","PacificIslander",418
+2022,"North Carolina","Professional","White",131684
+2022,"North Dakota","Professional","AmericanIndian",38
+2022,"North Dakota","Professional","Asian",150
+2022,"North Dakota","Professional","Black",86
+2022,"North Dakota","Professional","Hispanic",102
+2022,"North Dakota","Professional","Multiracial",88
+2022,"North Dakota","Professional","PacificIslander",36
+2022,"North Dakota","Professional","White",4836
+2022,"Ohio","Professional","AmericanIndian",442
+2022,"Ohio","Professional","Asian",14816
+2022,"Ohio","Professional","Black",9580
+2022,"Ohio","Professional","Hispanic",5374
+2022,"Ohio","Professional","Multiracial",2810
+2022,"Ohio","Professional","PacificIslander",510
+2022,"Ohio","Professional","White",118990
+2022,"Oklahoma","Professional","AmericanIndian",988
+2022,"Oklahoma","Professional","Asian",1968
+2022,"Oklahoma","Professional","Black",1678
+2022,"Oklahoma","Professional","Hispanic",1678
+2022,"Oklahoma","Professional","Multiracial",984
+2022,"Oklahoma","Professional","PacificIslander",46
+2022,"Oklahoma","Professional","White",17892
+2022,"Oregon","Professional","AmericanIndian",178
+2022,"Oregon","Professional","Asian",4222
+2022,"Oregon","Professional","Black",1052
+2022,"Oregon","Professional","Hispanic",2174
+2022,"Oregon","Professional","Multiracial",1406
+2022,"Oregon","Professional","PacificIslander",150
+2022,"Oregon","Professional","White",29034
+2022,"Pennsylvania","Professional","AmericanIndian",324
+2022,"Pennsylvania","Professional","Asian",28810
+2022,"Pennsylvania","Professional","Black",13696
+2022,"Pennsylvania","Professional","Hispanic",8198
+2022,"Pennsylvania","Professional","Multiracial",4076
+2022,"Pennsylvania","Professional","PacificIslander",606
+2022,"Pennsylvania","Professional","White",154274
+2022,"Rhode Island","Professional","AmericanIndian",18
+2022,"Rhode Island","Professional","Asian",1712
+2022,"Rhode Island","Professional","Black",518
+2022,"Rhode Island","Professional","Hispanic",530
+2022,"Rhode Island","Professional","Multiracial",160
+2022,"Rhode Island","Professional","PacificIslander",30
+2022,"Rhode Island","Professional","White",8806
+2022,"South Carolina","Professional","AmericanIndian",102
+2022,"South Carolina","Professional","Asian",2042
+2022,"South Carolina","Professional","Black",3696
+2022,"South Carolina","Professional","Hispanic",1624
+2022,"South Carolina","Professional","Multiracial",774
+2022,"South Carolina","Professional","PacificIslander",90
+2022,"South Carolina","Professional","White",29482
+2022,"South Dakota","Professional","AmericanIndian",30
+2022,"South Dakota","Professional","Asian",98
+2022,"South Dakota","Professional","Black",44
+2022,"South Dakota","Professional","Hispanic",68
+2022,"South Dakota","Professional","Multiracial",48
+2022,"South Dakota","Professional","PacificIslander",6
+2022,"South Dakota","Professional","White",3608
+2022,"Tennessee","Professional","AmericanIndian",200
+2022,"Tennessee","Professional","Asian",7412
+2022,"Tennessee","Professional","Black",7842
+2022,"Tennessee","Professional","Hispanic",4042
+2022,"Tennessee","Professional","Multiracial",1696
+2022,"Tennessee","Professional","PacificIslander",146
+2022,"Tennessee","Professional","White",63766
+2022,"Texas","Professional","AmericanIndian",1452
+2022,"Texas","Professional","Asian",92322
+2022,"Texas","Professional","Black",41614
+2022,"Texas","Professional","Hispanic",62744
+2022,"Texas","Professional","Multiracial",11302
+2022,"Texas","Professional","PacificIslander",1494
+2022,"Texas","Professional","White",232020
+2022,"Utah","Professional","AmericanIndian",218
+2022,"Utah","Professional","Asian",4490
+2022,"Utah","Professional","Black",1610
+2022,"Utah","Professional","Hispanic",3404
+2022,"Utah","Professional","Multiracial",1482
+2022,"Utah","Professional","PacificIslander",344
+2022,"Utah","Professional","White",46278
+2022,"Vermont","Professional","AmericanIndian",10
+2022,"Vermont","Professional","Asian",622
+2022,"Vermont","Professional","Black",154
+2022,"Vermont","Professional","Hispanic",144
+2022,"Vermont","Professional","Multiracial",108
+2022,"Vermont","Professional","PacificIslander",6
+2022,"Vermont","Professional","White",3568
+2022,"Virginia","Professional","AmericanIndian",1578
+2022,"Virginia","Professional","Asian",75956
+2022,"Virginia","Professional","Black",80810
+2022,"Virginia","Professional","Hispanic",33108
+2022,"Virginia","Professional","Multiracial",15934
+2022,"Virginia","Professional","PacificIslander",2538
+2022,"Virginia","Professional","White",291774
+2022,"Washington","Professional","AmericanIndian",524
+2022,"Washington","Professional","Asian",38796
+2022,"Washington","Professional","Black",5030
+2022,"Washington","Professional","Hispanic",7396
+2022,"Washington","Professional","Multiracial",4972
+2022,"Washington","Professional","PacificIslander",694
+2022,"Washington","Professional","White",91158
+2022,"West Virginia","Professional","AmericanIndian",12
+2022,"West Virginia","Professional","Asian",406
+2022,"West Virginia","Professional","Black",294
+2022,"West Virginia","Professional","Hispanic",160
+2022,"West Virginia","Professional","Multiracial",138
+2022,"West Virginia","Professional","PacificIslander",6
+2022,"West Virginia","Professional","White",6866
+2022,"Wisconsin","Professional","AmericanIndian",178
+2022,"Wisconsin","Professional","Asian",8810
+2022,"Wisconsin","Professional","Black",2584
+2022,"Wisconsin","Professional","Hispanic",3194
+2022,"Wisconsin","Professional","Multiracial",1844
+2022,"Wisconsin","Professional","PacificIslander",352
+2022,"Wisconsin","Professional","White",66194
+2022,"Wyoming","Professional","AmericanIndian",0
+2022,"Wyoming","Professional","Asian",104
+2022,"Wyoming","Professional","Black",20
+2022,"Wyoming","Professional","Hispanic",38
+2022,"Wyoming","Professional","Multiracial",26
+2022,"Wyoming","Professional","PacificIslander",0
+2022,"Wyoming","Professional","White",1222
+2023,"Alabama","Professional","AmericanIndian",470
+2023,"Alabama","Professional","Asian",2802
+2023,"Alabama","Professional","Black",8080
+2023,"Alabama","Professional","Hispanic",3028
+2023,"Alabama","Professional","Multiracial",1762
+2023,"Alabama","Professional","PacificIslander",206
+2023,"Alabama","Professional","White",63396
+2023,"Alaska","Professional","AmericanIndian",178
+2023,"Alaska","Professional","Asian",358
+2023,"Alaska","Professional","Black",348
+2023,"Alaska","Professional","Hispanic",268
+2023,"Alaska","Professional","Multiracial",256
+2023,"Alaska","Professional","PacificIslander",14
+2023,"Alaska","Professional","White",4624
+2023,"Arizona","Professional","AmericanIndian",0
+2023,"Arizona","Professional","Asian",11554
+2023,"Arizona","Professional","Black",4266
+2023,"Arizona","Professional","Hispanic",12868
+2023,"Arizona","Professional","Multiracial",2926
+2023,"Arizona","Professional","PacificIslander",0
+2023,"Arizona","Professional","White",54662
+2023,"Arkansas","Professional","AmericanIndian",152
+2023,"Arkansas","Professional","Asian",1728
+2023,"Arkansas","Professional","Black",910
+2023,"Arkansas","Professional","Hispanic",832
+2023,"Arkansas","Professional","Multiracial",384
+2023,"Arkansas","Professional","PacificIslander",26
+2023,"Arkansas","Professional","White",12046
+2023,"California","Professional","AmericanIndian",1946
+2023,"California","Professional","Asian",272148
+2023,"California","Professional","Black",34020
+2023,"California","Professional","Hispanic",90910
+2023,"California","Professional","Multiracial",31398
+2023,"California","Professional","PacificIslander",4728
+2023,"California","Professional","White",381172
+2023,"Colorado","Professional","AmericanIndian",690
+2023,"Colorado","Professional","Asian",12422
+2023,"Colorado","Professional","Black",5956
+2023,"Colorado","Professional","Hispanic",12128
+2023,"Colorado","Professional","Multiracial",4902
+2023,"Colorado","Professional","PacificIslander",600
+2023,"Colorado","Professional","White",114636
+2023,"Connecticut","Professional","AmericanIndian",0
+2023,"Connecticut","Professional","Asian",9114
+2023,"Connecticut","Professional","Black",3298
+2023,"Connecticut","Professional","Hispanic",3812
+2023,"Connecticut","Professional","Multiracial",1250
+2023,"Connecticut","Professional","PacificIslander",0
+2023,"Connecticut","Professional","White",40076
+2023,"Delaware","Professional","AmericanIndian",32
+2023,"Delaware","Professional","Asian",1174
+2023,"Delaware","Professional","Black",1044
+2023,"Delaware","Professional","Hispanic",532
+2023,"Delaware","Professional","Multiracial",220
+2023,"Delaware","Professional","PacificIslander",120
+2023,"Delaware","Professional","White",6518
+2023,"District of Columbia","Professional","AmericanIndian",212
+2023,"District of Columbia","Professional","Asian",13896
+2023,"District of Columbia","Professional","Black",18702
+2023,"District of Columbia","Professional","Hispanic",7346
+2023,"District of Columbia","Professional","Multiracial",3574
+2023,"District of Columbia","Professional","PacificIslander",356
+2023,"District of Columbia","Professional","White",64754
+2023,"Florida","Professional","AmericanIndian",742
+2023,"Florida","Professional","Asian",26574
+2023,"Florida","Professional","Black",23556
+2023,"Florida","Professional","Hispanic",45738
+2023,"Florida","Professional","Multiracial",7898
+2023,"Florida","Professional","PacificIslander",868
+2023,"Florida","Professional","White",164208
+2023,"Georgia","Professional","AmericanIndian",324
+2023,"Georgia","Professional","Asian",27554
+2023,"Georgia","Professional","Black",30108
+2023,"Georgia","Professional","Hispanic",9984
+2023,"Georgia","Professional","Multiracial",4714
+2023,"Georgia","Professional","PacificIslander",474
+2023,"Georgia","Professional","White",91166
+2023,"Hawaii","Professional","AmericanIndian",42
+2023,"Hawaii","Professional","Asian",4184
+2023,"Hawaii","Professional","Black",512
+2023,"Hawaii","Professional","Hispanic",706
+2023,"Hawaii","Professional","Multiracial",1458
+2023,"Hawaii","Professional","PacificIslander",792
+2023,"Hawaii","Professional","White",4686
+2023,"Idaho","Professional","AmericanIndian",102
+2023,"Idaho","Professional","Asian",952
+2023,"Idaho","Professional","Black",180
+2023,"Idaho","Professional","Hispanic",790
+2023,"Idaho","Professional","Multiracial",584
+2023,"Idaho","Professional","PacificIslander",54
+2023,"Idaho","Professional","White",15518
+2023,"Illinois","Professional","AmericanIndian",472
+2023,"Illinois","Professional","Asian",41866
+2023,"Illinois","Professional","Black",16926
+2023,"Illinois","Professional","Hispanic",20120
+2023,"Illinois","Professional","Multiracial",6328
+2023,"Illinois","Professional","PacificIslander",526
+2023,"Illinois","Professional","White",166340
+2023,"Indiana","Professional","AmericanIndian",110
+2023,"Indiana","Professional","Asian",5450
+2023,"Indiana","Professional","Black",3348
+2023,"Indiana","Professional","Hispanic",2246
+2023,"Indiana","Professional","Multiracial",1170
+2023,"Indiana","Professional","PacificIslander",62
+2023,"Indiana","Professional","White",41826
+2023,"Iowa","Professional","AmericanIndian",0
+2023,"Iowa","Professional","Asian",1152
+2023,"Iowa","Professional","Black",472
+2023,"Iowa","Professional","Hispanic",678
+2023,"Iowa","Professional","Multiracial",308
+2023,"Iowa","Professional","PacificIslander",0
+2023,"Iowa","Professional","White",17228
+2023,"Kansas","Professional","AmericanIndian",168
+2023,"Kansas","Professional","Asian",3220
+2023,"Kansas","Professional","Black",2242
+2023,"Kansas","Professional","Hispanic",1990
+2023,"Kansas","Professional","Multiracial",922
+2023,"Kansas","Professional","PacificIslander",68
+2023,"Kansas","Professional","White",26898
+2023,"Kentucky","Professional","AmericanIndian",64
+2023,"Kentucky","Professional","Asian",1810
+2023,"Kentucky","Professional","Black",1484
+2023,"Kentucky","Professional","Hispanic",944
+2023,"Kentucky","Professional","Multiracial",568
+2023,"Kentucky","Professional","PacificIslander",34
+2023,"Kentucky","Professional","White",20534
+2023,"Louisiana","Professional","AmericanIndian",94
+2023,"Louisiana","Professional","Asian",1486
+2023,"Louisiana","Professional","Black",2236
+2023,"Louisiana","Professional","Hispanic",1156
+2023,"Louisiana","Professional","Multiracial",448
+2023,"Louisiana","Professional","PacificIslander",44
+2023,"Louisiana","Professional","White",19836
+2023,"Maine","Professional","AmericanIndian",48
+2023,"Maine","Professional","Asian",376
+2023,"Maine","Professional","Black",230
+2023,"Maine","Professional","Hispanic",218
+2023,"Maine","Professional","Multiracial",154
+2023,"Maine","Professional","PacificIslander",14
+2023,"Maine","Professional","White",9172
+2023,"Maryland","Professional","AmericanIndian",638
+2023,"Maryland","Professional","Asian",28678
+2023,"Maryland","Professional","Black",34156
+2023,"Maryland","Professional","Hispanic",12862
+2023,"Maryland","Professional","Multiracial",6462
+2023,"Maryland","Professional","PacificIslander",842
+2023,"Maryland","Professional","White",131674
+2023,"Massachusetts","Professional","AmericanIndian",434
+2023,"Massachusetts","Professional","Asian",50880
+2023,"Massachusetts","Professional","Black",13112
+2023,"Massachusetts","Professional","Hispanic",14812
+2023,"Massachusetts","Professional","Multiracial",6288
+2023,"Massachusetts","Professional","PacificIslander",530
+2023,"Massachusetts","Professional","White",172614
+2023,"Michigan","Professional","AmericanIndian",338
+2023,"Michigan","Professional","Asian",19280
+2023,"Michigan","Professional","Black",8956
+2023,"Michigan","Professional","Hispanic",4782
+2023,"Michigan","Professional","Multiracial",2426
+2023,"Michigan","Professional","PacificIslander",704
+2023,"Michigan","Professional","White",84980
+2023,"Minnesota","Professional","AmericanIndian",296
+2023,"Minnesota","Professional","Asian",11858
+2023,"Minnesota","Professional","Black",5220
+2023,"Minnesota","Professional","Hispanic",4334
+2023,"Minnesota","Professional","Multiracial",2166
+2023,"Minnesota","Professional","PacificIslander",216
+2023,"Minnesota","Professional","White",85506
+2023,"Mississippi","Professional","AmericanIndian",22
+2023,"Mississippi","Professional","Asian",212
+2023,"Mississippi","Professional","Black",968
+2023,"Mississippi","Professional","Hispanic",322
+2023,"Mississippi","Professional","Multiracial",140
+2023,"Mississippi","Professional","PacificIslander",16
+2023,"Mississippi","Professional","White",5526
+2023,"Missouri","Professional","AmericanIndian",370
+2023,"Missouri","Professional","Asian",9240
+2023,"Missouri","Professional","Black",6522
+2023,"Missouri","Professional","Hispanic",4504
+2023,"Missouri","Professional","Multiracial",2298
+2023,"Missouri","Professional","PacificIslander",166
+2023,"Missouri","Professional","White",86134
+2023,"Montana","Professional","AmericanIndian",40
+2023,"Montana","Professional","Asian",228
+2023,"Montana","Professional","Black",92
+2023,"Montana","Professional","Hispanic",216
+2023,"Montana","Professional","Multiracial",110
+2023,"Montana","Professional","PacificIslander",22
+2023,"Montana","Professional","White",6692
+2023,"Nebraska","Professional","AmericanIndian",58
+2023,"Nebraska","Professional","Asian",1122
+2023,"Nebraska","Professional","Black",1166
+2023,"Nebraska","Professional","Hispanic",920
+2023,"Nebraska","Professional","Multiracial",478
+2023,"Nebraska","Professional","PacificIslander",26
+2023,"Nebraska","Professional","White",16648
+2023,"Nevada","Professional","AmericanIndian",164
+2023,"Nevada","Professional","Asian",3006
+2023,"Nevada","Professional","Black",1716
+2023,"Nevada","Professional","Hispanic",2934
+2023,"Nevada","Professional","Multiracial",2776
+2023,"Nevada","Professional","PacificIslander",208
+2023,"Nevada","Professional","White",15320
+2023,"New Hampshire","Professional","AmericanIndian",38
+2023,"New Hampshire","Professional","Asian",1600
+2023,"New Hampshire","Professional","Black",522
+2023,"New Hampshire","Professional","Hispanic",792
+2023,"New Hampshire","Professional","Multiracial",366
+2023,"New Hampshire","Professional","PacificIslander",26
+2023,"New Hampshire","Professional","White",16404
+2023,"New Jersey","Professional","AmericanIndian",564
+2023,"New Jersey","Professional","Asian",52262
+2023,"New Jersey","Professional","Black",11276
+2023,"New Jersey","Professional","Hispanic",11410
+2023,"New Jersey","Professional","Multiracial",2952
+2023,"New Jersey","Professional","PacificIslander",408
+2023,"New Jersey","Professional","White",82932
+2023,"New Mexico","Professional","AmericanIndian",910
+2023,"New Mexico","Professional","Asian",3590
+2023,"New Mexico","Professional","Black",1302
+2023,"New Mexico","Professional","Hispanic",14298
+2023,"New Mexico","Professional","Multiracial",1382
+2023,"New Mexico","Professional","PacificIslander",164
+2023,"New Mexico","Professional","White",32740
+2023,"New York","Professional","AmericanIndian",806
+2023,"New York","Professional","Asian",91578
+2023,"New York","Professional","Black",33612
+2023,"New York","Professional","Hispanic",41034
+2023,"New York","Professional","Multiracial",13630
+2023,"New York","Professional","PacificIslander",1338
+2023,"New York","Professional","White",280014
+2023,"North Carolina","Professional","AmericanIndian",550
+2023,"North Carolina","Professional","Asian",26296
+2023,"North Carolina","Professional","Black",20386
+2023,"North Carolina","Professional","Hispanic",10580
+2023,"North Carolina","Professional","Multiracial",4656
+2023,"North Carolina","Professional","PacificIslander",408
+2023,"North Carolina","Professional","White",131902
+2023,"North Dakota","Professional","AmericanIndian",42
+2023,"North Dakota","Professional","Asian",190
+2023,"North Dakota","Professional","Black",78
+2023,"North Dakota","Professional","Hispanic",88
+2023,"North Dakota","Professional","Multiracial",36
+2023,"North Dakota","Professional","PacificIslander",8
+2023,"North Dakota","Professional","White",4632
+2023,"Ohio","Professional","AmericanIndian",446
+2023,"Ohio","Professional","Asian",14962
+2023,"Ohio","Professional","Black",10868
+2023,"Ohio","Professional","Hispanic",6496
+2023,"Ohio","Professional","Multiracial",3520
+2023,"Ohio","Professional","PacificIslander",318
+2023,"Ohio","Professional","White",124850
+2023,"Oklahoma","Professional","AmericanIndian",1032
+2023,"Oklahoma","Professional","Asian",1820
+2023,"Oklahoma","Professional","Black",1760
+2023,"Oklahoma","Professional","Hispanic",1712
+2023,"Oklahoma","Professional","Multiracial",1012
+2023,"Oklahoma","Professional","PacificIslander",140
+2023,"Oklahoma","Professional","White",18710
+2023,"Oregon","Professional","AmericanIndian",178
+2023,"Oregon","Professional","Asian",4566
+2023,"Oregon","Professional","Black",1194
+2023,"Oregon","Professional","Hispanic",2320
+2023,"Oregon","Professional","Multiracial",1546
+2023,"Oregon","Professional","PacificIslander",170
+2023,"Oregon","Professional","White",29128
+2023,"Pennsylvania","Professional","AmericanIndian",260
+2023,"Pennsylvania","Professional","Asian",27662
+2023,"Pennsylvania","Professional","Black",12294
+2023,"Pennsylvania","Professional","Hispanic",8264
+2023,"Pennsylvania","Professional","Multiracial",4034
+2023,"Pennsylvania","Professional","PacificIslander",338
+2023,"Pennsylvania","Professional","White",151256
+2023,"Rhode Island","Professional","AmericanIndian",22
+2023,"Rhode Island","Professional","Asian",1688
+2023,"Rhode Island","Professional","Black",470
+2023,"Rhode Island","Professional","Hispanic",556
+2023,"Rhode Island","Professional","Multiracial",188
+2023,"Rhode Island","Professional","PacificIslander",38
+2023,"Rhode Island","Professional","White",9654
+2023,"South Carolina","Professional","AmericanIndian",134
+2023,"South Carolina","Professional","Asian",1962
+2023,"South Carolina","Professional","Black",3882
+2023,"South Carolina","Professional","Hispanic",1828
+2023,"South Carolina","Professional","Multiracial",902
+2023,"South Carolina","Professional","PacificIslander",60
+2023,"South Carolina","Professional","White",31246
+2023,"South Dakota","Professional","AmericanIndian",0
+2023,"South Dakota","Professional","Asian",108
+2023,"South Dakota","Professional","Black",44
+2023,"South Dakota","Professional","Hispanic",86
+2023,"South Dakota","Professional","Multiracial",48
+2023,"South Dakota","Professional","PacificIslander",0
+2023,"South Dakota","Professional","White",3828
+2023,"Tennessee","Professional","AmericanIndian",260
+2023,"Tennessee","Professional","Asian",9214
+2023,"Tennessee","Professional","Black",9322
+2023,"Tennessee","Professional","Hispanic",4934
+2023,"Tennessee","Professional","Multiracial",2002
+2023,"Tennessee","Professional","PacificIslander",156
+2023,"Tennessee","Professional","White",69288
+2023,"Texas","Professional","AmericanIndian",1496
+2023,"Texas","Professional","Asian",96542
+2023,"Texas","Professional","Black",39724
+2023,"Texas","Professional","Hispanic",66166
+2023,"Texas","Professional","Multiracial",11744
+2023,"Texas","Professional","PacificIslander",1462
+2023,"Texas","Professional","White",239144
+2023,"Utah","Professional","AmericanIndian",208
+2023,"Utah","Professional","Asian",4768
+2023,"Utah","Professional","Black",1976
+2023,"Utah","Professional","Hispanic",3510
+2023,"Utah","Professional","Multiracial",1776
+2023,"Utah","Professional","PacificIslander",338
+2023,"Utah","Professional","White",47000
+2023,"Vermont","Professional","AmericanIndian",0
+2023,"Vermont","Professional","Asian",584
+2023,"Vermont","Professional","Black",120
+2023,"Vermont","Professional","Hispanic",140
+2023,"Vermont","Professional","Multiracial",76
+2023,"Vermont","Professional","PacificIslander",0
+2023,"Vermont","Professional","White",3308
+2023,"Virginia","Professional","AmericanIndian",1602
+2023,"Virginia","Professional","Asian",71632
+2023,"Virginia","Professional","Black",78176
+2023,"Virginia","Professional","Hispanic",33380
+2023,"Virginia","Professional","Multiracial",16338
+2023,"Virginia","Professional","PacificIslander",2298
+2023,"Virginia","Professional","White",287522
+2023,"Washington","Professional","AmericanIndian",514
+2023,"Washington","Professional","Asian",37730
+2023,"Washington","Professional","Black",4764
+2023,"Washington","Professional","Hispanic",7844
+2023,"Washington","Professional","Multiracial",5122
+2023,"Washington","Professional","PacificIslander",798
+2023,"Washington","Professional","White",88666
+2023,"West Virginia","Professional","AmericanIndian",18
+2023,"West Virginia","Professional","Asian",314
+2023,"West Virginia","Professional","Black",354
+2023,"West Virginia","Professional","Hispanic",150
+2023,"West Virginia","Professional","Multiracial",120
+2023,"West Virginia","Professional","PacificIslander",6
+2023,"West Virginia","Professional","White",7002
+2023,"Wisconsin","Professional","AmericanIndian",178
+2023,"Wisconsin","Professional","Asian",7992
+2023,"Wisconsin","Professional","Black",2348
+2023,"Wisconsin","Professional","Hispanic",3078
+2023,"Wisconsin","Professional","Multiracial",1680
+2023,"Wisconsin","Professional","PacificIslander",360
+2023,"Wisconsin","Professional","White",62750
+2023,"Wyoming","Professional","AmericanIndian",0
+2023,"Wyoming","Professional","Asian",36
+2023,"Wyoming","Professional","Black",20
+2023,"Wyoming","Professional","Hispanic",62
+2023,"Wyoming","Professional","Multiracial",18
+2023,"Wyoming","Professional","PacificIslander",0
+2023,"Wyoming","Professional","White",1626

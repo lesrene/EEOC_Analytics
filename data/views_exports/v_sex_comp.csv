@@ -1,0 +1,409 @@
+"Year","State","sex","Employees"
+2020,"Alabama","F",32060
+2020,"Alabama","M",64070
+2020,"Alaska","F",1768
+2020,"Alaska","M",4502
+2020,"Arizona","F",55612
+2020,"Arizona","M",81636
+2020,"Arkansas","F",8240
+2020,"Arkansas","M",10074
+2020,"California","F",528362
+2020,"California","M",717666
+2020,"Colorado","F",73448
+2020,"Colorado","M",113302
+2020,"Connecticut","F",33850
+2020,"Connecticut","M",54660
+2020,"Delaware","F",8074
+2020,"Delaware","M",7984
+2020,"District of Columbia","F",66792
+2020,"District of Columbia","M",64130
+2020,"Florida","F",177790
+2020,"Florida","M",202064
+2020,"Georgia","F",126928
+2020,"Georgia","M",156280
+2020,"Hawaii","F",5506
+2020,"Hawaii","M",6950
+2020,"Idaho","F",9066
+2020,"Idaho","M",21724
+2020,"Illinois","F",171122
+2020,"Illinois","M",206978
+2020,"Indiana","F",38580
+2020,"Indiana","M",50026
+2020,"Iowa","F",12746
+2020,"Iowa","M",15188
+2020,"Kansas","F",26504
+2020,"Kansas","M",32344
+2020,"Kentucky","F",19908
+2020,"Kentucky","M",25256
+2020,"Louisiana","F",17392
+2020,"Louisiana","M",27944
+2020,"Maine","F",9136
+2020,"Maine","M",9558
+2020,"Maryland","F",108536
+2020,"Maryland","M",155918
+2020,"Massachusetts","F",162092
+2020,"Massachusetts","M",210172
+2020,"Michigan","F",83436
+2020,"Michigan","M",118804
+2020,"Minnesota","F",66850
+2020,"Minnesota","M",84072
+2020,"Mississippi","F",7590
+2020,"Mississippi","M",4830
+2020,"Missouri","F",81866
+2020,"Missouri","M",100670
+2020,"Montana","F",2414
+2020,"Montana","M",4066
+2020,"Nebraska","F",14382
+2020,"Nebraska","M",16402
+2020,"Nevada","F",19788
+2020,"Nevada","M",26812
+2020,"New Hampshire","F",11476
+2020,"New Hampshire","M",17426
+2020,"New Jersey","F",117020
+2020,"New Jersey","M",149790
+2020,"New Mexico","F",23134
+2020,"New Mexico","M",46214
+2020,"New York","F",320384
+2020,"New York","M",358252
+2020,"North Carolina","F",112594
+2020,"North Carolina","M",123630
+2020,"North Dakota","F",3168
+2020,"North Dakota","M",4390
+2020,"Ohio","F",98686
+2020,"Ohio","M",122476
+2020,"Oklahoma","F",16090
+2020,"Oklahoma","M",22342
+2020,"Oregon","F",24042
+2020,"Oregon","M",31304
+2020,"Pennsylvania","F",136686
+2020,"Pennsylvania","M",164206
+2020,"Rhode Island","F",6122
+2020,"Rhode Island","M",7420
+2020,"South Carolina","F",27676
+2020,"South Carolina","M",34606
+2020,"South Dakota","F",2600
+2020,"South Dakota","M",2670
+2020,"Tennessee","F",58938
+2020,"Tennessee","M",67378
+2020,"Texas","F",249496
+2020,"Texas","M",372696
+2020,"Utah","F",37034
+2020,"Utah","M",65138
+2020,"Vermont","F",1542
+2020,"Vermont","M",2262
+2020,"Virginia","F",252154
+2020,"Virginia","M",386368
+2020,"Washington","F",80122
+2020,"Washington","M",116628
+2020,"West Virginia","F",4590
+2020,"West Virginia","M",6660
+2020,"Wisconsin","F",50832
+2020,"Wisconsin","M",65540
+2020,"Wyoming","F",396
+2020,"Wyoming","M",654
+2021,"Alabama","F",32580
+2021,"Alabama","M",67020
+2021,"Alaska","F",2214
+2021,"Alaska","M",5148
+2021,"Arizona","F",64910
+2021,"Arizona","M",91476
+2021,"Arkansas","F",11994
+2021,"Arkansas","M",12694
+2021,"California","F",615848
+2021,"California","M",828720
+2021,"Colorado","F",78732
+2021,"Colorado","M",121290
+2021,"Connecticut","F",40386
+2021,"Connecticut","M",60286
+2021,"Delaware","F",8336
+2021,"Delaware","M",9106
+2021,"District of Columbia","F",69958
+2021,"District of Columbia","M",64602
+2021,"Florida","F",204080
+2021,"Florida","M",228700
+2021,"Georgia","F",144358
+2021,"Georgia","M",170150
+2021,"Hawaii","F",6358
+2021,"Hawaii","M",9198
+2021,"Idaho","F",8602
+2021,"Idaho","M",21594
+2021,"Illinois","F",196622
+2021,"Illinois","M",239490
+2021,"Indiana","F",41704
+2021,"Indiana","M",57914
+2021,"Iowa","F",14244
+2021,"Iowa","M",15898
+2021,"Kansas","F",27372
+2021,"Kansas","M",32538
+2021,"Kentucky","F",23428
+2021,"Kentucky","M",30812
+2021,"Louisiana","F",21038
+2021,"Louisiana","M",30226
+2021,"Maine","F",7012
+2021,"Maine","M",6586
+2021,"Maryland","F",126228
+2021,"Maryland","M",172592
+2021,"Massachusetts","F",174864
+2021,"Massachusetts","M",222648
+2021,"Michigan","F",93408
+2021,"Michigan","M",122628
+2021,"Minnesota","F",72444
+2021,"Minnesota","M",86368
+2021,"Mississippi","F",8810
+2021,"Mississippi","M",6648
+2021,"Missouri","F",88676
+2021,"Missouri","M",107420
+2021,"Montana","F",2440
+2021,"Montana","M",3892
+2021,"Nebraska","F",13746
+2021,"Nebraska","M",17752
+2021,"Nevada","F",23818
+2021,"Nevada","M",29766
+2021,"New Hampshire","F",11190
+2021,"New Hampshire","M",18604
+2021,"New Jersey","F",142110
+2021,"New Jersey","M",177558
+2021,"New Mexico","F",23610
+2021,"New Mexico","M",46794
+2021,"New York","F",362766
+2021,"New York","M",380246
+2021,"North Carolina","F",137888
+2021,"North Carolina","M",147010
+2021,"North Dakota","F",3238
+2021,"North Dakota","M",4578
+2021,"Ohio","F",125134
+2021,"Ohio","M",140798
+2021,"Oklahoma","F",17304
+2021,"Oklahoma","M",23214
+2021,"Oregon","F",26328
+2021,"Oregon","M",31928
+2021,"Pennsylvania","F",160002
+2021,"Pennsylvania","M",186374
+2021,"Rhode Island","F",7178
+2021,"Rhode Island","M",9080
+2021,"South Carolina","F",31242
+2021,"South Carolina","M",36890
+2021,"South Dakota","F",3026
+2021,"South Dakota","M",3206
+2021,"Tennessee","F",63100
+2021,"Tennessee","M",69404
+2021,"Texas","F",302138
+2021,"Texas","M",432784
+2021,"Utah","F",55802
+2021,"Utah","M",75392
+2021,"Vermont","F",2466
+2021,"Vermont","M",2626
+2021,"Virginia","F",275202
+2021,"Virginia","M",416270
+2021,"Washington","F",90540
+2021,"Washington","M",126898
+2021,"West Virginia","F",4508
+2021,"West Virginia","M",5872
+2021,"Wisconsin","F",54802
+2021,"Wisconsin","M",68532
+2021,"Wyoming","F",336
+2021,"Wyoming","M",588
+2022,"Alabama","F",43366
+2022,"Alabama","M",80042
+2022,"Alaska","F",4970
+2022,"Alaska","M",9126
+2022,"Arizona","F",93130
+2022,"Arizona","M",109084
+2022,"Arkansas","F",18154
+2022,"Arkansas","M",16956
+2022,"California","F",756904
+2022,"California","M",983948
+2022,"Colorado","F",109038
+2022,"Colorado","M",162240
+2022,"Connecticut","F",54682
+2022,"Connecticut","M",70126
+2022,"Delaware","F",9522
+2022,"Delaware","M",11294
+2022,"District of Columbia","F",90856
+2022,"District of Columbia","M",84428
+2022,"Florida","F",282588
+2022,"Florida","M",309506
+2022,"Georgia","F",165270
+2022,"Georgia","M",204696
+2022,"Hawaii","F",10138
+2022,"Hawaii","M",13610
+2022,"Idaho","F",11538
+2022,"Idaho","M",25198
+2022,"Illinois","F",239222
+2022,"Illinois","M",278336
+2022,"Indiana","F",53712
+2022,"Indiana","M",68562
+2022,"Iowa","F",19988
+2022,"Iowa","M",22994
+2022,"Kansas","F",34040
+2022,"Kansas","M",38666
+2022,"Kentucky","F",31404
+2022,"Kentucky","M",37838
+2022,"Louisiana","F",29648
+2022,"Louisiana","M",40920
+2022,"Maine","F",12512
+2022,"Maine","M",11964
+2022,"Maryland","F",141162
+2022,"Maryland","M",202958
+2022,"Massachusetts","F",211092
+2022,"Massachusetts","M",254370
+2022,"Michigan","F",109106
+2022,"Michigan","M",138378
+2022,"Minnesota","F",110024
+2022,"Minnesota","M",123022
+2022,"Mississippi","F",10482
+2022,"Mississippi","M",9570
+2022,"Missouri","F",104196
+2022,"Missouri","M",120520
+2022,"Montana","F",5574
+2022,"Montana","M",8270
+2022,"Nebraska","F",20858
+2022,"Nebraska","M",22460
+2022,"Nevada","F",38996
+2022,"Nevada","M",43746
+2022,"New Hampshire","F",14058
+2022,"New Hampshire","M",20338
+2022,"New Jersey","F",170184
+2022,"New Jersey","M",207336
+2022,"New Mexico","F",29400
+2022,"New Mexico","M",57842
+2022,"New York","F",444578
+2022,"New York","M",468314
+2022,"North Carolina","F",182716
+2022,"North Carolina","M",189818
+2022,"North Dakota","F",4820
+2022,"North Dakota","M",6594
+2022,"Ohio","F",157638
+2022,"Ohio","M",172374
+2022,"Oklahoma","F",28014
+2022,"Oklahoma","M",34538
+2022,"Oregon","F",36198
+2022,"Oregon","M",41848
+2022,"Pennsylvania","F",198706
+2022,"Pennsylvania","M",223824
+2022,"Rhode Island","F",10160
+2022,"Rhode Island","M",11212
+2022,"South Carolina","F",35940
+2022,"South Carolina","M",47980
+2022,"South Dakota","F",5570
+2022,"South Dakota","M",5546
+2022,"Tennessee","F",98232
+2022,"Tennessee","M",90922
+2022,"Texas","F",392664
+2022,"Texas","M",535018
+2022,"Utah","F",67292
+2022,"Utah","M",82734
+2022,"Vermont","F",3928
+2022,"Vermont","M",4964
+2022,"Virginia","F",325114
+2022,"Virginia","M",486932
+2022,"Washington","F",115750
+2022,"Washington","M",156326
+2022,"West Virginia","F",6948
+2022,"West Virginia","M",10584
+2022,"Wisconsin","F",72710
+2022,"Wisconsin","M",85102
+2022,"Wyoming","F",1952
+2022,"Wyoming","M",2764
+2023,"Alabama","F",46366
+2023,"Alabama","M",85738
+2023,"Alaska","F",4990
+2023,"Alaska","M",9764
+2023,"Arizona","F",90076
+2023,"Arizona","M",109646
+2023,"Arkansas","F",22252
+2023,"Arkansas","M",19620
+2023,"California","F",718668
+2023,"California","M",902402
+2023,"Colorado","F",112780
+2023,"Colorado","M",163500
+2023,"Connecticut","F",52104
+2023,"Connecticut","M",67464
+2023,"Delaware","F",9954
+2023,"Delaware","M",11218
+2023,"District of Columbia","F",93540
+2023,"District of Columbia","M",86346
+2023,"Florida","F",284466
+2023,"Florida","M",326286
+2023,"Georgia","F",158338
+2023,"Georgia","M",196398
+2023,"Hawaii","F",10894
+2023,"Hawaii","M",14686
+2023,"Idaho","F",12358
+2023,"Idaho","M",25848
+2023,"Illinois","F",243166
+2023,"Illinois","M",279898
+2023,"Indiana","F",59522
+2023,"Indiana","M",72902
+2023,"Iowa","F",18038
+2023,"Iowa","M",22804
+2023,"Kansas","F",37036
+2023,"Kansas","M",41308
+2023,"Kentucky","F",29622
+2023,"Kentucky","M",37142
+2023,"Louisiana","F",27642
+2023,"Louisiana","M",41088
+2023,"Maine","F",12138
+2023,"Maine","M",10894
+2023,"Maryland","F",150910
+2023,"Maryland","M",207974
+2023,"Massachusetts","F",221258
+2023,"Massachusetts","M",257490
+2023,"Michigan","F",120524
+2023,"Michigan","M",143964
+2023,"Minnesota","F",101668
+2023,"Minnesota","M",114748
+2023,"Mississippi","F",10070
+2023,"Mississippi","M",10566
+2023,"Missouri","F",108910
+2023,"Missouri","M",125126
+2023,"Montana","F",5894
+2023,"Montana","M",8734
+2023,"Nebraska","F",22594
+2023,"Nebraska","M",23176
+2023,"Nevada","F",45508
+2023,"Nevada","M",48734
+2023,"New Hampshire","F",16780
+2023,"New Hampshire","M",24274
+2023,"New Jersey","F",181308
+2023,"New Jersey","M",202938
+2023,"New Mexico","F",31482
+2023,"New Mexico","M",61954
+2023,"New York","F",459170
+2023,"New York","M",472012
+2023,"North Carolina","F",180330
+2023,"North Carolina","M",191264
+2023,"North Dakota","F",4828
+2023,"North Dakota","M",6688
+2023,"Ohio","F",166356
+2023,"Ohio","M",180448
+2023,"Oklahoma","F",29128
+2023,"Oklahoma","M",35038
+2023,"Oregon","F",38312
+2023,"Oregon","M",43818
+2023,"Pennsylvania","F",199666
+2023,"Pennsylvania","M",222334
+2023,"Rhode Island","F",11234
+2023,"Rhode Island","M",12504
+2023,"South Carolina","F",38518
+2023,"South Carolina","M",52734
+2023,"South Dakota","F",5548
+2023,"South Dakota","M",5948
+2023,"Tennessee","F",122362
+2023,"Tennessee","M",99884
+2023,"Texas","F",419568
+2023,"Texas","M",551962
+2023,"Utah","F",66078
+2023,"Utah","M",73960
+2023,"Vermont","F",4288
+2023,"Vermont","M",4370
+2023,"Virginia","F",329112
+2023,"Virginia","M",486696
+2023,"Washington","F",109752
+2023,"Washington","M",150688
+2023,"West Virginia","F",7144
+2023,"West Virginia","M",10244
+2023,"Wisconsin","F",67004
+2023,"Wisconsin","M",78784
+2023,"Wyoming","F",2208
+2023,"Wyoming","M",3304
